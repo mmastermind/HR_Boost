@@ -1,0 +1,1300 @@
+EJECUTIVOS EN SERVICIOS DE ALIMENTOS, S.A. DE C.V.                                                                      Pagina: 0001
+R.F.C.:                                                                                                                    2/NOV/19
+REPORTE BASE DE DATOS
+ 
+                                                                                                                                                              01= Diurna
+ 
+Codigo Nombre                                   Fecha nac    Sexo         Edo Civi     # Depto      Departamento                    F.Ingreso    F.Baja       Tipo Jornad  Puesto                          C.P.         Estado
+..........................................................................................................................................................................................................................................
+8071   ABIGAIL HERNANDEZ NATIVITAS              26/ENE/1995  FEMENINO     SOLTERO      25           AKZO NOBEL                      31/JUL/2019   0/  0/0000  1            AYUDANTE DE SERVICIO A          56386        ESTADO DE MEXICO
+7840   ADELINA HERNANDEZ CASTILLO               30/DIC/1985  FEMENINO     SOLTERO      87           INTERNATIONAL PAPER             27/DIC/2018   4/FEB/2019  1            SUPERVISOR DE COMEDOR B         50290        ESTADO DE MEXICO
+7879   ADRIAN CARMONA ACOSTA                    28/DIC/1993  MASCULINO    SOLTERO      72           LALA LOS REYES                  11/FEB/2019  22/JUL/2019  1            AYUDANTE DE SERVICIO A          09630        CIUDAD DE MEXICO
+7505   ADRIAN FRANCO RAMIREZ                    30/SEP/1989  MASCULINO    SOLTERO      82           CEMEX BARRIENTOS                19/SEP/2017  21/FEB/2019  1            AYUDANTE DE COCINA E            54948        ESTADO DE MEXICO
+6600   ADRIANA GONZALEZ ROMERO                   8/FEB/1973  FEMENINO     SOLTERO      80           CAFETERIA PRICE SHOES VALLEJO    1/OCT/2015   0/  0/0000  1            AYUDANTE DE SERVICIO B 19       07460        CIUDAD DE MEXICO
+7685   ADRIANA LOPEZ ADAUTA                     23/NOV/1995  FEMENINO     SOLTERO      05           PRODUCCION CENTENO               8/JUN/2018   0/  0/0000  1            AYUDANTE DE SERVICIO B 19       56617        ESTADO DE MEXICO
+7331   ADRIANA VIZCAYA VAZQUEZ                   2/ABR/1977  FEMENINO     CASADO       45           MEX EXPRESS                      4/SEP/2018   8/AGO/2019  1            AYUDANTE DE SERVICIO A          08100        CIUDAD DE MEXICO
+5933   AGAPITA DE GANTE HERNANDEZ                6/AGO/1962  FEMENINO     SOLTERO      51           LALA VALLEJO                     1/SEP/2014   0/  0/0000  1            AYUDANTE DE SERVICIO B 19       07600        CIUDAD DE MEXICO
+7170   AIDE ALEJANDRA MORALES NIEVES             9/MAY/1978  FEMENINO     SOLTERO      57           LALA SANTA CLARA                17/NOV/2016   0/  0/0000  1            AYUDANTE DE SERVICIO B 19       55055        ESTADO DE MEXICO
+7774   AIDE ARANDA FERNANDEZ                     7/DIC/1995  FEMENINO     CASADO       87           INTERNATIONAL PAPER             27/SEP/2018  14/ENE/2019  1            AYUDANTE DE SERVICIO A          50200        ESTADO DE MEXICO
+5201   ALDEGUNDA LEYVA FLORES                   30/ENE/1974  FEMENINO     SOLTERO      82           CEMEX BARRIENTOS                11/JUN/2018   0/  0/0000  1            COCINERO F 19                   54803        ESTADO DE MEXICO
+3890   ALEJANDRA MARTINEZ NAVA                  29/MAY/1972  FEMENINO     SOLTERO      06           SUPERVISION                     24/MAY/2010   0/  0/0000  1            SUPERVISOR DE COMEDOR B 18      56570        ESTADO DE MEXICO
+7834   ALEJANDRA MENDOZA PALOMINO               25/OCT/1973  FEMENINO     SOLTERO      54           LALA TULTITLAN                  12/DIC/2018   0/  0/0000  1            AYUDANTE DE COCINA E            54948        ESTADO DE MEXICO
+7851   ALEJANDRA TREJO RAMIREZ                   2/FEB/1980  FEMENINO     SOLTERO      51           LALA VALLEJO                    11/ENE/2019   8/MAR/2019  1            AYUDANTE DE SERVICIO A          07220        CIUDAD DE MEXICO
+7867   ALEJANDRO DIAZ REYES                     10/JUL/1981  MASCULINO    SOLTERO      87           INTERNATIONAL PAPER             28/ENE/2019  30/ENE/2019  1            AYUDANTE DE SERVICIO D          50900        ESTADO DE MEXICO
+8050   ALEJANDRO GARCIA VAZQUEZ                 27/SEP/1983  MASCULINO    SOLTERO      50           LALA CEYLAN                      8/JUL/2019   5/AGO/2019  1            COCINERO D                      07530        CIUDAD DE MEXICO
+8083   ALEJANDRO SOLIS MOCTEZUMA                23/SEP/1966  MASCULINO    CASADO       61           LALA ATIZAPAN                    8/AGO/2019   0/  0/0000  1            COCINERO D                      54426        ESTADO DE MEXICO
+8051   ALEXIS ARELLANES BOHORQUEZ               11/MAR/1998  MASCULINO    SOLTERO      88           TOYOTA                          10/JUL/2019  22/JUL/2019  1            AYUDANTE DE SERVICIO A          53760        ESTADO DE MEXICO
+8094   ALEXIS LOPEZ PEREZ                        4/ENE/1997  MASCULINO    SOLTERO      50           LALA CEYLAN                     16/AGO/2019  26/AGO/2019  1            COCINERO D                      55028        ESTADO DE MEXICO
+3652   ALFONSO RAMIREZ GARCIA                   23/ENE/1963  MASCULINO    CASADO       81           BBVA TECNOPARQUE                12/SEP/2016  27/MAY/2019  1            ENCARGADO DE COMEDOR            55390        ESTADO DE MEXICO
+1123   ALICIA DIAZ RAYO                         16/JUN/1962  FEMENINO     SOLTERO      59           LALA TEXCOCO                     2/ENE/2006   0/  0/0000  1            COCINERO D 19                   56495        ESTADO DE MEXICO
+4044   ALICIA SERRANO DE LA PAZ                 28/OCT/1967  FEMENINO     CASADO       50           LALA CEYLAN                     10/SEP/2018  11/MAR/2019  1            COCINERO E                      55139        ESTADO DE MEXICO
+7593   ALIDA BENITEZ HERNANDEZ                   7/OCT/1988  FEMENINO     SOLTERO      45           MEX EXPRESS                      2/FEB/2018   2/ABR/2019  1            AYUDANTE DE SERVICIO B 19       07990        CIUDAD DE MEXICO
+8000   ALMA ADRIANA GARCIA ROSAS                 8/SEP/1970  FEMENINO     CASADO       37           BIMBO                           28/MAY/2019  10/JUN/2019  1            AYUDANTE DE SERVICIO A          02400        CIUDAD DE MEXICO
+8144   ALMA LUCERO HERNANDEZ ZAMARRIPA          23/MAR/1988  FEMENINO     SOLTERO      82           CEMEX BARRIENTOS                 2/OCT/2019   0/  0/0000  1            AYUDANTE DE SERVICIO A          54950        ESTADO DE MEXICO
+8049   ALMA ROSA ELIAS GONZALEZ                 21/MAR/1977  FEMENINO     CASADO       68           LALA VALLE SUR                   8/JUL/2019   0/  0/0000  1            AYUDANTE DE SERVICIO A          08000        CIUDAD DE MEXICO
+7959   ALMA ROSA UTRERA MORATO                  30/AGO/1977  FEMENINO     SOLTERO      04           PRODUCTOS DE UVA                16/ABR/2019  19/AGO/2019  1            AYUDANTE DE SERVICIO A          54130        ESTADO DE MEXICO
+8013   ANA GABRIELA HERNANDEZ ALVAREZ           27/FEB/1991  FEMENINO     SOLTERO      52           LALA TLAHUAC II                 10/JUN/2019  17/JUN/2019  1            AYUDANTE DE SERVICIO A          09960        CIUDAD DE MEXICO
+8016   ANA JANET GUTIERREZ FONSECA              11/MAR/1997  FEMENINO     SOLTERO      25           AKZO NOBEL                      12/JUN/2019  29/JUL/2019  1            AYUDANTE DE SERVICIO A          56585        ESTADO DE MEXICO
+8100   ANA KAREN HERNANDEZ AGUILAR               6/MAY/1997  FEMENINO     SOLTERO      06           SUPERVISION                     28/AGO/2019   0/  0/0000  1            AYUDANTE DE SERVICIO A          56514        ESTADO DE MEXICO
+8085   ANA KAREN LUNA SERRALDE                  11/NOV/1992  FEMENINO     SOLTERO      52           LALA TLAHUAC II                 12/AGO/2019  16/SEP/2019  1            AYUDANTE DE SERVICIO A          13220        CIUDAD DE MEXICO
+8066   ANA LAURA MORALES GARCIA                 13/ABR/1982  FEMENINO     SOLTERO      60           LALA TECAMAC                    22/JUL/2019   0/  0/0000  1            AYUDANTE DE SERVICIO A          55067        ESTADO DE MEXICO
+8161   ANA LILIA HERNANDEZ SANCHEZ              21/JUN/1986  FEMENINO     SOLTERO      56           LALA MIXCOAC                    18/OCT/2019   0/  0/0000  1            AYUDANTE DE SERVICIO A          01510        CIUDAD DE MEXICO
+7977   ANA MARIA CARRILLO CARRILLO              21/ABR/1972  FEMENINO     CASADO       88           TOYOTA                           6/MAY/2019   0/  0/0000  1            AYUDANTE DE SERVICIO A          53660        ESTADO DE MEXICO
+8040   ANA MARIA CRUZ GASGA                      7/JUL/1994  FEMENINO     SOLTERO      25           AKZO NOBEL                       2/JUL/2019  16/JUL/2019  1            AYUDANTE DE SERVICIO A          57940        ESTADO DE MEXICO
+7903   ANA PAOLA SANCHEZ LUNA                   18/DIC/1985  FEMENINO     SOLTERO      85           SIGNA                            4/MAR/2019  18/MAR/2019  1            AYUDANTE DE SERVICIO A          50010        ESTADO DE MEXICO
+8021   ANA SILVIA HERNANDEZ HERNANDEZ           29/MAY/1978  FEMENINO     CASADO       68           LALA VALLE SUR                  17/JUN/2019  15/JUL/2019  1            AYUDANTE DE SERVICIO A          08040        CIUDAD DE MEXICO
+8027   ANA VICTORIA CABALLERO GONZALEZ          17/NOV/1991  FEMENINO     SOLTERO      50           LALA CEYLAN                     24/JUN/2019   8/OCT/2019  1            AYUDANTE DE SERVICIO A          02750        CIUDAD DE MEXICO
+8088   ANA YAZMIN GONZALEZ MORA                 13/ABR/1990  FEMENINO     SOLTERO      61           LALA ATIZAPAN                   13/AGO/2019   0/  0/0000  1            AYUDANTE DE SERVICIO A          52918        ESTADO DE MEXICO
+7931   ANABEL GUZMAN ESPINOZA                   31/JUL/1978  FEMENINO     SOLTERO      83           INGREDION                       26/MAR/2019   4/ABR/2019  1            AYUDANTE DE SERVICIO A          52918        ESTADO DE MEXICO
+7865   ANABEL JARDON MARTINEZ                    9/MAY/1981  FEMENINO     CASADO       75           SOMAR PLANTA VALLE              24/ENE/2019  24/ABR/2019  1            AYUDANTE DE SERVICIO A          04600        CIUDAD DE MEXICO
+8123   ANABELL PEREZ JACINTO                     8/ABR/1985  FEMENINO     SOLTERO      59           LALA TEXCOCO                    18/SEP/2019   0/  0/0000  1            AYUDANTE DE SERVICIO A          56272        ESTADO DE MEXICO
+7986   ANAI LILIA ANGEL LOPEZ                   23/FEB/1988  FEMENINO     SOLTERO      50           LALA CEYLAN                     14/MAY/2019  19/AGO/2019  1            AYUDANTE DE SERVICIO A          02310        CIUDAD DE MEXICO
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EJECUTIVOS EN SERVICIOS DE ALIMENTOS, S.A. DE C.V.                                                                      Pagina: 0002
+R.F.C.:                                                                                                                    2/NOV/19
+REPORTE BASE DE DATOS
+ 
+                                                                                                                                                              01= Diurna
+ 
+Codigo Nombre                                   Fecha nac    Sexo         Edo Civi     # Depto      Departamento                    F.Ingreso    F.Baja       Tipo Jornad  Puesto                          C.P.         Estado
+..........................................................................................................................................................................................................................................
+7998   ANAYELI VALDEZ VALENTE                   20/ENE/1988  FEMENINO     SOLTERO      52           LALA TLAHUAC II                 28/MAY/2019   5/JUN/2019  1            AYUDANTE DE SERVICIO A          09690        CIUDAD DE MEXICO
+7916   ANAYELI VELAZQUEZ GONZALEZ               11/MAY/1989  FEMENINO     SOLTERO      85           SIGNA                           11/MAR/2019  18/MAR/2019  1            AYUDANTE DE SERVICIO A          50010        ESTADO DE MEXICO
+8143   ANDREA ORTIZ CHAVEZ                      29/AGO/1980  FEMENINO     SOLTERO      87           INTERNATIONAL PAPER             30/SEP/2019   0/  0/0000  1            COCINERO D                      50010        ESTADO DE MEXICO
+8132   ANDREA ZARATE CAMPOS                     13/AGO/1990  FEMENINO     SOLTERO      56           LALA MIXCOAC                    24/SEP/2019   0/  0/0000  1            AYUDANTE DE SERVICIO A          01140        CIUDAD DE MEXICO
+8112   ANDRES MAURICIO ROJAS GARCIA              3/FEB/1966  MASCULINO    CASADO       50           LALA CEYLAN                      5/SEP/2019   0/  0/0000  1            COCINERO D                      54948        ESTADO DE MEXICO
+8074   ANGEL EDUARDO FERNANDEZ RODRIGUEZ        30/ENE/1980  MASCULINO    SOLTERO      50           LALA CEYLAN                     31/JUL/2019  26/AGO/2019  1            COCINERO D                      06430        CIUDAD DE MEXICO
+8022   ANGELA PAOLA GARCIA SALCEDO               8/SEP/1982  FEMENINO     SOLTERO      56           LALA MIXCOAC                    18/JUN/2019   8/JUL/2019  1            AYUDANTE DE SERVICIO A          01140        CIUDAD DE MEXICO
+7866   ANGELICA LEYVA TEUTLI                     1/MAY/1980  FEMENINO     SOLTERO      45           MEX EXPRESS                     25/ENE/2019  30/ENE/2019  1            AYUDANTE DE SERVICIO A          08500        CIUDAD DE MEXICO
+7259   ANGELICA SANCHEZ PAREDES                 26/MAY/1966  FEMENINO     SOLTERO      81           BBVA TECNOPARQUE                 8/FEB/2017   0/  0/0000  1            AYUDANTE DE SERVICIO B 19       02230        CIUDAD DE MEXICO
+8073   ANGELO CHAYANNE VELAZQUEZ GUTIERREZ       5/OCT/1996  FEMENINO     CASADO       57           LALA SANTA CLARA                 1/AGO/2019  30/SEP/2019  1            AYUDANTE DE SERVICIO A          55023        ESTADO DE MEXICO
+8142   ANGELO HERNANDEZ IZALDE                   5/ENE/1979  MASCULINO    CASADO       54           LALA TULTITLAN                   1/OCT/2019   9/OCT/2019  1            AYUDANTE DE SERVICIO A          54803        ESTADO DE MEXICO
+7312   ANTONIA MARIA HERNANDEZ RAMIREZ          28/JUN/1972  FEMENINO     CASADO       87           INTERNATIONAL PAPER              9/MAR/2017   7/OCT/2019  1            AYUDANTE DE SERVICIO D          50010        ESTADO DE MEXICO
+7975   ANTONIA MARISELA GARCIA GUTIERREZ        31/AGO/1964  MASCULINO    SOLTERO      83           INGREDION                        3/MAY/2019   8/JUL/2019  1            AYUDANTE DE SERVICIO A          55796        ESTADO DE MEXICO
+7338   ANTONIA MATIAS HERNANDEZ                 29/SEP/1965  FEMENINO     SOLTERO      82           CEMEX BARRIENTOS                31/MAR/2017   0/  0/0000  1            AYUDANTE DE COCINA E            54930        ESTADO DE MEXICO
+5677   ARACELI GONZALEZ MARTINEZ                24/OCT/1983  FEMENINO     SOLTERO      87           INTERNATIONAL PAPER             21/DIC/2013   0/  0/0000  1            COCINERO D 19                   50290        ESTADO DE MEXICO
+8149   ARACELI GUTIERREZ VAZQUEZ                27/JUL/1972  FEMENINO     CASADO       73           LALA CHALCO                      8/OCT/2019  15/OCT/2019  1            AYUDANTE DE SERVICIO A          56585        ESTADO DE MEXICO
+7737   ARACELI LOPEZ GARCIA                      4/MAY/1963  FEMENINO     SOLTERO      87           INTERNATIONAL PAPER             16/AGO/2018  18/ABR/2019  1            AYUDANTE DE SERVICIO B 19       50290        ESTADO DE MEXICO
+4008   ARELI GUZMAN GONZALEZ                    21/MAR/1982  FEMENINO     SOLTERO      50           LALA CEYLAN                     14/ENE/2019  11/FEB/2019  1            ENCARGADA DE COMEDOR            04369        CIUDAD DE MEXICO
+8078   ARELY LIZETH LUNA GOMEZ                  29/DIC/1997  FEMENINO     SOLTERO      74           SOMAR CORPORATIVO                6/AGO/2019   0/  0/0000  1            AYUDANTE DE SERVICIO A          09704        CIUDAD DE MEXICO
+8023   ARIADNA HERNANDEZ GONZALEZ               29/MAY/1978  FEMENINO     SOLTERO      50           LALA CEYLAN                     21/JUN/2019   0/  0/0000  1            AYUDANTE DE SERVICIO A          07469        CIUDAD DE MEXICO
+6210   ARNULFO MORALES ALVAREZ                  18/JUL/1967  MASCULINO    SOLTERO      07           LIMPIEZA                        20/MAR/2015   6/MAY/2019  1            AYUDANTE DE SERVICIO B 19       09800        CIUDAD DE MEXICO
+6213   ARTURO VALDOVINOS PADILLA                28/FEB/1970  MASCULINO    SOLTERO      83           INGREDION                       16/OCT/2018   1/ABR/2019  1            AYUDANTE DE COCINA E            54030        ESTADO DE MEXICO
+7896   AUREA CRUZ LOPEZ                         10/MAR/1964  FEMENINO     SOLTERO      68           LALA VALLE SUR                  23/OCT/2019   0/  0/0000  1            AYUDANTE DE SERVICIO A          09209        CIUDAD DE MEXICO
+8042   BEATRIZ ADRIANA CARDENAS NANDUCA         23/DIC/1971  FEMENINO     VIUDO        79           LALA NAUCALPAN                   2/JUL/2019   0/  0/0000  1            AYUDANTE DE SERVICIO A          02400        CIUDAD DE MEXICO
+8096   BEATRIZ ADRIANA MARTINEZ GARDU¥O         16/JUN/1971  FEMENINO     SOLTERO      50           LALA CEYLAN                     21/AGO/2019  26/AGO/2019  1            AYUDANTE DE SERVICIO A          02050        CIUDAD DE MEXICO
+7943   BEATRIZ ALEJANDRA SANCHEZ TRUJILLO       29/ENE/1979  FEMENINO     SOLTERO      51           LALA VALLEJO                     5/ABR/2019   0/  0/0000  1            AYUDANTE DE SERVICIO A          07650        CIUDAD DE MEXICO
+7997   BELEM LIBERTAD VIOLETA HINOJOSA RODRIGUE 19/ENE/1996  FEMENINO     SOLTERO      74           SOMAR CORPORATIVO               28/MAY/2019  11/JUN/2019  1            AYUDANTE DE SERVICIO A          08400        CIUDAD DE MEXICO
+7812   BLANCA MARTINEZ GONZALEZ                  4/MAR/1974  FEMENINO     CASADO       66           NEOLPHARMA                      21/MAR/2019  17/JUN/2019  1            AYUDANTE DE SERVICIO A          50220        ESTADO DE MEXICO
+8152   BLANCA TERESITA DE JESUS SANCHEZ NOVA    17/OCT/1993  FEMENINO     SOLTERO      05           PRODUCCION CENTENO              11/OCT/2019   0/  0/0000  1            AYUDANTE DE SERVICIO A          08500        CIUDAD DE MEXICO
+0849   BLANCA VIEYRA OLVERA                     30/NOV/1958  FEMENINO     SOLTERO      83           INGREDION                        5/MAR/1997   0/  0/0000  1            MAYORA                          11280        CIUDAD DE MEXICO
+8114   BRENDA GUADALUPE ANAYA MARTINEZ          11/OCT/1997  FEMENINO     SOLTERO      81           BBVA TECNOPARQUE                 6/SEP/2019  12/SEP/2019  1            AYUDANTE DE SERVICIO A          02630        CIUDAD DE MEXICO
+7536   BRENDA LIZETH GARCIA SANDOVAL             2/JUL/1997  FEMENINO     SOLTERO      75           SOMAR PLANTA VALLE              26/OCT/2017   0/  0/0000  1            AYUDANTE DE SERVICIO B 19       01100        CIUDAD DE MEXICO
+8070   BRENDA ROSALES FLORES                     8/ENE/1995  FEMENINO     SOLTERO      37           BIMBO                           30/JUL/2019   7/AGO/2019  1            AYUDANTE DE SERVICIO A          02750        CIUDAD DE MEXICO
+8097   BRENDA VIRIDIANA LOPEZ PEREZ              1/AGO/1983  FEMENINO     SOLTERO      82           CEMEX BARRIENTOS                22/AGO/2019   2/SEP/2019  1            AYUDANTE DE SERVICIO A          54110        ESTADO DE MEXICO
+8065   BRENDA ZYANYA ANAHI BOBADILLA DE LA ROSA 17/JUN/1994  FEMENINO     SOLTERO      37           BIMBO                           25/JUL/2019  19/AGO/2019  1            AYUDANTE DE SERVICIO A          07249        CIUDAD DE MEXICO
+7430   BRISEIDA ARIADNA MENDOZA SEVERO          30/ABR/1986  FEMENINO     CASADO       85           SIGNA                            4/JUL/2017  27/MAY/2019  1            GERENTE DE UNIDAD JR/AP         50260        ESTADO DE MEXICO
+5181   CANDELARIA RETANA LOPEZ                   2/FEB/1970  FEMENINO     SOLTERO      60           LALA TECAMAC                    13/SEP/2012   0/  0/0000  1            AYUDANTE DE SERVICIO B 19       55067        ESTADO DE MEXICO
+5429   CARLOS ALBERTO HERNANDEZ MENDOZA         12/AGO/1994  MASCULINO    CASADO       50           LALA CEYLAN                     30/MAR/2019   0/  0/0000  1            SUPERVISOR DE COMEDOR B 18      54170        ESTADO DE MEXICO
+7655   CARLOS ALBERTO HERNANDEZ MEZA            22/OCT/1977  MASCULINO    SOLTERO      74           SOMAR CORPORATIVO               26/ABR/2018   1/OCT/2019  1            AYUDANTE DE SERVICIO B 19       08000        CIUDAD DE MEXICO
+7919   CARLOS BECERRIL CRUZ                     16/DIC/1984  MASCULINO    SOLTERO      50           LALA CEYLAN                     14/MAR/2019  21/MAR/2019  1            SUPERVISOR                      01130        CIUDAD DE MEXICO
+7858   CARMEN PLAZA MIRANDA                      7/MAR/1958  FEMENINO     VIUDO        50           LALA CEYLAN                     21/ENE/2019   4/FEB/2019  1            AYUDANTE DE SERVICIO A          54170        ESTADO DE MEXICO
+8126   CARMEN VIRIDIANA GUTIERREZ UBARIO         9/NOV/1995  FEMENINO     SOLTERO      05           PRODUCCION CENTENO              20/SEP/2019  30/SEP/2019  1            AYUDANTE DE SERVICIO A          08040        CIUDAD DE MEXICO
+7057   CATALINA BONILLA GODINEZ                 30/ABR/1973  FEMENINO     SOLTERO      50           LALA CEYLAN                     18/AGO/2016  10/MAY/2019  1            AYUDANTE DE SERVICIO B 19       54140        ESTADO DE MEXICO
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EJECUTIVOS EN SERVICIOS DE ALIMENTOS, S.A. DE C.V.                                                                      Pagina: 0003
+R.F.C.:                                                                                                                    2/NOV/19
+REPORTE BASE DE DATOS
+ 
+                                                                                                                                                              01= Diurna
+ 
+Codigo Nombre                                   Fecha nac    Sexo         Edo Civi     # Depto      Departamento                    F.Ingreso    F.Baja       Tipo Jornad  Puesto                          C.P.         Estado
+..........................................................................................................................................................................................................................................
+5558   CATALINA TORRES HERNANDEZ                30/ABR/1972  FEMENINO     SOLTERO      80           CAFETERIA PRICE SHOES VALLEJO   22/AGO/2013   0/  0/0000  1            AYUDANTE DE COCINA E            52928        ESTADO DE MEXICO
+4746   CECILIA REYES ALVARADO                    9/ABR/1973  FEMENINO     SOLTERO      81           BBVA TECNOPARQUE                23/MAY/2017  11/JUN/2019  1            COCINERO D                      42995        HIDALGO
+7934   CESAR URIEL BERMUDEZ MEJIA               17/JUL/2000  MASCULINO    SOLTERO      08           ALMACEN                         28/MAR/2019  15/ABR/2019  1            AYUDANTE DE SERVICIO A          09700        CIUDAD DE MEXICO
+7663   CHRISTIAN ABRAHAM ZAPOTICLA PEREZ        18/OCT/1983  MASCULINO    CASADO       08           ALMACEN                         10/MAY/2018   0/  0/0000  1            AYUDANTE DE SERVICIO A          57940        ESTADO DE MEXICO
+7407   CLARA MARIA BAUTISTA PEREZ                6/AGO/1986  FEMENINO     SOLTERO      68           LALA VALLE SUR                  20/JUN/2017   1/ABR/2019  1            AYUDANTE DE SERVICIO B 19       08500        CIUDAD DE MEXICO
+7828   CLAUDIA IBET MORALES ESQUIVEL            30/MAR/1987  FEMENINO     CASADO       87           INTERNATIONAL PAPER             10/DIC/2018   4/ABR/2019  1            AYUDANTE DE SERVICIO D          50295        ESTADO DE MEXICO
+8093   CLAUDIA LETICIA MONTERO CARRILLO         29/JUN/1973  FEMENINO     SOLTERO      57           LALA SANTA CLARA                16/AGO/2019  21/OCT/2019  1            AYUDANTE DE SERVICIO A          15020        CIUDAD DE MEXICO
+7964   CONCEPCION JIMENEZ FLORES                 5/MAY/1979  FEMENINO     SOLTERO      81           BBVA TECNOPARQUE                22/ABR/2019   6/MAY/2019  1            AYUDANTE DE SERVICIO A          54196        ESTADO DE MEXICO
+8010   CRISTHIAN DE LEON ROMERO                 13/NOV/1984  MASCULINO    SOLTERO      08           ALMACEN                          7/JUN/2019   1/JUL/2019  1            AYUDANTE DE SERVICIO A          57809        ESTADO DE MEXICO
+7773   CRISTINA FERNANDEZ ALVAREZ               24/DIC/1981  FEMENINO     SOLTERO      87           INTERNATIONAL PAPER             27/SEP/2018   0/  0/0000  1            AYUDANTE DE SERVICIO B 19       50295        ESTADO DE MEXICO
+8075   CRISTINA LOPEZ GODINEZ                   24/JUL/1984  FEMENINO     SOLTERO      59           LALA TEXCOCO                     1/AGO/2019  26/AGO/2019  1            AYUDANTE DE SERVICIO A          56315        ESTADO DE MEXICO
+8045   CRISTINA WUENDY HERNANDEZ AGUILAR         8/AGO/1992  FEMENINO     SOLTERO      51           LALA VALLEJO                     4/JUL/2019   8/JUL/2019  1            AYUDANTE DE SERVICIO A          06350        CIUDAD DE MEXICO
+7839   CRISTINA YASMIN URIBE MORALES             2/JUL/1988  FEMENINO     SOLTERO      52           LALA TLAHUAC II                 22/DIC/2018   8/ABR/2019  1            SUPERVISOR DE COMEDOR B 18      57740        ESTADO DE MEXICO
+7922   CRISTOBAL CORONA GARCIA                  27/ENE/1977  FEMENINO     CASADO       85           SIGNA                           19/MAR/2019   8/ABR/2019  1            AYUDANTE DE SERVICIO A          52159        ESTADO DE MEXICO
+8064   DANA ITZEL GARCIA LOPEZ                  16/JUL/2000  FEMENINO     SOLTERO      59           LALA TEXCOCO                    19/JUL/2019  29/JUL/2019  1            AYUDANTE DE SERVICIO A          56150        ESTADO DE MEXICO
+1424   DANIEL AUSENCIO TEJEDA ZU¥IGA            18/DIC/1971  MASCULINO    SOLTERO      88           TOYOTA                          20/JUL/2009   0/  0/0000  1            CHEFF C                         11290        CIUDAD DE MEXICO
+5280   DANIEL NU¥EZ CLEMENTE                     3/ENE/1975  MASCULINO    SOLTERO      81           BBVA TECNOPARQUE                 5/ABR/2016   0/  0/0000  1            ENCARGADO DE COMEDOR B          07420        CIUDAD DE MEXICO
+8020   DAVID ABAD BUTRON                         1/JUL/1995  MASCULINO    SOLTERO      37           BIMBO                           10/JUN/2019   0/  0/0000  1            AYUDANTE DE SERVICIO A          57158        ESTADO DE MEXICO
+7912   DAVID GAMA GARCIA                         7/OCT/1981  MASCULINO    SOLTERO      50           LALA CEYLAN                      8/MAR/2019   8/ABR/2019  1            COCINERO D                      54170        ESTADO DE MEXICO
+8061   DAVID VALENTE REYES VELA                  5/AGO/1967  MASCULINO    SOLTERO      52           LALA TLAHUAC II                 18/JUL/2019   9/SEP/2019  1            AYUDANTE DE SERVICIO A          09830        CIUDAD DE MEXICO
+7933   DENISSE ABIGAIL PEREZ MAYA               23/ABR/1999  FEMENINO     SOLTERO      74           SOMAR CORPORATIVO               27/MAR/2019   8/ABR/2019  1            AYUDANTE DE SERVICIO A          56516        ESTADO DE MEXICO
+8156   DIANA MAGDALENA MONROY PONCE             17/ABR/1981  FEMENINO     SOLTERO      37           BIMBO                           14/OCT/2019   0/  0/0000  1            AYUDANTE DE SERVICIO A          54090        ESTADO DE MEXICO
+8163   DIANA MELINA CRUZ ELIAS                  31/MAR/1995  FEMENINO     CASADO       79           LALA NAUCALPAN                  18/OCT/2019   0/  0/0000  1            AYUDANTE DE SERVICIO A          53787        ESTADO DE MEXICO
+7742   DIEGO ALBERTO MORALES BARRAGAN           13/NOV/1995  MASCULINO    SOLTERO      81           BBVA TECNOPARQUE                21/AGO/2018  27/MAY/2019  1            AYUDANTE DE SERVICIO B 19       07920        CIUDAD DE MEXICO
+8102   DIEGO ERNESTO SILVA MACIAS               15/MAR/1993  MASCULINO    SOLTERO      05           PRODUCCION CENTENO              28/AGO/2019  30/SEP/2019  1            AYUDANTE DE SERVICIO A          08730        CIUDAD DE MEXICO
+5636   DORA ELIA RUVALCABA GARZA                 3/MAY/1992  FEMENINO     SOLTERO      74           SOMAR CORPORATIVO                5/MAR/2019  18/MAR/2019  1            AYUDANTE DE SERVICIO A          08510        CIUDAD DE MEXICO
+7883   DULCE BELEN VALDES GONZALEZ               3/DIC/1986  FEMENINO     CASADO       87           INTERNATIONAL PAPER             11/FEB/2019  24/JUN/2019  1            AYUDANTE DE SERVICIO D          50075        ESTADO DE MEXICO
+8140   DULCE CAROLINA MONTES VAZQUEZ            20/FEB/1994  FEMENINO     SOLTERO      51           LALA VALLEJO                    30/SEP/2019  14/OCT/2019  1            AYUDANTE DE SERVICIO A          54140        ESTADO DE MEXICO
+8006   DULCE GABRIELA VILCHIS SAUCEDO            4/MAR/2000  FEMENINO     SOLTERO      88           TOYOTA                           5/JUN/2019  17/JUN/2019  1            AYUDANTE DE SERVICIO A          53426        ESTADO DE MEXICO
+7968   DULCE MARIA IBA¥EZ AGRAMON               15/AGO/1979  FEMENINO     CASADO       50           LALA CEYLAN                     25/ABR/2019   2/MAY/2019  1            AYUDANTE DE SERVICIO A          02719        CIUDAD DE MEXICO
+7894   EDER BAUTISTA AGUILAR                     4/JUN/1991  MASCULINO    SOLTERO      05           PRODUCCION CENTENO              21/FEB/2019  28/MAR/2019  1            AYUDANTE DE SERVICIO A          10290        CIUDAD DE MEXICO
+7994   EDGAR ALBERTO ALBERTO SALAS              31/MAY/1996  MASCULINO    SOLTERO      72           LALA LOS REYES                  24/MAY/2019   0/  0/0000  1            AYUDANTE DE SERVICIO A          56338        ESTADO DE MEXICO
+7853   EDGAR GONZALEZ HERNANDEZ                 19/SEP/1997  MASCULINO    SOLTERO      50           LALA CEYLAN                     14/ENE/2019  11/MAR/2019  1            AYUDANTE DE SERVICIO A          54150        ESTADO DE MEXICO
+6461   EDGAR GUADALUPE AGUIRRE MORADO           12/DIC/1977  MASCULINO    SOLTERO      11           SERVIGAM                        23/SEP/2015   0/  0/0000  1            CHOFER B 18                     56607        ESTADO DE MEXICO
+6765   EDGAR JOSE DE LA PAZ RODRIGUEZ            5/NOV/1986  MASCULINO    SOLTERO      87           INTERNATIONAL PAPER              8/ENE/2016   0/  0/0000  1            COCINERO D 19                   56680        ESTADO DE MEXICO
+8017   EDITH JOANA RODRIGUEZ HERNANDEZ           4/MAR/1989  FEMENINO     SOLTERO      81           BBVA TECNOPARQUE                12/JUN/2019  11/SEP/2019  1            AYUDANTE DE SERVICIO A          02129        CIUDAD DE MEXICO
+7694   EDNA CAROLINA VEGA OAXACA                 4/MAR/1992  FEMENINO     SOLTERO      50           LALA CEYLAN                     17/JUN/2018   4/ENE/2019  1            AYUDANTE DE SERVICIO A          07210        CIUDAD DE MEXICO
+8121   EDUARDO BAUTISTA VERGARA                 24/ABR/1995  MASCULINO    SOLTERO      56           LALA MIXCOAC                    10/SEP/2019  16/SEP/2019  1            AYUDANTE DE SERVICIO A          01296        CIUDAD DE MEXICO
+7752   ELIZABETH CRUZ CAMACHO                    8/JUL/1995  FEMENINO     SOLTERO      50           LALA CEYLAN                      5/SEP/2018   3/ENE/2019  1            AYUDANTE DE SERVICIO A          54190        ESTADO DE MEXICO
+7909   ELIZABETH DIAZ GARCIA                    11/OCT/1983  FEMENINO     SOLTERO      51           LALA VALLEJO                     5/MAR/2019   0/  0/0000  1            AYUDANTE DE SERVICIO A          07200        CIUDAD DE MEXICO
+6657   ELIZABETH MORALES SOLORZA                15/OCT/1978  FEMENINO     SOLTERO      85           SIGNA                            2/NOV/2018  30/ENE/2019  1            AYUDANTE DE SERVICIO D          50290        ESTADO DE MEXICO
+5000   ELOISA PINEDA ALAMO                      17/ENE/1975  FEMENINO     SOLTERO      60           LALA TECAMAC                     7/JUN/2012   0/  0/0000  1            COCINERO B 19                   55500        ESTADO DE MEXICO
+7915   ELSA SANCHEZ DIAZ                        17/MAY/1965  FEMENINO     SOLTERO      66           NEOLPHARMA                      11/MAR/2019  17/JUN/2019  1            AYUDANTE DE SERVICIO A          50010        ESTADO DE MEXICO
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EJECUTIVOS EN SERVICIOS DE ALIMENTOS, S.A. DE C.V.                                                                      Pagina: 0004
+R.F.C.:                                                                                                                    2/NOV/19
+REPORTE BASE DE DATOS
+ 
+                                                                                                                                                              01= Diurna
+ 
+Codigo Nombre                                   Fecha nac    Sexo         Edo Civi     # Depto      Departamento                    F.Ingreso    F.Baja       Tipo Jornad  Puesto                          C.P.         Estado
+..........................................................................................................................................................................................................................................
+8113   EMANUEL ANTONIO CRUZ CORTEZ              29/FEB/1992  MASCULINO    CASADO       81           BBVA TECNOPARQUE                 6/SEP/2019   0/  0/0000  1            COCINERO D                      02459        CIUDAD DE MEXICO
+7925   ENRIQUE ARTURO CASTILLO MARTINEZ         11/OCT/1983  MASCULINO    SOLTERO      79           LALA NAUCALPAN                  19/MAR/2019  23/JUL/2019  1            COCINERO D                      53580        ESTADO DE MEXICO
+5644   ENRIQUE SILVA MORA                       23/OCT/1968  MASCULINO    SOLTERO      11           SERVIGAM                         4/NOV/2013   0/  0/0000  1            CHOFER B 18                     07560        CIUDAD DE MEXICO
+6638   ERENDIRA GARCIA PI¥A                      2/DIC/1978  FEMENINO     SOLTERO      51           LALA VALLEJO                     9/MAY/2018   0/  0/0000  1            AYUDANTE DE SERVICIO B 19       07249        CIUDAD DE MEXICO
+8155   ERICA AIDE GONZALEZ MORENO               16/SEP/1984  FEMENINO     CASADO       05           PRODUCCION CENTENO              14/OCT/2019   0/  0/0000  1            AYUDANTE DE SERVICIO A          09100        CIUDAD DE MEXICO
+8002   ERIKA CECILIA OLMOS VAZQUEZ               6/SEP/1984  FEMENINO     CASADO       45           MEX EXPRESS                      3/JUN/2019   7/JUN/2019  1            AYUDANTE DE SERVICIO A          57000        ESTADO DE MEXICO
+7878   ERIKA YADIRA LAGUNA VILLANUEVA           21/JUN/1973  FEMENINO     SOLTERO      56           LALA MIXCOAC                     8/FEB/2019  25/MAY/2019  1            AYUDANTE DE SERVICIO A          01100        CIUDAD DE MEXICO
+8119   ERIKA YASBETH VALLEJO MENDEZ             14/AGO/1980  FEMENINO     CASADO       57           LALA SANTA CLARA                10/SEP/2019  23/SEP/2019  1            AYUDANTE DE SERVICIO A          55883        ESTADO DE MEXICO
+7800   ERIKA ZENIL ALMAZAN                      24/FEB/1977  FEMENINO     SOLTERO      87           INTERNATIONAL PAPER              2/NOV/2018   0/  0/0000  1            AYUDANTE DE SERVICIO A          50200        ESTADO DE MEXICO
+7960   ESPERANZA AMELIA CASA¥AS PEREZ GALLARDO   2/AGO/1999  FEMENINO     SOLTERO      50           LALA CEYLAN                     15/ABR/2019  10/JUN/2019  1            AYUDANTE DE SERVICIO A          07580        CIUDAD DE MEXICO
+8111   ESPERANZA FLORES VAZQUEZ                 30/NOV/1977  FEMENINO     CASADO       25           AKZO NOBEL                       5/SEP/2019   0/  0/0000  1            AYUDANTE DE SERVICIO A          56527        ESTADO DE MEXICO
+6690   ESPERANZA GUZMAN VAZQUEZ                 28/MAR/1975  FEMENINO     SOLTERO      80           CAFETERIA PRICE SHOES VALLEJO   20/NOV/2015   0/  0/0000  1            AYUDANTE DE SERVICIO B 19       07089        CIUDAD DE MEXICO
+7940   ESTEFANY MEDINA ISLAS                    22/ABR/1997  FEMENINO     SOLTERO      04           PRODUCTOS DE UVA                 2/ABR/2019   4/ABR/2019  1            AYUDANTE DE SERVICIO A          54110        ESTADO DE MEXICO
+7861   EUFRASIA AMARO PEREZ                     20/SEP/1969  FEMENINO     CASADO       85           SIGNA                           22/ENE/2019  30/ENE/2019  1            AYUDANTE DE SERVICIO D          50200        ESTADO DE MEXICO
+7168   EVA PEREZ FRANCISCO                      30/MAY/1979  FEMENINO     SOLTERO      51           LALA VALLEJO                    14/NOV/2016   0/  0/0000  1            AYUDANTE DE SERVICIO B 19       07770        CIUDAD DE MEXICO
+7901   EVELYN GARZA RIVERA                      28/FEB/1985  FEMENINO     CASADO       76           SOMAR PLANTA CHALCO              4/MAR/2019  26/ABR/2019  1            AYUDANTE DE SERVICIO A          56900        ESTADO DE MEXICO
+8090   EVELYN JULIANA DOMINGUEZ TELLO            2/NOV/1993  FEMENINO     SOLTERO      05           PRODUCCION CENTENO              15/AGO/2019  26/AGO/2019  1            AYUDANTE DE SERVICIO A          56343        ESTADO DE MEXICO
+8120   EZEQUIEL ALVARADO PACHECO                10/ABR/1991  MASCULINO    SOLTERO      81           BBVA TECNOPARQUE                10/SEP/2019  16/SEP/2019  1            AYUDANTE DE SERVICIO A          02125        CIUDAD DE MEXICO
+4233   FABIOLA HERNANDEZ CUEVAS                 11/ABR/1973  FEMENINO     CASADO       05           PRODUCCION CENTENO               3/ENE/2019  14/ENE/2019  1            AYUDANTE DE SERVICIO A          09420        CIUDAD DE MEXICO
+8081   FABIOLA RIVERA YA¥EZ                     24/NOV/1972  FEMENINO     SOLTERO      45           MEX EXPRESS                      7/AGO/2019   0/  0/0000  1            AYUDANTE DE SERVICIO A          15320        CIUDAD DE MEXICO
+7991   FERNANDO MARTINEZ FRAGOSO                13/ABR/1973  MASCULINO    SOLTERO      37           BIMBO                           22/MAY/2019   0/  0/0000  1            COCINERO D                      01600        CIUDAD DE MEXICO
+7786   FERNANDO RAFAEL SANTOS AVILA             29/NOV/1991  MASCULINO    SOLTERO      80           CAFETERIA PRICE SHOES VALLEJO    2/MAY/2019  16/MAY/2019  1            AYUDANTE DE SERVICIO A          02480        CIUDAD DE MEXICO
+7971   FLOR DE MARIA LEON HUERFANO              12/SEP/1987  FEMENINO     CASADO       87           INTERNATIONAL PAPER             25/ABR/2019  20/MAY/2019  1            AYUDANTE DE SERVICIO A          50206        ESTADO DE MEXICO
+8063   FRANCISCO ISMAEL BAZALDUA GARCIA          5/JUN/1998  MASCULINO    SOLTERO      81           BBVA TECNOPARQUE                22/JUL/2019   0/  0/0000  1            AYUDANTE DE SERVICIO A          07080        CIUDAD DE MEXICO
+7980   FRANCISCO JAVIER BA¥ALES DIAZ             5/MAR/1993  MASCULINO    SOLTERO      50           LALA CEYLAN                      7/MAY/2019  22/MAY/2019  1            COCINERO D                      07530        CIUDAD DE MEXICO
+8115   FRANCISCO JAVIER CRUZ CABRERA            16/MAR/1997  MASCULINO    SOLTERO      05           PRODUCCION CENTENO               2/SEP/2019   8/OCT/2019  1            AYUDANTE DE SERVICIO A          54743        ESTADO DE MEXICO
+7946   GABRIEL OLAF GALVAN CRUZ                  5/JUL/1983  MASCULINO    SOLTERO      50           LALA CEYLAN                      5/ABR/2019   8/ABR/2019  1            AYUDANTE DE SERVICIO A          07058        CIUDAD DE MEXICO
+8058   GABRIELA ENRIQUEZ TREJO                   3/JUL/1983  FEMENINO     SOLTERO      74           SOMAR CORPORATIVO               16/JUL/2019   5/AGO/2019  1            AYUDANTE DE SERVICIO A          08300        CIUDAD DE MEXICO
+4314   GABRIELA HUERTA HERNANDEZ                28/SEP/1990  FEMENINO     SOLTERO      05           PRODUCCION CENTENO               6/ABR/2011   0/  0/0000  1            JEFE DE COCINA A 18             16600        CIUDAD DE MEXICO
+8032   GABRIELA MIRIAM RAMOS PEREZ              24/MAR/1989  FEMENINO     SOLTERO      59           LALA TEXCOCO                    26/JUN/2019  27/JUN/2019  1            AYUDANTE DE SERVICIO A          56150        ESTADO DE MEXICO
+7935   GERARDO ALFONSO CAMACHO MENESES           3/OCT/1977  MASCULINO    CASADO       88           TOYOTA                          26/MAR/2019  17/MAY/2019  1            AYUDANTE DE SERVICIO A          11230        CIUDAD DE MEXICO
+7988   GERARDO CRUZ PALACIOS                    15/NOV/1976  MASCULINO    CASADO       50           LALA CEYLAN                     15/MAY/2019  27/MAY/2019  1            AYUDANTE DE SERVICIO A          07250        CIUDAD DE MEXICO
+3160   GLORIA ALICIA ESPINOSA TREJO             20/NOV/1965  FEMENINO     SOLTERO      74           SOMAR CORPORATIVO               27/SEP/2018  31/DIC/2018  1            AYUDANTE DE SERVICIO A          04650        CIUDAD DE MEXICO
+7843   GLORIA LETICIA ADAMES GARCIA             18/NOV/1969  FEMENINO     CASADO       45           MEX EXPRESS                      7/ENE/2019  21/ENE/2019  1            AYUDANTE DE SERVICIO A          56618        ESTADO DE MEXICO
+7972   GLORIA PAULINA PEREZ OLMEDO              18/OCT/1986  FEMENINO     CASADO       81           BBVA TECNOPARQUE                30/ABR/2019   6/MAY/2019  1            AYUDANTE DE SERVICIO A          07290        CIUDAD DE MEXICO
+8087   GLORIA SANCHEZ RAMIREZ                   24/ENE/1983  FEMENINO     SOLTERO      06           SUPERVISION                     14/AGO/2019  19/AGO/2019  1            AYUDANTE DE SERVICIO A          08700        CIUDAD DE MEXICO
+7904   GUADALUPE ABIGAIL ZAVALA SALAZAR         29/NOV/1995  FEMENINO     CASADO       50           LALA CEYLAN                      4/MAR/2019  18/MAR/2019  1            AYUDANTE DE SERVICIO A          07310        CIUDAD DE MEXICO
+7848   GUADALUPE ARREGUIN FUENTES               17/SEP/1978  FEMENINO     SOLTERO      07           LIMPIEZA                        10/ENE/2019   0/  0/0000  1            AYUDANTE DE SERVICIO A          56343        ESTADO DE MEXICO
+7632   GUADALUPE EMMA MU¥OZ SOLIS                4/JUN/1975  FEMENINO     CASADO       05           PRODUCCION CENTENO              21/MAR/2018   0/  0/0000  1            AYUDANTE DE SERVICIO B 19       56335        ESTADO DE MEXICO
+7945   GUADALUPE EVA MORA CARDENAS              15/FEB/1965  FEMENINO     CASADO       50           LALA CEYLAN                      4/ABR/2019   8/ABR/2019  1            AYUDANTE DE SERVICIO A          15430        CIUDAD DE MEXICO
+7881   GUADALUPE FELICITOS POLENCIANO           28/OCT/1982  FEMENINO     CASADO       45           MEX EXPRESS                     11/FEB/2019  21/FEB/2019  1            AYUDANTE DE SERVICIO A          09640        CIUDAD DE MEXICO
+7873   GUADALUPE VENTURA VICENCIO JIMENEZ       14/JUL/1984  MASCULINO    CASADO       76           SOMAR PLANTA CHALCO              5/FEB/2019   0/  0/0000  1            AYUDANTE DE SERVICIO A          56570        ESTADO DE MEXICO
+6504   GUILLERMINA ROSILES GONZALEZ             22/SEP/1966  FEMENINO     SOLTERO      76           SOMAR PLANTA CHALCO             18/AGO/2015  17/JUN/2019  1            AYUDANTE DE SERVICIO A          56589        ESTADO DE MEXICO
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EJECUTIVOS EN SERVICIOS DE ALIMENTOS, S.A. DE C.V.                                                                      Pagina: 0005
+R.F.C.:                                                                                                                    2/NOV/19
+REPORTE BASE DE DATOS
+ 
+                                                                                                                                                              01= Diurna
+ 
+Codigo Nombre                                   Fecha nac    Sexo         Edo Civi     # Depto      Departamento                    F.Ingreso    F.Baja       Tipo Jornad  Puesto                          C.P.         Estado
+..........................................................................................................................................................................................................................................
+8068   GUSTAVO ARMANDO JUAREZ CORTES            30/JUL/1987  MASCULINO    CASADO       83           INGREDION                       24/JUL/2019   0/  0/0000  1            SUPERVISOR C                    54910        ESTADO DE MEXICO
+7842   HECTOR RICARDO GALAN OCAMPO               5/NOV/1968  MASCULINO    SOLTERO      05           PRODUCCION CENTENO               7/ENE/2019  30/ENE/2019  1            AYUDANTE DE SERVICIO A          08400        CIUDAD DE MEXICO
+7905   HERIBERTO SURIEL AMBRIZ CEJUDO           20/MAY/1987  MASCULINO    SOLTERO      85           SIGNA                            5/MAR/2019  16/MAY/2019  1            AYUDANTE DE SERVICIO A          50290        ESTADO DE MEXICO
+7936   HUGO ALEJANDRO MARTINEZ RODRIGUEZ         3/MAY/1980  MASCULINO    VIUDO        85           SIGNA                           28/MAR/2019  18/ABR/2019  1            AYUDANTE DE SERVICIO A          50016        ESTADO DE MEXICO
+7801   HUGO LAGUNA ALVAREZ                      14/OCT/1988  MASCULINO    SOLTERO      79           LALA NAUCALPAN                   8/NOV/2018  22/JUL/2019  1            AYUDANTE DE SERVICIO A          53427        ESTADO DE MEXICO
+7604   ILIA ROJAS ALMAGUER                      19/JUN/1979  FEMENINO     CASADO       52           LALA TLAHUAC II                 22/FEB/2018  18/MAR/2019  1            AYUDANTE DE SERVICIO B 19       13270        CIUDAD DE MEXICO
+7918   IMELDA JAZMIN BARRIOS FLORES             13/MAY/1996  FEMENINO     SOLTERO      85           SIGNA                           13/MAR/2019  20/MAY/2019  1            AYUDANTE DE SERVICIO A          50150        ESTADO DE MEXICO
+8158   IMELDA ROJAS FLORENCIA                   13/MAY/1983  FEMENINO     CASADO       87           INTERNATIONAL PAPER             14/OCT/2019  21/OCT/2019  1            AYUDANTE DE SERVICIO A          50285        ESTADO DE MEXICO
+8098   IRERI YATZIBE SANCHEZ GARCIA             27/ENE/1992  FEMENINO     SOLTERO      81           BBVA TECNOPARQUE                22/AGO/2019   2/SEP/2019  1            AYUDANTE DE SERVICIO A          54150        ESTADO DE MEXICO
+8086   IRIS LIZBETH FLORES PEDRAZA              30/AGO/1999  FEMENINO     SOLTERO      52           LALA TLAHUAC II                 14/AGO/2019   0/  0/0000  1            AYUDANTE DE SERVICIO A          13400        CIUDAD DE MEXICO
+7061   IRMA DORANTES GONZALEZ                   28/MAR/1974  FEMENINO     SOLTERO      61           LALA ATIZAPAN                   19/JUN/2018  26/AGO/2019  1            COCINERO A 19                   54409        ESTADO DE MEXICO
+8028   IRMA GONZALEZ PINEDA                      3/MAY/1964  FEMENINO     SOLTERO      81           BBVA TECNOPARQUE                24/JUN/2019   1/JUL/2019  1            AYUDANTE DE SERVICIO A          02120        CIUDAD DE MEXICO
+7805   ISABEL REYNA HERNANDEZ PINO               4/ENE/1972  FEMENINO     SOLTERO      50           LALA CEYLAN                     13/NOV/2018   4/FEB/2019  1            COCINERO C                      54920        ESTADO DE MEXICO
+8145   ISABEL SALINAS GONZALEZ                  25/ENE/1988  FEMENINO     SOLTERO      52           LALA TLAHUAC II                  2/OCT/2019   0/  0/0000  1            AYUDANTE DE SERVICIO A          56615        ESTADO DE MEXICO
+8106   IVONNE VILLA SERVIN                      25/SEP/1981  FEMENINO     SOLTERO      51           LALA VALLEJO                    29/AGO/2019   0/  0/0000  1            AYUDANTE DE SERVICIO A          02630        CIUDAD DE MEXICO
+7847   JACKELINE ORTEGA PARAMO                  25/SEP/1973  FEMENINO     SOLTERO      81           BBVA TECNOPARQUE                 9/ENE/2019  30/SEP/2019  1            AYUDANTE DE SERVICIO A          55070        ESTADO DE MEXICO
+8082   JACQUELINE GARCIA ROBLES                 11/NOV/1997  FEMENINO     SOLTERO      51           LALA VALLEJO                     6/AGO/2019  25/SEP/2019  1            AYUDANTE DE SERVICIO A          07310        CIUDAD DE MEXICO
+8127   JAIME DAVID AVENDA¥O FERNANDO            19/NOV/1988  MASCULINO    SOLTERO      56           LALA MIXCOAC                    20/SEP/2019  30/SEP/2019  1            AYUDANTE DE SERVICIO A          01109        CIUDAD DE MEXICO
+7884   JAIR LARA SANCHEZ                         3/ENE/1989  MASCULINO    SOLTERO      87           INTERNATIONAL PAPER             12/FEB/2019  21/MAR/2019  1            SUPERVISOR DE COMEDOR B         52140        ESTADO DE MEXICO
+8129   JANETH CASTAN DUARTE                     26/SEP/1979  FEMENINO     CASADO       81           BBVA TECNOPARQUE                23/SEP/2019   0/  0/0000  1            AYUDANTE DE SERVICIO A          02230        CIUDAD DE MEXICO
+7941   JANETH GARCIA RIVERA                     31/MAY/1981  FEMENINO     CASADO       50           LALA CEYLAN                      3/ABR/2019   8/ABR/2019  1            AYUDANTE DE SERVICIO A          07210        CIUDAD DE MEXICO
+7633   JANETH REYES OLICON                       5/ABR/1981  FEMENINO     SOLTERO      25           AKZO NOBEL                      23/MAR/2018   0/  0/0000  1            AYUDANTE DE SERVICIO B 19       09140        CIUDAD DE MEXICO
+8122   JENDY TAPIA RAMIREZ                       1/SEP/1994  FEMENINO     SOLTERO      73           LALA CHALCO                     13/SEP/2019  16/SEP/2019  1            AYUDANTE DE SERVICIO A          56539        ESTADO DE MEXICO
+7428   JENIFER RIVERA REYES                     31/MAY/1994  FEMENINO     SOLTERO      72           LALA LOS REYES                   6/JUL/2017  11/FEB/2019  1            AYUDANTE DE SERVICIO A          56530        ESTADO DE MEXICO
+8095   JENNYFER MARIBEL REYNOSO SIERRA          21/ENE/1980  FEMENINO     SOLTERO      05           PRODUCCION CENTENO              20/AGO/2019  17/SEP/2019  1            AYUDANTE DE SERVICIO A          08020        CIUDAD DE MEXICO
+7999   JENY RUVALCABA MORALES                   16/OCT/1997  FEMENINO     SOLTERO      81           BBVA TECNOPARQUE                28/MAY/2019   3/JUN/2019  1            AYUDANTE DE SERVICIO A          15430        CIUDAD DE MEXICO
+7835   JESSICA GUADALUPE VALADEZ GARCIA         17/SEP/1988  FEMENINO     CASADO       86           ESCATO                          17/DIC/2018   1/ENE/2019  1            AYUDANTE DE SERVICIO D          52104        ESTADO DE MEXICO
+7906   JESSICA MONSERRAT GUADARRAMA PUENTE       9/JUN/1989  FEMENINO     SOLTERO      45           MEX EXPRESS                      4/MAR/2019  17/MAY/2019  1            SUPERVISOR DE COMEDOR B         09160        CIUDAD DE MEXICO
+7984   JESSICA OLIVA GARCIA                     30/SEP/1991  FEMENINO     SOLTERO      81           BBVA TECNOPARQUE                 9/MAY/2019   0/  0/0000  1            COCINERO D                      07510        CIUDAD DE MEXICO
+7914   JESUS PEREZ CEJA                         12/JUN/1997  MASCULINO    SOLTERO      52           LALA TLAHUAC II                 13/MAR/2019   0/  0/0000  1            AYUDANTE DE SERVICIO B          09310        CIUDAD DE MEXICO
+8141   JESUS RODRIGO HERNANDEZ RAMIREZ          28/ABR/1991  MASCULINO    SOLTERO      74           SOMAR CORPORATIVO               30/SEP/2019   0/  0/0000  1            AYUDANTE DE SERVICIO A          16600        CIUDAD DE MEXICO
+2897   JOAQUINA NARCISA CABRERA ZEPEDA          29/OCT/1959  FEMENINO     CASADO       51           LALA VALLEJO                    13/ENE/2017   0/  0/0000  1            AYUDANTE DE SERVICIO B 19       07550        CIUDAD DE MEXICO
+7811   JONATHAN AVILES HERNANDEZ                23/FEB/1994  MASCULINO    SOLTERO      86           ESCATO                          21/NOV/2018   1/ENE/2019  1            AYUDANTE DE SERVICIO A          50180        ESTADO DE MEXICO
+7871   JONATHAN CRUZ GUZMAN                     18/NOV/1991  MASCULINO    SOLTERO      08           ALMACEN                         31/ENE/2019  11/MAR/2019  1            AYUDANTE DE SERVICIO A          57410        ESTADO DE MEXICO
+5630   JONATHAN ESPINOSA MAYA                   12/ABR/1990  MASCULINO    CASADO       08           ALMACEN                          3/JUL/2019   0/  0/0000  1            AYUDANTE DE SERVICIO A          57000        ESTADO DE MEXICO
+8139   JONATHAN JOSEPH HERNANDEZ VARGAS         31/JUL/1996  MASCULINO    SOLTERO      50           LALA CEYLAN                     30/SEP/2019   0/  0/0000  1            AYUDANTE DE SERVICIO A          07188        CIUDAD DE MEXICO
+8007   JORGE ALBERTO BETANCOURT SOSA            17/OCT/1969  MASCULINO    SOLTERO      52           LALA TLAHUAC II                  5/JUN/2019   0/  0/0000  1            COCINERO C                      13520        CIUDAD DE MEXICO
+8048   JORGE ALBERTO VEGA NOVA                  18/NOV/1992  MASCULINO    SOLTERO      52           LALA TLAHUAC II                  1/JUL/2019   0/  0/0000  1            SUPERVISOR DE COMEDOR B         09889        CIUDAD DE MEXICO
+6052   JORGE ALBERTO VELAZQUEZ PEREZ            14/MAY/1990  MASCULINO    SOLTERO      56           LALA MIXCOAC                     8/JUN/2019  17/JUN/2019  1            COCINERO D                      01280        CIUDAD DE MEXICO
+8138   JORGE EDUARDO MEZA CRUZ                  14/MAR/1998  MASCULINO    SOLTERO      74           SOMAR CORPORATIVO               30/SEP/2019   0/  0/0000  1            AYUDANTE DE SERVICIO A          01280        CIUDAD DE MEXICO
+8037   JORGE GUTIERREZ CABALLERO                 7/MAR/1997  MASCULINO    SOLTERO      83           INGREDION                       28/JUN/2019  29/JUL/2019  1            AYUDANTE DE SERVICIO A          54010        ESTADO DE MEXICO
+7139   JORGE HUMBERTO MAYORAL GUTIERREZ         10/MAY/1986  MASCULINO    SOLTERO      73           LALA CHALCO                      2/OCT/2019   7/OCT/2019  1            AYUDANTE DE SERVICIO A          56600        ESTADO DE MEXICO
+7558   JORGE OSCAR RAMOS                        11/MAY/1974  MASCULINO    SOLTERO      05           PRODUCCION CENTENO               7/DIC/2017  26/FEB/2019  1            AYUDANTE DE SERVICIO B 19       03400        CIUDAD DE MEXICO
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EJECUTIVOS EN SERVICIOS DE ALIMENTOS, S.A. DE C.V.                                                                      Pagina: 0006
+R.F.C.:                                                                                                                    2/NOV/19
+REPORTE BASE DE DATOS
+ 
+                                                                                                                                                              01= Diurna
+ 
+Codigo Nombre                                   Fecha nac    Sexo         Edo Civi     # Depto      Departamento                    F.Ingreso    F.Baja       Tipo Jornad  Puesto                          C.P.         Estado
+..........................................................................................................................................................................................................................................
+6360   JORGE ZALDIVAR HERNANDEZ                 18/SEP/1958  MASCULINO    SOLTERO      52           LALA TLAHUAC II                  9/OCT/2018   4/MAR/2019  1            AYUDANTE DE SERVICIO B 19       09760        CIUDAD DE MEXICO
+8052   JOSE ABISAY SALINAS ALVARADO             13/JUN/1987  MASCULINO    SOLTERO      88           TOYOTA                           8/JUL/2019   0/  0/0000  1            ENCARGADO DE COMEDOR A/P        53100        ESTADO DE MEXICO
+8105   JOSE ARTURO SANCHEZ HERNANDEZ            18/AGO/1988  MASCULINO    SOLTERO      81           BBVA TECNOPARQUE                28/AGO/2019   0/  0/0000  1            AYUDANTE DE SERVICIO A          53320        ESTADO DE MEXICO
+7981   JOSE GILBERTO LOPEZ NU¥EZ                 4/FEB/1997  MASCULINO    SOLTERO      88           TOYOTA                           9/MAY/2019  27/MAY/2019  1            AYUDANTE DE SERVICIO A          53426        ESTADO DE MEXICO
+7204   JOSE LUIS BAZALDUA AGUILAR               17/AGO/1977  MASCULINO    SOLTERO      81           BBVA TECNOPARQUE                23/OCT/2019   0/  0/0000  1            AYUDANTE DE SERVICIO A          07910        CIUDAD DE MEXICO
+7955   JOSE LUIS CASTREJON REYES                13/ENE/1982  FEMENINO     CASADO       85           SIGNA                           11/ABR/2019  12/ABR/2019  1            AYUDANTE DE SERVICIO A          52234        ESTADO DE MEXICO
+7614   JOSE LUIS ESTRADA OJEDA                  14/SEP/1983  MASCULINO    SOLTERO      03           ESTRELLAS COLGATE                1/MAR/2018   0/  0/0000  1            COCINERO E                      01630        CIUDAD DE MEXICO
+3318   JOSE LUIS HERNANDEZ BALTAZAR              8/ENE/1963  MASCULINO    CASADO       81           BBVA TECNOPARQUE                24/NOV/2008   0/  0/0000  1            JEFE DE COCINA D 18             54935        ESTADO DE MEXICO
+7706   JOSE LUIS JIMENEZ FLORES                 28/OCT/1981  MASCULINO    SOLTERO      85           SIGNA                           26/JUN/2018  30/ENE/2019  1            AYUDANTE DE SERVICIO A          50040        ESTADO DE MEXICO
+7804   JOSE MANUEL RODRIGUEZ AGUILAR            29/NOV/1992  MASCULINO    CASADO       37           BIMBO                           13/NOV/2018   0/  0/0000  1            SUPERVISOR DE COMEDOR B         54944        ESTADO DE MEXICO
+5139   JOSE MARIANO GUERRERO NOGUEZ             26/DIC/1982  MASCULINO    SOLTERO      76           SOMAR PLANTA CHALCO              2/JUN/2015  28/MAR/2019  1            SUPERVISOR DE COMEDOR           56644        ESTADO DE MEXICO
+7921   JOSE MARIANO VALADEZ RODRIGUEZ            8/FEB/1989  MASCULINO    SOLTERO      50           LALA CEYLAN                     14/MAR/2019   6/MAY/2019  1            AYUDANTE DE SERVICIO A          15210        CIUDAD DE MEXICO
+6083   JOSE OMAR PEREZ MENDEZ                    5/MAY/1981  MASCULINO    SOLTERO      51           LALA VALLEJO                    13/ENE/2015   0/  0/0000  1            AYUDANTE DE SERVICIO D          54938        ESTADO DE MEXICO
+8118   JOSE VICTOR MEDRANO NAVARRO              17/OCT/1980  MASCULINO    CASADO       56           LALA MIXCOAC                     9/SEP/2019   0/  0/0000  1            AYUDANTE DE SERVICIO A          11820        CIUDAD DE MEXICO
+6766   JOSEFINA NAVA                            19/MAR/1962  FEMENINO     SOLTERO      03           ESTRELLAS COLGATE               11/ENE/2016   0/  0/0000  1            COCINERO A 19                   01220        CIUDAD DE MEXICO
+8046   JOSELYN FERNANDEZ VIURQUEZ               16/OCT/1995  FEMENINO     SOLTERO      81           BBVA TECNOPARQUE                 5/JUL/2019  15/JUL/2019  1            AYUDANTE DE SERVICIO A          07550        CIUDAD DE MEXICO
+7982   JOVANY PAOLA PEREZ TORRES                17/MAR/1987  FEMENINO     CASADO       88           TOYOTA                           9/MAY/2019  26/AGO/2019  1            COCINERO D                      53427        ESTADO DE MEXICO
+8084   JOVITA OCA¥A GUERRERO                    15/FEB/1981  FEMENINO     SOLTERO      81           BBVA TECNOPARQUE                 8/AGO/2019   0/  0/0000  1            AYUDANTE DE SERVICIO A          54189        ESTADO DE MEXICO
+5746   JUAN ALBERTO VALLES PADILLA               7/MAR/1981  MASCULINO    SOLTERO      82           CEMEX BARRIENTOS                10/SEP/2019   7/OCT/2019  1            AYUDANTE DE SERVICIO A          54910        ESTADO DE MEXICO
+7888   JUAN CARLOS ROMERO MARTINEZ              12/NOV/1976  MASCULINO    SOLTERO      50           LALA CEYLAN                     12/FEB/2019   8/MAR/2019  1            AYUDANTE DE SERVICIO A          02460        CIUDAD DE MEXICO
+4137   JUAN CARLOS VARGAS MORALES               24/JUN/1979  MASCULINO    SOLTERO      06           SUPERVISION                     16/NOV/2010   0/  0/0000  1            GERENTE DE COMEDOR              54180        ESTADO DE MEXICO
+8170   JUAN GABINO BUSTOS RAMIREZ               24/JUN/1983  MASCULINO    SOLTERO      50           LALA CEYLAN                     24/OCT/2019   0/  0/0000  1            AYUDANTE DE SERVICIO A          02900        CIUDAD DE MEXICO
+8009   JUAN MANUEL RODRIGUEZ ROSAS               8/MAY/1998  MASCULINO    SOLTERO      83           INGREDION                        6/JUN/2019   0/  0/0000  1            AYUDANTE DE SERVICIO A          54090        ESTADO DE MEXICO
+7913   JUAN PARRA ZERME¥O                       24/JUN/1967  MASCULINO    CASADO       56           LALA MIXCOAC                    12/MAR/2019  10/JUN/2019  1            AYUDANTE DE SERVICIO A          01280        CIUDAD DE MEXICO
+7819   JUAN TENORIO HERNANDEZ                    6/JUN/1991  MASCULINO    SOLTERO      80           CAFETERIA PRICE SHOES VALLEJO    3/DIC/2018   1/ENE/2019  1            AYUDANTE DE SERVICIO A          55519        ESTADO DE MEXICO
+7542   JUANA CHAVEZ ANGELES                     23/OCT/1964  FEMENINO     SOLTERO      57           LALA SANTA CLARA                 8/NOV/2017   0/  0/0000  1            AYUDANTE DE SERVICIO B 19       55400        ESTADO DE MEXICO
+7756   JUANA DE JESUS RAMIREZ                   23/NOV/1995  FEMENINO     SOLTERO      66           NEOLPHARMA                      17/DIC/2018  21/FEB/2019  1            AYUDANTE DE SERVICIO D          50295        ESTADO DE MEXICO
+7978   JUANA HERNANDEZ LEON                     28/NOV/1971  FEMENINO     CASADO       45           MEX EXPRESS                      7/MAY/2019   8/MAY/2019  1            AYUDANTE DE SERVICIO A          08100        CIUDAD DE MEXICO
+8150   JUANA PATRICIA JUNCAL VERA                2/MAY/1971  FEMENINO     CASADO       79           LALA NAUCALPAN                   9/OCT/2019   0/  0/0000  1            COCINERO D                      53697        ESTADO DE MEXICO
+7759   JUDITH CRISTINA ALVARADO BAUTISTA        13/NOV/1995  FEMENINO     SOLTERO      56           LALA MIXCOAC                    11/SEP/2018  31/DIC/2018  1            AYUDANTE DE SERVICIO A          01377        CIUDAD DE MEXICO
+8033   JUDITH PE¥A LOPEZ                        11/MAY/1988  FEMENINO     SOLTERO      03           ESTRELLAS COLGATE               25/JUN/2019  26/AGO/2019  1            AYUDANTE DE SERVICIO A          01859        CIUDAD DE MEXICO
+3780   JULIA GAYTAN ESTRADA                     19/JUN/1963  FEMENINO     SOLTERO      05           PRODUCCION CENTENO               5/FEB/2010   0/  0/0000  1            COCINERO F 19                   55200        ESTADO DE MEXICO
+8080   JULIAN RAMIREZ PEREZ                      9/ENE/1991  MASCULINO    CASADO       50           LALA CEYLAN                      6/AGO/2019   9/SEP/2019  1            AYUDANTE DE SERVICIO A          07170        CIUDAD DE MEXICO
+7992   JULIETA ROJAS SANCHEZ                     3/MAR/1989  FEMENINO     SOLTERO      50           LALA CEYLAN                     22/MAY/2019  17/JUN/2019  1            AYUDANTE DE SERVICIO A          02040        CIUDAD DE MEXICO
+7969   JULIO CESAR JIMENEZ FLORES                7/ENE/1991  MASCULINO    SOLTERO      85           SIGNA                           25/ABR/2019  20/MAY/2019  1            AYUDANTE DE SERVICIO A          50040        ESTADO DE MEXICO
+6205   JULIO CESAR REYES GARCIA                  2/OCT/1995  MASCULINO    SOLTERO      87           INTERNATIONAL PAPER             17/MAR/2015   0/  0/0000  1            AYUDANTE DE SERVICIO D          50290        ESTADO DE MEXICO
+5027   JULVER PEREZ JIMENEZ                      9/ENE/1970  MASCULINO    SOLTERO      82           CEMEX BARRIENTOS                23/JUN/2012   0/  0/0000  1            AYUDANTE DE COCINA E            55416        ESTADO DE MEXICO
+7949   KAREN JUAREZ LLANAS                      27/NOV/1992  FEMENINO     SOLTERO      52           LALA TLAHUAC II                  8/ABR/2019  11/JUN/2019  1            AYUDANTE DE SERVICIO A          09780        CIUDAD DE MEXICO
+7791   KAREN SILVA BARRIOS                      25/MAR/1992  FEMENINO     SOLTERO      45           MEX EXPRESS                     24/OCT/2018  21/FEB/2019  1            AYUDANTE DE SERVICIO A          56516        ESTADO DE MEXICO
+7993   KARINA FLORES MARTINEZ                    9/SEP/1986  FEMENINO     SOLTERO      73           LALA CHALCO                     24/MAY/2019  30/AGO/2019  1            AYUDANTE DE SERVICIO A          56605        ESTADO DE MEXICO
+7818   KARINA MARTINEZ ALVARADO                 19/MAY/1975  FEMENINO     CASADO       83           INGREDION                        4/DIC/2018   0/  0/0000  1            AYUDANTE DE COCINA E            54474        ESTADO DE MEXICO
+7958   KARLA HERNANDEZ GOMEZ                     2/DIC/1990  FEMENINO     SOLTERO      50           LALA CEYLAN                     12/ABR/2019  13/MAY/2019  1            AYUDANTE DE SERVICIO A          54170        ESTADO DE MEXICO
+7221   KARLA JOCELYN BALDERAS JIMENEZ           12/MAR/1997  FEMENINO     SOLTERO      80           CAFETERIA PRICE SHOES VALLEJO   22/MAY/2019   0/  0/0000  1            AYUDANTE DE SERVICIO A          52918        ESTADO DE MEXICO
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EJECUTIVOS EN SERVICIOS DE ALIMENTOS, S.A. DE C.V.                                                                      Pagina: 0007
+R.F.C.:                                                                                                                    2/NOV/19
+REPORTE BASE DE DATOS
+ 
+                                                                                                                                                              01= Diurna
+ 
+Codigo Nombre                                   Fecha nac    Sexo         Edo Civi     # Depto      Departamento                    F.Ingreso    F.Baja       Tipo Jornad  Puesto                          C.P.         Estado
+..........................................................................................................................................................................................................................................
+7815   KARLA PAOLA VELASCO ALARCON              19/NOV/1994  FEMENINO     SOLTERO      25           AKZO NOBEL                      28/NOV/2018   0/  0/0000  1            AYUDANTE DE SERVICIO A          56613        ESTADO DE MEXICO
+8055   LAISA FERNANDA FLORES JAIMES             15/MAR/2000  FEMENINO     SOLTERO      52           LALA TLAHUAC II                 15/JUL/2019   5/AGO/2019  1            AYUDANTE DE SERVICIO A          13400        CIUDAD DE MEXICO
+7838   LAURA ANTONIETA NOGALES GARCIA           19/OCT/1966  FEMENINO     SOLTERO      54           LALA TULTITLAN                  21/DIC/2018   7/ENE/2019  1            AYUDANTE DE COCINA E            54745        ESTADO DE MEXICO
+7895   LAURA COLIN YBARRA                        5/JUL/1964  FEMENINO     CASADO       85           SIGNA                           25/FEB/2019   8/MAR/2019  1            AYUDANTE DE SERVICIO D          50190        ESTADO DE MEXICO
+7798   LAURA HERNANDEZ VALENZUELA               19/DIC/1977  FEMENINO     SOLTERO      50           LALA CEYLAN                     29/OCT/2018  31/DIC/2018  1            COCINERO F                      55120        ESTADO DE MEXICO
+6839   LAURA SAENZ NOLASCO                      21/ABR/1966  FEMENINO     SOLTERO      75           SOMAR PLANTA VALLE               7/MAR/2016   0/  0/0000  1            AYUDANTE DE SERVICIO B 19       07089        CIUDAD DE MEXICO
+5646   LEONARDO ARTURO CABRERA LOPEZ             6/NOV/1963  MASCULINO    SOLTERO      51           LALA VALLEJO                     4/NOV/2013   0/  0/0000  1            AYUDANTE DE SERVICIO B 19       07969        CIUDAD DE MEXICO
+7750   LEONARDO GARCIA GARCIA                   27/NOV/1999  MASCULINO    SOLTERO      50           LALA CEYLAN                      3/SEP/2018   3/ENE/2019  1            AYUDANTE DE SERVICIO A          07170        CIUDAD DE MEXICO
+8136   LESLIE CORINA VEGA SANCHEZ               22/MAR/2000  FEMENINO     SOLTERO      81           BBVA TECNOPARQUE                25/SEP/2019   7/OCT/2019  1            AYUDANTE DE SERVICIO A          07183        CIUDAD DE MEXICO
+8164   LESLYE ALEJANDRA ZAVALA PELAEZ           21/MAR/1996  FEMENINO     SOLTERO      72           LALA LOS REYES                  21/OCT/2019   0/  0/0000  1            AYUDANTE DE SERVICIO A          56440        ESTADO DE MEXICO
+8011   LETICIA CAMACHO COLIN                    18/MAR/1984  FEMENINO     CASADO       52           LALA TLAHUAC II                  7/JUN/2019   0/  0/0000  1            COCINERO D                      56610        ESTADO DE MEXICO
+7708   LETICIA MUNGUIA ROMERO                    1/MAY/1984  FEMENINO     SOLTERO      60           LALA TECAMAC                     4/JUL/2018   0/  0/0000  1            AYUDANTE DE SERVICIO B 19       55065        ESTADO DE MEXICO
+7985   LETICIA OLIVARES SANCHEZ                 18/AGO/1982  FEMENINO     SOLTERO      04           PRODUCTOS DE UVA                 9/MAY/2019  10/JUL/2019  1            AYUDANTE DE SERVICIO A          52926        ESTADO DE MEXICO
+7962   LETICIA VILLANUEVA PORTUGAL              30/AGO/1976  FEMENINO     CASADO       85           SIGNA                           17/ABR/2019   6/MAY/2019  1            AYUDANTE DE SERVICIO A          50130        ESTADO DE MEXICO
+8109   LIDIA LOPEZ GARCIA                        3/AGO/1984  FEMENINO     SOLTERO      82           CEMEX BARRIENTOS                 4/SEP/2019   9/SEP/2019  1            AYUDANTE DE SERVICIO A          54130        ESTADO DE MEXICO
+7869   LILIA GEORGINA SANCHEZ CAPDEVILLE         6/ENE/1968  FEMENINO     SOLTERO      87           INTERNATIONAL PAPER             28/ENE/2019   0/  0/0000  1            AYUDANTE DE SERVICIO D          50285        ESTADO DE MEXICO
+7852   LILIANA ELIZABETH RODRIGUEZ HERNANDEZ     4/SEP/1975  FEMENINO     CASADO       80           CAFETERIA PRICE SHOES VALLEJO   14/ENE/2019  18/FEB/2019  1            AYUDANTE DE SERVICIO A          54100        ESTADO DE MEXICO
+7833   LILIANA VARGAS LOPEZ                     25/OCT/1975  FEMENINO     SOLTERO      80           CAFETERIA PRICE SHOES VALLEJO   11/DIC/2018  21/ENE/2019  1            AYUDANTE DE SERVICIO A          02070        CIUDAD DE MEXICO
+6978   LINA ALCALA CORTES                        3/SEP/1968  FEMENINO     SOLTERO      76           SOMAR PLANTA CHALCO              7/JUN/2016  31/DIC/2018  1            AYUDANTE DE SERVICIO A          56647        ESTADO DE MEXICO
+7882   LISSET ZARATE GARCIA                      3/SEP/1999  FEMENINO     SOLTERO      81           BBVA TECNOPARQUE                11/FEB/2019  13/JUN/2019  1            AYUDANTE DE SERVICIO A          54090        ESTADO DE MEXICO
+7973   LIZBETH ARGELIA TREJO VERDIGUEL          15/DIC/1975  FEMENINO     SOLTERO      81           BBVA TECNOPARQUE                30/ABR/2019   0/  0/0000  1            AYUDANTE DE SERVICIO A          07430        CIUDAD DE MEXICO
+7954   LIZNET SALGADO VALENCIA                  25/MAY/1973  FEMENINO     CASADO       85           SIGNA                           11/ABR/2019  12/ABR/2019  1            AYUDANTE DE SERVICIO A          50100        ESTADO DE MEXICO
+8043   LORENA JULIAN JUAN                       20/AGO/1977  FEMENINO     VIUDO        79           LALA NAUCALPAN                   2/JUL/2019  30/SEP/2019  1            AYUDANTE DE SERVICIO A          53700        ESTADO DE MEXICO
+8012   LORENA MARCOS GAMA                       19/FEB/1978  FEMENINO     SOLTERO      45           MEX EXPRESS                      7/JUN/2019   0/  0/0000  1            AYUDANTE DE SERVICIO A          57200        ESTADO DE MEXICO
+5679   LUCIA ELIA MORALES ESQUIVEL               4/JUN/1972  FEMENINO     SOLTERO      87           INTERNATIONAL PAPER             20/DIC/2013  13/SEP/2019  1            COCINERO D 19                   50295        ESTADO DE MEXICO
+8166   LUCIA GABRIELA DE LA ROSA MARTINEZ       24/MAR/1983  FEMENINO     CASADO       81           BBVA TECNOPARQUE                21/OCT/2019   0/  0/0000  1            AYUDANTE DE SERVICIO A          07469        CIUDAD DE MEXICO
+7892   LUCILA AGUILAR TORRES                    27/ABR/1985  FEMENINO     SOLTERO      82           CEMEX BARRIENTOS                18/FEB/2019  24/JUN/2019  1            AYUDANTE DE COCINA E            54946        ESTADO DE MEXICO
+7530   LUCILA RAMIREZ CRUZ                      10/ENE/1984  FEMENINO     SOLTERO      05           PRODUCCION CENTENO              18/OCT/2017   0/  0/0000  1            AYUDANTE DE SERVICIO B 19       57710        ESTADO DE MEXICO
+8151   LUIS ALFREDO RUIZ MATA                   28/FEB/1997  MASCULINO    SOLTERO      50           LALA CEYLAN                      9/OCT/2019   0/  0/0000  1            AYUDANTE DE SERVICIO A          07090        CIUDAD DE MEXICO
+8124   LUIS ANGEL ALARCON MORALES               19/MAR/1988  MASCULINO    SOLTERO      50           LALA CEYLAN                     18/SEP/2019   0/  0/0000  1            AYUDANTE DE SERVICIO A          07820        CIUDAD DE MEXICO
+8077   LUIS ANGEL GAMI¥O GABRIEL                30/OCT/1994  MASCULINO    SOLTERO      05           PRODUCCION CENTENO               5/AGO/2019   0/  0/0000  1            AYUDANTE DE SERVICIO A          09860        CIUDAD DE MEXICO
+8076   LUIS EDUARDO ACOSTA GUZMAN               16/DIC/1994  MASCULINO    SOLTERO      81           BBVA TECNOPARQUE                 7/AGO/2019   0/  0/0000  1            COCINERO D                      07550        CIUDAD DE MEXICO
+8128   LUIS FERNANDO DAVILA VALENCIA            24/NOV/1987  MASCULINO    SOLTERO      45           MEX EXPRESS                     23/SEP/2019  21/OCT/2019  1            AYUDANTE DE SERVICIO A          06020        CIUDAD DE MEXICO
+6459   LUIS JAVIER MONTIEL DIAZ                  6/FEB/1968  MASCULINO    CASADO       83           INGREDION                       18/JUN/2019  24/JUN/2019  1            AYUDANTE DE SERVICIO A          54030        ESTADO DE MEXICO
+6028   LUIS MANUEL RUIZ ROMERO                   8/MAY/1965  MASCULINO    SOLTERO      11           SERVIGAM                         2/DIC/2014   0/  0/0000  1            CHOFER B 18                     02530        CIUDAD DE MEXICO
+7908   LUIS MIGUEL HERRERA CRUZ                 29/AGO/1994  MASCULINO    CASADO       85           SIGNA                            5/MAR/2019  11/MAR/2019  1            AYUDANTE DE SERVICIO A          50016        ESTADO DE MEXICO
+6565   LUIS VALDES ECHEVERRIA                   14/MAR/1986  MASCULINO    SOLTERO      52           LALA TLAHUAC II                 15/SEP/2015   0/  0/0000  1            AYUDANTE DE SERVICIO B 19       13300        CIUDAD DE MEXICO
+7731   LUISA IVONNE FALCON FERRUSCO             26/JUN/1977  FEMENINO     SOLTERO      37           BIMBO                           30/JUL/2018  30/ENE/2019  1            AYUDANTE DE SERVICIO A          53378        ESTADO DE MEXICO
+7753   MA DEL ROSARIO CHAVEZ ESCOBEDO           10/ENE/1973  FEMENINO     SOLTERO      83           INGREDION                        4/SEP/2018  22/ABR/2019  1            AYUDANTE DE COCINA E            54140        ESTADO DE MEXICO
+3676   MA GUADALUPE RIOS ESPINAL                17/JUL/1961  FEMENINO     DIVORCIADO   80           CAFETERIA PRICE SHOES VALLEJO   13/OCT/2009   0/  0/0000  1            COCINERO D 19                   52928        ESTADO DE MEXICO
+8038   MA MAGDALENA RAMIREZ MORALES             22/JUL/1973  FEMENINO     CASADO       59           LALA TEXCOCO                     1/JUL/2019  10/JUL/2019  1            AYUDANTE DE SERVICIO A          56264        ESTADO DE MEXICO
+8165   MANUEL ABRAHAM ESPARZA FERNANDEZ         20/FEB/1996  MASCULINO    SOLTERO      81           BBVA TECNOPARQUE                22/OCT/2019   0/  0/0000  1            AYUDANTE DE SERVICIO A          55390        ESTADO DE MEXICO
+3221   MANUEL XAVIER PE¥A LOZANO                12/OCT/1965  MASCULINO    CASADO       11           SERVIGAM                        18/JUN/2018   0/  0/0000  1            CHOFER C 18                     09310        CIUDAD DE MEXICO
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EJECUTIVOS EN SERVICIOS DE ALIMENTOS, S.A. DE C.V.                                                                      Pagina: 0008
+R.F.C.:                                                                                                                    2/NOV/19
+REPORTE BASE DE DATOS
+ 
+                                                                                                                                                              01= Diurna
+ 
+Codigo Nombre                                   Fecha nac    Sexo         Edo Civi     # Depto      Departamento                    F.Ingreso    F.Baja       Tipo Jornad  Puesto                          C.P.         Estado
+..........................................................................................................................................................................................................................................
+7741   MARCELA FARIAS CEDE¥O                    27/ABR/1970  FEMENINO     CASADO       25           AKZO NOBEL                      20/AGO/2018  10/JUN/2019  1            AYUDANTE DE SERVICIO B 19       56334        ESTADO DE MEXICO
+7779   MARCELA FLORES LEON                      16/ENE/1969  FEMENINO     CASADO       52           LALA TLAHUAC II                  5/OCT/2018   0/  0/0000  1            COCINERO A                      09290        CIUDAD DE MEXICO
+7269   MARCELA LEON ROSETE                      19/ENE/1969  FEMENINO     SOLTERO      68           LALA VALLE SUR                  16/FEB/2017  25/FEB/2019  1            AYUDANTE DE SERVICIO A          56577        ESTADO DE MEXICO
+7942   MARCELA RAQUEL AGUILAR PICAZO            16/ENE/1966  FEMENINO     CASADO       88           TOYOTA                           4/ABR/2019   0/  0/0000  1            AYUDANTE DE SERVICIO A          53580        ESTADO DE MEXICO
+7844   MARCELA VANEGAS GALICIA                  14/AGO/1964  FEMENINO     SOLTERO      76           SOMAR PLANTA CHALCO              8/ENE/2019  21/FEB/2019  1            AYUDANTE DE SERVICIO A          56640        ESTADO DE MEXICO
+7710   MARCO ANTONIO GARCIA GARCIA              14/NOV/1971  MASCULINO    SOLTERO      85           SIGNA                           25/FEB/2019   8/MAR/2019  1            AYUDANTE DE SERVICIO D          50010        ESTADO DE MEXICO
+8014   MARCO ANTONIO NICOLAS CABRERA            13/AGO/1996  MASCULINO    SOLTERO      05           PRODUCCION CENTENO              11/JUN/2019  17/JUN/2019  1            AYUDANTE DE SERVICIO A          57740        ESTADO DE MEXICO
+8035   MARCO ANTONIO SOBERANIS SANCHEZ          19/MAY/1966  MASCULINO    CASADO       83           INGREDION                       27/JUN/2019   5/SEP/2019  1            AYUDANTE DE SERVICIO A          54080        ESTADO DE MEXICO
+7876   MARCO ANTONIO SOLORZANO AGUILAR          11/NOV/1993  MASCULINO    CASADO       85           SIGNA                            8/FEB/2019  21/FEB/2019  1            AYUDANTE DE SERVICIO D          51350        ESTADO DE MEXICO
+7845   MARCO ANTONIO VAZQUEZ ROMERO             31/OCT/1998  MASCULINO    SOLTERO      54           LALA TULTITLAN                   9/ENE/2019   0/  0/0000  1            AYUDANTE DE COCINA E            54963        ESTADO DE MEXICO
+4773   MARCO ANTONIO VICTORINO ROSALES           7/FEB/1973  MASCULINO    SOLTERO      50           LALA CEYLAN                      6/SEP/2019   7/OCT/2019  1            AYUDANTE DE SERVICIO A          07089        CIUDAD DE MEXICO
+8104   MARCOS ABEL OVIEDO MONTIEL               22/AGO/2000  FEMENINO     SOLTERO      88           TOYOTA                          26/AGO/2019   2/SEP/2019  1            AYUDANTE DE SERVICIO A          53217        ESTADO DE MEXICO
+7920   MARGARITA EUGENIA GURROLA GARCIA         27/ENE/1992  FEMENINO     SOLTERO      81           BBVA TECNOPARQUE                13/MAR/2019  19/AGO/2019  1            AYUDANTE DE SERVICIO A          54090        ESTADO DE MEXICO
+7996   MARIA ANTONIETA RICO MORALES              6/MAR/1974  FEMENINO     SOLTERO      50           LALA CEYLAN                     27/MAY/2019   0/  0/0000  1            AYUDANTE DE SERVICIO A          02600        CIUDAD DE MEXICO
+2522   MARIA CELESTINA YOLANDA RODRIGUEZ        19/MAY/1952  FEMENINO     SOLTERO      45           MEX EXPRESS                     21/MAR/2013   0/  0/0000  1            AYUDANTE DE SERVICIO B 19       56335        ESTADO DE MEXICO
+7990   MARIA CRISTINA CRUZ REYES                11/MAR/1969  FEMENINO     SOLTERO      50           LALA CEYLAN                     21/MAY/2019  29/JUL/2019  1            AYUDANTE DE SERVICIO A          07880        CIUDAD DE MEXICO
+7856   MARIA CRISTINA ESCALANTE BARRERA         18/SEP/1975  FEMENINO     CASADO       05           PRODUCCION CENTENO              21/ENE/2019   1/FEB/2019  1            AYUDANTE DE SERVICIO A          09800        CIUDAD DE MEXICO
+7938   MARIA DE JESUS BELTRAN SARABIA           16/NOV/1973  FEMENINO     CASADO       87           INTERNATIONAL PAPER             28/MAR/2019  17/JUN/2019  1            AYUDANTE DE SERVICIO A          50160        ESTADO DE MEXICO
+8125   MARIA DE LA PAZ DOMINGUEZ RODRIGUEZ      12/MAY/1987  FEMENINO     CASADO       59           LALA TEXCOCO                    19/SEP/2019   0/  0/0000  1            AYUDANTE DE SERVICIO A          56208        ESTADO DE MEXICO
+7875   MARIA DE LOS ANGELES BECERRIL TREJO       1/OCT/1971  FEMENINO     CASADO       50           LALA CEYLAN                      7/FEB/2019  18/MAR/2019  1            AYUDANTE DE SERVICIO A          02310        CIUDAD DE MEXICO
+0236   MARIA DE LOS ANGELES CABRERA CRUZ        24/AGO/1961  FEMENINO     SOLTERO      45           MEX EXPRESS                     14/MAY/1999   1/JUL/2019  1            ENCARGADA DE COMEDOR            57000        ESTADO DE MEXICO
+8154   MARIA DE LOS ANGELES MORALES MARTINEZ     2/OCT/1993  FEMENINO     SOLTERO      52           LALA TLAHUAC II                 16/OCT/2019   0/  0/0000  1            AYUDANTE DE SERVICIO A          09700        CIUDAD DE MEXICO
+7080   MARIA DE LOS ANGELES VALENCIA GARCIA      2/AGO/1970  FEMENINO     SOLTERO      87           INTERNATIONAL PAPER              5/SEP/2016   0/  0/0000  1            COCINERO E 19                   50285        ESTADO DE MEXICO
+5965   MARIA DE LOURDES ARMENTA MARTINEZ        13/MAR/1967  FEMENINO     SOLTERO      72           LALA LOS REYES                  25/JUN/2015   0/  0/0000  1            COCINERO B 19                   56560        ESTADO DE MEXICO
+5447   MARIA DE LOURDES MAGOS MALDONADO         19/JUN/1965  FEMENINO     SOLTERO      83           INGREDION                       20/MAY/2013   0/  0/0000  1            AYUDANTE DE COCINA E            55280        ESTADO DE MEXICO
+7932   MARIA DEL CARMEN CASTELLANOS RAMIREZ      1/JUL/1966  FEMENINO     VIUDO        52           LALA TLAHUAC II                 27/MAR/2019  26/AGO/2019  1            AYUDANTE DE SERVICIO A          04919        CIUDAD DE MEXICO
+7886   MARIA DEL CARMEN CRUZ LANDIN             16/JUL/1974  FEMENINO     SOLTERO      56           LALA MIXCOAC                    13/FEB/2019  18/MAR/2019  1            AYUDANTE DE SERVICIO A          01230        CIUDAD DE MEXICO
+7937   MARIA DEL CARMEN CRUZ MENDOZA            17/AGO/1983  FEMENINO     CASADO       87           INTERNATIONAL PAPER             28/MAR/2019   6/MAY/2019  1            AYUDANTE DE SERVICIO A          50020        ESTADO DE MEXICO
+7723   MARIA DEL CARMEN MARIN CRUZ               4/OCT/1994  FEMENINO     CASADO       50           LALA CEYLAN                     18/JUL/2018   3/ENE/2019  1            AYUDANTE DE SERVICIO A          02240        CIUDAD DE MEXICO
+6685   MARIA DEL CARMEN ORTIZ LOAEZA            15/JUN/1965  FEMENINO     SOLTERO      73           LALA CHALCO                     17/NOV/2015   0/  0/0000  1            AYUDANTE DE SERVICIO B 19       56530        ESTADO DE MEXICO
+7927   MARIA DEL CARMEN PACHECO ALVARADO         3/AGO/1972  FEMENINO     SOLTERO      81           BBVA TECNOPARQUE                25/MAR/2019  29/ABR/2019  1            AYUDANTE DE SERVICIO A          07207        CIUDAD DE MEXICO
+7877   MARIA DEL CARMEN RAMIREZ LEONARDO        21/JUN/1973  FEMENINO     CASADO       56           LALA MIXCOAC                     8/FEB/2019  21/FEB/2019  1            AYUDANTE DE SERVICIO A          01280        CIUDAD DE MEXICO
+8056   MARIA DEL CARMEN SALGADO CALDERON        20/MAR/1979  FEMENINO     CASADO       56           LALA MIXCOAC                    15/JUL/2019   0/  0/0000  1            COCINERO D                      51726        ESTADO DE MEXICO
+5549   MARIA DEL CARMEN SANCHEZ MORENO          17/JUL/1963  FEMENINO     SOLTERO      45           MEX EXPRESS                     12/AGO/2013   0/  0/0000  1            AYUDANTE DE SERVICIO B 19       15530        CIUDAD DE MEXICO
+8117   MARIA DEL CARMEN TAPIA RUIZ              16/JUL/1976  FEMENINO     CASADO       37           BIMBO                            9/SEP/2019   0/  0/0000  1            AYUDANTE DE SERVICIO A          02230        CIUDAD DE MEXICO
+7911   MARIA DEL PILAR SANCHEZ MARTINEZ          5/JUN/1977  FEMENINO     SOLTERO      45           MEX EXPRESS                      6/MAR/2019   8/ABR/2019  1            AYUDANTE DE SERVICIO A          08500        CIUDAD DE MEXICO
+7874   MARIA DEL ROSARIO PACHECO DE LUNA        10/MAR/1980  FEMENINO     SOLTERO      85           SIGNA                            5/FEB/2019  18/ABR/2019  1            AYUDANTE DE SERVICIO D          50010        ESTADO DE MEXICO
+7860   MARIA DOLORES BLANQUEL AMARO             22/AGO/1990  FEMENINO     SOLTERO      85           SIGNA                           22/ENE/2019  11/FEB/2019  1            AYUDANTE DE SERVICIO D          50200        ESTADO DE MEXICO
+0854   MARIA EFIGENIA IGNACIO PEREZ             16/NOV/1964  FEMENINO     SOLTERO      05           PRODUCCION CENTENO               3/FEB/2012   0/  0/0000  1            COCINERO G 19                   09700        CIUDAD DE MEXICO
+7295   MARIA ELENA HERNANDEZ CHORE¥O            21/JUN/1974  FEMENINO     CASADO       57           LALA SANTA CLARA                27/FEB/2017   0/  0/0000  1            AYUDANTE DE SERVICIO B 19       55507        ESTADO DE MEXICO
+8059   MARIA ELIZABETH GUZMAN CRUZ               1/MAY/1996  FEMENINO     SOLTERO      72           LALA LOS REYES                  17/JUL/2019   3/SEP/2019  1            AYUDANTE DE SERVICIO A          09600        CIUDAD DE MEXICO
+6832   MARIA ERICA LOPEZ QUEVEDO                 7/FEB/1975  FEMENINO     SOLTERO      05           PRODUCCION CENTENO               1/MAR/2016  30/MAY/2019  1            AYUDANTE DE SERVICIO B 19       08000        CIUDAD DE MEXICO
+8003   MARIA FERNANDA BARAJAS SANCHEZ           19/SEP/1994  FEMENINO     SOLTERO      81           BBVA TECNOPARQUE                 3/JUN/2019  17/JUN/2019  1            AYUDANTE DE SERVICIO A          55310        ESTADO DE MEXICO
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EJECUTIVOS EN SERVICIOS DE ALIMENTOS, S.A. DE C.V.                                                                      Pagina: 0009
+R.F.C.:                                                                                                                    2/NOV/19
+REPORTE BASE DE DATOS
+ 
+                                                                                                                                                              01= Diurna
+ 
+Codigo Nombre                                   Fecha nac    Sexo         Edo Civi     # Depto      Departamento                    F.Ingreso    F.Baja       Tipo Jornad  Puesto                          C.P.         Estado
+..........................................................................................................................................................................................................................................
+8133   MARIA FERNANDA JIMENEZ LEMUS              5/AGO/1998  FEMENINO     SOLTERO      52           LALA TLAHUAC II                 25/SEP/2019   0/  0/0000  1            AYUDANTE DE SERVICIO A          09760        CIUDAD DE MEXICO
+7956   MARIA GUADALUPE ALVAREZ HERNANDEZ        22/NOV/1989  FEMENINO     SOLTERO      87           INTERNATIONAL PAPER             11/ABR/2019  12/ABR/2019  1            AYUDANTE DE SERVICIO A          50295        ESTADO DE MEXICO
+4807   MARIA GUADALUPE AMBRIZ DELGADO           21/SEP/1956  FEMENINO     CASADO       06           SUPERVISION                      1/MAR/2012   0/  0/0000  1            GERENTE DE GRUPO                54744        ESTADO DE MEXICO
+7952   MARIA GUADALUPE CARRO BELTRAN            13/JUL/1983  FEMENINO     SOLTERO      45           MEX EXPRESS                     10/ABR/2019   6/MAY/2019  1            AYUDANTE DE SERVICIO A          08100        CIUDAD DE MEXICO
+6821   MARIA GUADALUPE GARRIDO TRUJILLO         11/DIC/1974  FEMENINO     SOLTERO      25           AKZO NOBEL                      19/FEB/2016   1/JUL/2019  1            COCINERO B 19                   56535        ESTADO DE MEXICO
+8018   MARIA GUADALUPE PEREZ RINCON             13/DIC/1995  FEMENINO     SOLTERO      52           LALA TLAHUAC II                 11/JUN/2019  26/SEP/2019  1            COCINERO B                      56610        ESTADO DE MEXICO
+8160   MARIA GUADALUPE RODRIGUEZ BALDERAS       10/DIC/1994  FEMENINO     SOLTERO      73           LALA CHALCO                     18/OCT/2019   0/  0/0000  1            AYUDANTE DE SERVICIO A          56535        ESTADO DE MEXICO
+7870   MARIA HORTENSIA ROJAS BALDERAS           14/MAY/1968  FEMENINO     CASADO       50           LALA CEYLAN                     29/ENE/2019   1/FEB/2019  1            AYUDANTE DE SERVICIO A          54170        ESTADO DE MEXICO
+7850   MARIA ISABEL ZU¥IGA MORALES               6/ABR/1992  FEMENINO     SOLTERO      52           LALA TLAHUAC II                 11/ENE/2019  11/MAR/2019  1            AYUDANTE DE SERVICIO A          09868        CIUDAD DE MEXICO
+7862   MARIA JOSEFINA VAZQUEZ ZEPEDA            21/ABR/1972  FEMENINO     SOLTERO      85           SIGNA                           22/ENE/2019   6/FEB/2019  1            AYUDANTE DE SERVICIO D          50160        ESTADO DE MEXICO
+8153   MARIA LETICIA ADUNA CHAVEZ                6/SEP/1987  FEMENINO     SOLTERO      54           LALA TULTITLAN                  11/OCT/2019   0/  0/0000  1            AYUDANTE DE SERVICIO A          54964        ESTADO DE MEXICO
+3169   MARIA LUCINA GARCIA LOPEZ                30/JUN/1956  FEMENINO     SOLTERO      76           SOMAR PLANTA CHALCO             29/AGO/2008   0/  0/0000  1            AYUDANTE DE SERVICIO B 19       56563        ESTADO DE MEXICO
+7930   MARIA MAGDALENA VAZQUEZ ROMERO           10/NOV/1979  FEMENINO     SOLTERO      83           INGREDION                       26/MAR/2019  24/ABR/2019  1            AYUDANTE DE SERVICIO A          54963        ESTADO DE MEXICO
+7947   MARIA PATRICIA TREJO ZERME¥O             17/MAR/1970  FEMENINO     CASADO       50           LALA CEYLAN                      5/ABR/2019  15/JUL/2019  1            AYUDANTE DE SERVICIO A          07210        CIUDAD DE MEXICO
+4514   MARIA TERESA CAMACHO ALEGRIA              2/SEP/1961  FEMENINO     CASADO       54           LALA TULTITLAN                  12/SEP/2011   0/  0/0000  1            COCINERO D 19                   55717        ESTADO DE MEXICO
+6379   MARIA TERESA RIOS CORREA                 26/NOV/1972  FEMENINO     SOLTERO      52           LALA TLAHUAC II                 20/MAR/2019  11/JUN/2019  1            AYUDANTE DE SERVICIO A          09790        CIUDAD DE MEXICO
+7814   MARIA TERESA VALDOVINOS PADILLA          11/DIC/1977  FEMENINO     SOLTERO      81           BBVA TECNOPARQUE                26/NOV/2018   0/  0/0000  1            AYUDANTE DE COCINA E            52949        ESTADO DE MEXICO
+7104   MARIA VELAZQUEZ MARTINEZ                 11/SEP/1973  FEMENINO     SOLTERO      04           PRODUCTOS DE UVA                 3/MAY/2018   8/MAR/2019  1            AYUDANTE DE COCINA E            54948        ESTADO DE MEXICO
+7754   MARIA VERONICA MENDOZA ALVAREZ            9/JUN/1966  FEMENINO     VIUDO        61           LALA ATIZAPAN                   22/ENE/2019   0/  0/0000  1            AYUDANTE DE SERVICIO B          52918        ESTADO DE MEXICO
+7717   MARIA VERONICA RODRIGUEZ RIVERA           3/FEB/1968  FEMENINO     SOLTERO      05           PRODUCCION CENTENO              13/JUL/2018  21/AGO/2019  1            COCINERO E                      09830        CIUDAD DE MEXICO
+6014   MARIA VICTORIA TORRES HERNANDEZ          28/JUL/1968  FEMENINO     SOLTERO      75           SOMAR PLANTA VALLE              18/NOV/2014   0/  0/0000  1            COCINERO D 19                   09300        CIUDAD DE MEXICO
+7775   MARIANA ANGEL GARCIA ARREDONDO            3/FEB/1989  FEMENINO     SOLTERO      37           BIMBO                            1/OCT/2018   7/OCT/2019  1            AYUDANTE DE SERVICIO A          07580        CIUDAD DE MEXICO
+8025   MARIBEL CHAVEZ TAPIA                     12/ABR/1971  FEMENINO     CASADO       52           LALA TLAHUAC II                 19/JUN/2019  15/JUL/2019  1            AYUDANTE DE SERVICIO A          09920        CIUDAD DE MEXICO
+8159   MARIBEL MARTINEZ GONZALEZ                11/AGO/1981  FEMENINO     CASADO       56           LALA MIXCOAC                    16/OCT/2019   0/  0/0000  1            AYUDANTE DE SERVICIO A          01139        CIUDAD DE MEXICO
+7783   MARIBEL MARTINEZ PEREZ                   16/MAY/1984  FEMENINO     CASADO       56           LALA MIXCOAC                    10/OCT/2018   9/ENE/2019  1            COCINERO B                      01100        CIUDAD DE MEXICO
+7551   MARIBEL MORA GABRIEL                      6/JUL/1976  FEMENINO     CASADO       88           TOYOTA                           8/ENE/2018   2/ABR/2019  1            COCINERO A 19                   53428        ESTADO DE MEXICO
+7715   MARICELA MARLEN CRUZ ORTEGA               2/JUL/1990  FEMENINO     SOLTERO      52           LALA TLAHUAC II                 13/JUL/2018   6/MAY/2019  1            AYUDANTE DE SERVICIO B 19       09630        CIUDAD DE MEXICO
+8110   MARICRUZ VENEGAS PORTILLO                 3/MAY/1990  FEMENINO     SOLTERO      05           PRODUCCION CENTENO               5/SEP/2019  16/SEP/2019  1            AYUDANTE DE SERVICIO A          08700        CIUDAD DE MEXICO
+8089   MARILYN VILLELA GARCILAZO                11/AGO/1997  FEMENINO     SOLTERO      79           LALA NAUCALPAN                  14/AGO/2019  19/AGO/2019  1            AYUDANTE DE SERVICIO A          53220        ESTADO DE MEXICO
+3827   MARIO ALBERTO AVILA SABUGAL              17/AGO/1980  MASCULINO    SOLTERO      05           PRODUCCION CENTENO               6/ABR/2010   0/  0/0000  1            AYUDANTE DE SERVICIO D          08400        CIUDAD DE MEXICO
+7976   MARIO ALBERTO CARREON ALVAREZ            27/ENE/1992  MASCULINO    SOLTERO      81           BBVA TECNOPARQUE                 6/MAY/2019  29/JUL/2019  1            AYUDANTE DE SERVICIO A          07840        CIUDAD DE MEXICO
+8103   MARIO ALBERTO CUEVAS BELTRAN             20/JUL/1980  FEMENINO     SOLTERO      79           LALA NAUCALPAN                  26/AGO/2019   0/  0/0000  1            AYUDANTE DE SERVICIO A          53688        ESTADO DE MEXICO
+8054   MARIO ALEJANDRO MARTINEZ SERRANO         16/MAY/2019  MASCULINO    SOLTERO      81           BBVA TECNOPARQUE                15/JUL/2019   0/  0/0000  1            AYUDANTE DE SERVICIO A          02125        CIUDAD DE MEXICO
+7899   MARISA GARCIA GONZALEZ                    5/AGO/1973  FEMENINO     SOLTERO      85           SIGNA                           25/FEB/2019  26/FEB/2019  1            AYUDANTE DE SERVICIO D          50295        ESTADO DE MEXICO
+5412   MARISELA GONZALEZ LARA                   15/AGO/1975  FEMENINO     SOLTERO      03           ESTRELLAS COLGATE                8/DIC/2014   0/  0/0000  1            AYUDANTE DE SERVICIO B 19       01800        CIUDAD DE MEXICO
+4504   MARISOL DURAN GARCIA                      8/ENE/1982  FEMENINO     CASADO       52           LALA TLAHUAC II                 20/JUL/2017  10/JUN/2019  1            HIGIENISTA                      56615        ESTADO DE MEXICO
+8041   MARISOL GUADALUPE CEBALLOS JIMENEZ       16/MAY/1980  FEMENINO     SOLTERO      74           SOMAR CORPORATIVO                3/JUL/2019  10/JUL/2019  1            AYUDANTE DE SERVICIO A          09920        CIUDAD DE MEXICO
+7995   MARISOL MEJIA BELTRAN                    29/AGO/1980  FEMENINO     SOLTERO      82           CEMEX BARRIENTOS                23/MAY/2019  26/AGO/2019  1            AYUDANTE DE SERVICIO A          52924        ESTADO DE MEXICO
+7395   MARISOL RAMIREZ ROMERO                    9/AGO/1994  FEMENINO     SOLTERO      87           INTERNATIONAL PAPER             12/JUN/2017   0/  0/0000  1            AYUDANTE DE SERVICIO D          50039        ESTADO DE MEXICO
+0214   MARISOL ROMERO SEBASTIAN                 21/JUL/1974  FEMENINO     SOLTERO      06           SUPERVISION                      2/ENE/2017   0/  0/0000  1            GERENTE DE CALIDAD              57750        ESTADO DE MEXICO
+7849   MARTHA ANGELICA TORRES JIMENEZ           22/JUL/1971  FEMENINO     SOLTERO      74           SOMAR CORPORATIVO               10/ENE/2019   0/  0/0000  1            AYUDANTE DE SERVICIO A          16797        CIUDAD DE MEXICO
+6321   MARTHA BRAVO VALDIVIA                    19/NOV/1973  FEMENINO     SOLTERO      76           SOMAR PLANTA CHALCO             21/MAY/2015  17/JUN/2019  1            AYUDANTE DE SERVICIO B          56589        ESTADO DE MEXICO
+5232   MARTHA MARCOS GARDU¥O                    24/FEB/1964  FEMENINO     SOLTERO      50           LALA CEYLAN                     12/ENE/2016   0/  0/0000  1            COCINERO F 19                   07100        CIUDAD DE MEXICO
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EJECUTIVOS EN SERVICIOS DE ALIMENTOS, S.A. DE C.V.                                                                      Pagina: 0010
+R.F.C.:                                                                                                                    2/NOV/19
+REPORTE BASE DE DATOS
+ 
+                                                                                                                                                              01= Diurna
+ 
+Codigo Nombre                                   Fecha nac    Sexo         Edo Civi     # Depto      Departamento                    F.Ingreso    F.Baja       Tipo Jornad  Puesto                          C.P.         Estado
+..........................................................................................................................................................................................................................................
+8019   MARTHA PATRICIA BARRAGAN HERNANDEZ        9/JUN/1998  FEMENINO     SOLTERO      04           PRODUCTOS DE UVA                13/JUN/2019   0/  0/0000  1            AYUDANTE DE SERVICIO A          54945        ESTADO DE MEXICO
+4958   MARTHA PATRICIA FLORES SILVA             12/JUN/1965  FEMENINO     SOLTERO      57           LALA SANTA CLARA                24/MAY/2012   0/  0/0000  1            AYUDANTE DE SERVICIO B 19       55520        ESTADO DE MEXICO
+7880   MARTHA PEREZ LOPEZ                       21/FEB/1970  FEMENINO     SOLTERO      45           MEX EXPRESS                     11/FEB/2019  15/JUL/2019  1            AYUDANTE DE SERVICIO A          09830        CIUDAD DE MEXICO
+3979   MARTIN BECERRIL CORDOVA                  14/MAY/1976  MASCULINO    CASADO       06           SUPERVISION                     26/JUL/2010   0/  0/0000  1            GERENTE DE GRUPO                09760        CIUDAD DE MEXICO
+7854   MARTIN LONGINO GUTIERREZ                 11/ENE/1992  MASCULINO    SOLTERO      51           LALA VALLEJO                    14/ENE/2019  18/FEB/2019  1            AYUDANTE DE SERVICIO A          54100        ESTADO DE MEXICO
+7902   MARVIN ALEJANDRO GARCIA URIBE            17/ABR/1985  MASCULINO    CASADO       45           MEX EXPRESS                      4/MAR/2019  24/JUN/2019  1            AYUDANTE DE SERVICIO A          56514        ESTADO DE MEXICO
+0442   MAXIMINO OLIVO PALOMINO                  21/JUN/1967  MASCULINO    SOLTERO      05           PRODUCCION CENTENO              14/ENE/1999   0/  0/0000  1            ALMACENISTA C 18                54170        ESTADO DE MEXICO
+5282   MAYRA GUDELIA COVARRUBIAS GARCIA         13/DIC/1973  FEMENINO     SOLTERO      56           LALA MIXCOAC                    20/AGO/2019  26/AGO/2019  1            AYUDANTE DE SERVICIO A          01510        CIUDAD DE MEXICO
+7699   MAYRA MAGDALENA LUNA PE¥A                17/ABR/1989  FEMENINO     SOLTERO      50           LALA CEYLAN                     21/JUN/2018  25/MAR/2019  1            AYUDANTE DE SERVICIO B 19       02600        CIUDAD DE MEXICO
+8134   MELANY KRISTEL HERNANDEZ SUSANO          16/ABR/2001  FEMENINO     SOLTERO      52           LALA TLAHUAC II                 25/SEP/2019   0/  0/0000  1            AYUDANTE DE SERVICIO A          09910        CIUDAD DE MEXICO
+7857   METZLY EVELIA FLORES DIAZ                12/FEB/1990  FEMENINO     SOLTERO      74           SOMAR CORPORATIVO               22/ENE/2019  22/MAY/2019  1            SUPERVISOR                      15500        CIUDAD DE MEXICO
+7330   MIGUEL ANGEL GONZALEZ TORRES             29/SEP/1969  MASCULINO    SOLTERO      05           PRODUCCION CENTENO              28/MAR/2017   0/  0/0000  1            COCINERO B                      56383        ESTADO DE MEXICO
+8079   MIGUEL ANGEL MACIAS ARAOZ                17/NOV/1970  MASCULINO    CASADO       68           LALA VALLE SUR                   6/AGO/2019  20/AGO/2019  1            AYUDANTE DE SERVICIO A          08930        CIUDAD DE MEXICO
+8101   MIGUEL ANGEL RAMIREZ RIVERA               3/JUN/1966  FEMENINO     SOLTERO      05           PRODUCCION CENTENO              26/AGO/2019   0/  0/0000  1            AYUDANTE DE SERVICIO A          09220        CIUDAD DE MEXICO
+7987   MIGUEL ANGEL RODRIGUEZ ACOSTA            11/ABR/1990  MASCULINO    SOLTERO      52           LALA TLAHUAC II                 15/MAY/2019  10/JUN/2019  1            AYUDANTE DE SERVICIO A          09780        CIUDAD DE MEXICO
+7719   MIGUEL EDUARDO MARTINEZ PINEDA            8/OCT/1991  MASCULINO    SOLTERO      57           LALA SANTA CLARA                18/JUL/2018  30/MAY/2019  1            AYUDANTE DE SERVICIO B 19       55507        ESTADO DE MEXICO
+7924   MIGUEL ZU¥IGA ORTIZ                      11/ABR/1970  MASCULINO    SOLTERO      50           LALA CEYLAN                     21/MAR/2019   8/ABR/2019  1            AYUDANTE DE SERVICIO A          54189        ESTADO DE MEXICO
+7841   MINERVA HERNANDEZ ORTIZ                  17/ABR/1970  FEMENINO     SOLTERO      68           LALA VALLE SUR                   4/ENE/2019  30/ENE/2019  1            AYUDANTE DE SERVICIO A          09130        CIUDAD DE MEXICO
+7929   MIRIAM BERENICE SAMANO DOMINGUEZ         14/AGO/1992  FEMENINO     CASADO       87           INTERNATIONAL PAPER             25/MAR/2019  26/MAR/2019  1            AYUDANTE DE SERVICIO A          50280        ESTADO DE MEXICO
+8005   MITZI MICHELLE RAMIREZ SEGURA            29/SEP/1995  FEMENINO     SOLTERO      88           TOYOTA                           4/JUN/2019  17/JUN/2019  1            AYUDANTE DE SERVICIO A          53260        ESTADO DE MEXICO
+8053   MITZY PEREZ OLVERA                       30/DIC/1992  FEMENINO     CASADO       81           BBVA TECNOPARQUE                12/JUL/2019  15/JUL/2019  1            AYUDANTE DE SERVICIO A          07290        CIUDAD DE MEXICO
+7961   MOISES MONTERRUBIO RUIZ                   8/JUL/1999  MASCULINO    SOLTERO      87           INTERNATIONAL PAPER             17/ABR/2019  24/ABR/2019  1            AYUDANTE DE SERVICIO A          50080        ESTADO DE MEXICO
+7846   MONICA ITZEL SALGADO RUBIO                8/JUN/1992  FEMENINO     SOLTERO      54           LALA TULTITLAN                   9/ENE/2019   0/  0/0000  1            AYUDANTE DE COCINA E            54803        ESTADO DE MEXICO
+8004   MONICA SALCEDO SANCHEZ                   17/OCT/1975  FEMENINO     CASADO       57           LALA SANTA CLARA                 4/JUN/2019  22/JUL/2019  1            AYUDANTE DE SERVICIO A          55515        ESTADO DE MEXICO
+8091   MYRIAM JIMENEZ ROMERO                     5/OCT/1974  FEMENINO     CASADO       04           PRODUCTOS DE UVA                15/AGO/2019   0/  0/0000  1            AYUDANTE DE SERVICIO A          54475        ESTADO DE MEXICO
+8167   NADIA JOCELYN CARDENAS SEGURA            24/JUN/1989  FEMENINO     SOLTERO      51           LALA VALLEJO                    23/OCT/2019   0/  0/0000  1            AYUDANTE DE SERVICIO A          07510        CIUDAD DE MEXICO
+7898   NALLELY LEON ALONSO                      30/AGO/1988  FEMENINO     SOLTERO      45           MEX EXPRESS                     25/FEB/2019  27/FEB/2019  1            AYUDANTE DE SERVICIO A          57620        ESTADO DE MEXICO
+7421   NANCI ALEJANDRA LOPEZ HUERTA             17/ENE/1990  FEMENINO     SOLTERO      73           LALA CHALCO                      4/JUL/2017  22/ABR/2019  1            AYUDANTE DE SERVICIO B 19       56570        ESTADO DE MEXICO
+7928   NANCY ARACELI OLGUIN GUERRERO            26/DIC/1997  FEMENINO     SOLTERO      88           TOYOTA                          25/MAR/2019  20/MAY/2019  1            AYUDANTE DE SERVICIO A          53697        ESTADO DE MEXICO
+7926   NANCY HERNANDEZ NAVA                     17/ENE/1977  FEMENINO     SOLTERO      56           LALA MIXCOAC                    25/MAR/2019  28/MAR/2019  1            COCINERO D                      56587        ESTADO DE MEXICO
+8062   NANCY LIZBETH SOLORZANO ACU¥A             4/JUN/1974  FEMENINO     CASADO       56           LALA MIXCOAC                    18/JUL/2019  12/AGO/2019  1            AYUDANTE DE SERVICIO A          01220        CIUDAD DE MEXICO
+7910   NANCY PATRICIA VILLAREAL DURAN           17/JUN/1994  FEMENINO     CASADO       51           LALA VALLEJO                     6/MAR/2019   8/MAR/2019  1            AYUDANTE DE SERVICIO A          07207        CIUDAD DE MEXICO
+7983   NARCISO ELIUD RAMIREZ FLORES             24/DIC/1997  MASCULINO    SOLTERO      73           LALA CHALCO                     10/MAY/2019  27/MAY/2019  1            AYUDANTE DE SERVICIO A          56618        ESTADO DE MEXICO
+7950   NATALIA CAROLINA ESPARZA HERNANDEZ       16/JUL/1973  FEMENINO     SOLTERO      88           TOYOTA                          10/ABR/2019  18/ABR/2019  1            COCINERO D                      53664        ESTADO DE MEXICO
+7776   NAYELI ANTILLON CANO                     19/JUN/1993  FEMENINO     SOLTERO      81           BBVA TECNOPARQUE                 2/OCT/2018   9/ABR/2019  1            AYUDANTE DE SERVICIO A          07950        CIUDAD DE MEXICO
+8130   NAYELI MONSERRATH GONZALEZ CAMACHO       19/DIC/1996  FEMENINO     SOLTERO      56           LALA MIXCOAC                    24/SEP/2019   9/OCT/2019  1            AYUDANTE DE SERVICIO A          01130        CIUDAD DE MEXICO
+8131   NESTOR EDUARDO ESPINOZA PEREZ             1/AGO/1998  MASCULINO    CASADO       50           LALA CEYLAN                     24/SEP/2019   0/  0/0000  1            AYUDANTE DE SERVICIO A          07310        CIUDAD DE MEXICO
+7823   NOEMI APARICIO FERRER                     6/MAR/1981  FEMENINO     CASADO       59           LALA TEXCOCO                     5/DIC/2018   2/SEP/2019  1            AYUDANTE DE SERVICIO A          56208        ESTADO DE MEXICO
+8157   NORA VALENCIA MEDINA                     28/JUN/1973  FEMENINO     SOLTERO      05           PRODUCCION CENTENO              14/OCT/2019   0/  0/0000  1            AYUDANTE DE SERVICIO A          15520        CIUDAD DE MEXICO
+7298   NORMA ANGELICA MORALES CRUZ              14/JUN/1988  FEMENINO     SOLTERO      74           SOMAR CORPORATIVO                6/MAR/2017   0/  0/0000  1            SUPERVISOR A 18                 13310        CIUDAD DE MEXICO
+8108   NORMA ANGELICA RAMOS MERINO               8/AGO/1993  FEMENINO     SOLTERO      05           PRODUCCION CENTENO               4/SEP/2019  16/SEP/2019  1            AYUDANTE DE SERVICIO A          08500        CIUDAD DE MEXICO
+7758   NORMA ESQUIVEL PE¥A                      26/NOV/1969  FEMENINO     SOLTERO      52           LALA TLAHUAC II                  7/SEP/2018  25/MAR/2019  1            AYUDANTE DE SERVICIO B 19       09690        CIUDAD DE MEXICO
+7963   NORMA LUZ AGUILAR ARREOLA                 3/SEP/1975  FEMENINO     SOLTERO      73           LALA CHALCO                     22/ABR/2019   0/  0/0000  1            AYUDANTE DE SERVICIO A          56589        ESTADO DE MEXICO
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EJECUTIVOS EN SERVICIOS DE ALIMENTOS, S.A. DE C.V.                                                                      Pagina: 0011
+R.F.C.:                                                                                                                    2/NOV/19
+REPORTE BASE DE DATOS
+ 
+                                                                                                                                                              01= Diurna
+ 
+Codigo Nombre                                   Fecha nac    Sexo         Edo Civi     # Depto      Departamento                    F.Ingreso    F.Baja       Tipo Jornad  Puesto                          C.P.         Estado
+..........................................................................................................................................................................................................................................
+5396   ODILIA GONZALEZ LOPEZ                     5/JUN/1971  FEMENINO     SOLTERO      76           SOMAR PLANTA CHALCO              3/JUL/2014   0/  0/0000  1            AYUDANTE DE SERVICIO B 19       56516        ESTADO DE MEXICO
+5704   OFELIA HERNANDEZ GONZALEZ                20/SEP/1965  FEMENINO     SOLTERO      66           NEOLPHARMA                       3/JUN/2015  17/JUN/2019  1            COCINERO E 19                   50160        ESTADO DE MEXICO
+7503   OMAR ESTRADA RICO                         8/JUN/1989  MASCULINO    SOLTERO      85           SIGNA                           25/MAR/2019  27/MAY/2019  1            AYUDANTE DE SERVICIO A          50020        ESTADO DE MEXICO
+8015   ORLANDO EDEL DEHESA SANTAMARIA           20/DIC/1993  MASCULINO    SOLTERO      74           SOMAR CORPORATIVO               11/JUN/2019   9/JUL/2019  1            AYUDANTE DE SERVICIO A          09800        CIUDAD DE MEXICO
+7944   OSBALDO GOMEZ ORTIZ                      17/AGO/1998  MASCULINO    SOLTERO      81           BBVA TECNOPARQUE                 4/ABR/2019   8/ABR/2019  1            AYUDANTE DE SERVICIO A          02670        CIUDAD DE MEXICO
+7989   OSCAR ABRAHAM ESCAMILLA HERNANDEZ         5/JUN/1987  MASCULINO    SOLTERO      81           BBVA TECNOPARQUE                17/MAY/2019   0/  0/0000  1            AYUDANTE DE SERVICIO A          02125        CIUDAD DE MEXICO
+7974   PAMELA AMAIRINI LEDEZMA PARDI¥AS         21/JUL/1993  FEMENINO     SOLTERO      80           CAFETERIA PRICE SHOES VALLEJO    2/MAY/2019  16/MAY/2019  1            AYUDANTE DE SERVICIO A          07500        CIUDAD DE MEXICO
+7588   PAMELA MIRANDA CARRILLO                   9/AGO/1991  FEMENINO     SOLTERO      79           LALA NAUCALPAN                  24/ENE/2018  14/OCT/2019  1            AYUDANTE DE SERVICIO B 19       53426        ESTADO DE MEXICO
+7948   PAMELA XOCHITL ZAMORA ANAYA              24/AGO/1980  FEMENINO     SOLTERO      68           LALA VALLE SUR                   8/ABR/2019  27/MAY/2019  1            AYUDANTE DE SERVICIO A          08500        CIUDAD DE MEXICO
+7821   PAOLA BERENICE MARTINEZ LEON              3/JUN/1983  FEMENINO     SOLTERO      61           LALA ATIZAPAN                    5/DIC/2018  12/AGO/2019  1            AYUDANTE DE COCINA E            54475        ESTADO DE MEXICO
+5588   PATRICIA BERMUDEZ MORALES                22/DIC/1968  FEMENINO     SOLTERO      60           LALA TECAMAC                    21/SEP/2013  17/JUN/2019  1            AYUDANTE DE SERVICIO B 19       55065        ESTADO DE MEXICO
+6203   PATRICIA HERNANDEZ TAPIA                 24/ENE/1967  FEMENINO     SOLTERO      87           INTERNATIONAL PAPER             14/DIC/2015   0/  0/0000  1            AYUDANTE DE SERVICIO D          50010        ESTADO DE MEXICO
+6582   PATRICIA IMELDA CALLEJAS PAVIA           13/MAR/1974  FEMENINO     SOLTERO      05           PRODUCCION CENTENO              28/OCT/2016  12/AGO/2019  1            AYUDANTE DE SERVICIO B 19       56363        ESTADO DE MEXICO
+8060   PATRICIA JIMENEZ FERRER                   4/AGO/1987  FEMENINO     SOLTERO      25           AKZO NOBEL                      17/JUL/2019  25/SEP/2019  1            AYUDANTE DE SERVICIO A          56335        ESTADO DE MEXICO
+7392   PATRICIA PACHECO DIONISIO                25/AGO/1978  FEMENINO     SOLTERO      52           LALA TLAHUAC II                  4/SEP/2018  15/JUL/2019  1            AYUDANTE DE SERVICIO B 19       09790        CIUDAD DE MEXICO
+7226   PATRICIA RANGEL NAVA                     15/MAR/1965  FEMENINO     SOLTERO      82           CEMEX BARRIENTOS                13/ENE/2017   0/  0/0000  1            AYUDANTE DE COCINA E            54960        ESTADO DE MEXICO
+7664   PATRICIA RODRIGUEZ JIMENEZ               13/MAR/1971  FEMENINO     SOLTERO      81           BBVA TECNOPARQUE                 9/MAY/2018  15/ABR/2019  1            AYUDANTE DE SERVICIO B 19       02870        CIUDAD DE MEXICO
+7766   PEDRO ALAMEDA LOPEZ                      29/SEP/1967  MASCULINO    SOLTERO      08           ALMACEN                         24/SEP/2018  14/ENE/2019  1            AYUDANTE DE SERVICIO A          08020        CIUDAD DE MEXICO
+7953   PEDRO DEL RIO GONZALEZ                   27/ABR/1965  MASCULINO    SOLTERO      85           SIGNA                           11/ABR/2019  12/ABR/2019  1            AYUDANTE DE SERVICIO A          50200        ESTADO DE MEXICO
+7900   PEDRO HERNANDEZ LIMON                    28/ENE/1972  MASCULINO    CASADO       76           SOMAR PLANTA CHALCO             27/FEB/2019   8/MAR/2019  1            AYUDANTE DE SERVICIO A          56700        ESTADO DE MEXICO
+7885   RAFAEL EMILIO JIMENEZ                    24/OCT/1989  MASCULINO    SOLTERO      76           SOMAR PLANTA CHALCO             12/FEB/2019   0/  0/0000  1            AYUDANTE DE SERVICIO A          56607        ESTADO DE MEXICO
+3326   RAFAELA RIVERO MARTINEZ                  24/OCT/1968  FEMENINO     CASADO       57           LALA SANTA CLARA                21/JUN/2017   0/  0/0000  1            COCINERO F 19                   07420        CIUDAD DE MEXICO
+7939   RAUL CAMPUZANO NARANJO                   14/FEB/1975  MASCULINO    SOLTERO      88           TOYOTA                           1/ABR/2019  30/MAY/2019  1            AYUDANTE DE SERVICIO A          53730        ESTADO DE MEXICO
+0449   RAUL REYES ZARATE                        31/MAY/1970  MASCULINO    SOLTERO      05           PRODUCCION CENTENO              13/DIC/1989   0/  0/0000  1            AYUDANTE DE COCINA E            06820        CIUDAD DE MEXICO
+7863   REBECA CALVA ORTIZ                       26/ABR/1981  FEMENINO     SOLTERO      50           LALA CEYLAN                     23/ENE/2019   4/MAR/2019  1            COCINERO D                      07230        CIUDAD DE MEXICO
+6934   REINA MARIN LOPEZ                        21/NOV/1960  FEMENINO     SOLTERO      06           SUPERVISION                      2/MAY/2016   0/  0/0000  1            GERENTE DE GRUPO                07500        CIUDAD DE MEXICO
+7770   REYNA VIRIDIANA GALVAN GONZALEZ           5/ENE/1987  FEMENINO     SOLTERO      52           LALA TLAHUAC II                 26/SEP/2018  11/ENE/2019  1            AYUDANTE DE SERVICIO A          09830        CIUDAD DE MEXICO
+7137   RICARDO CANO MORALES                     12/FEB/1976  MASCULINO    SOLTERO      50           LALA CEYLAN                     19/OCT/2016   0/  0/0000  1            COCINERO E 19                   54193        ESTADO DE MEXICO
+7951   RICARDO GARCIA FELIX                     23/OCT/1987  MASCULINO    SOLTERO      52           LALA TLAHUAC II                 10/ABR/2019  29/MAY/2019  1            SUPERVISOR A 18                 56610        ESTADO DE MEXICO
+7923   RICARDO GONZALEZ GONZALEZ                 3/ABR/1979  MASCULINO    CASADO       85           SIGNA                           19/MAR/2019  16/ABR/2019  1            COCINERO E 19                   52423        ESTADO DE MEXICO
+7979   RICARDO RESENDIZ FLORES                   3/JUL/1976  MASCULINO    SOLTERO      74           SOMAR CORPORATIVO                8/MAY/2019  10/JUN/2019  1            AYUDANTE DE SERVICIO A          04260        CIUDAD DE MEXICO
+6682   RICARDO URIEL MARTINEZ ZACARIAS           7/DIC/1996  MASCULINO    SOLTERO      06           SUPERVISION                     13/FEB/2017   0/  0/0000  1            AYUDANTE DE SERVICIO A          15730        CIUDAD DE MEXICO
+7957   ROBERTO RUIZ TREJO                       26/AGO/1971  MASCULINO    SOLTERO      50           LALA CEYLAN                     12/ABR/2019  18/ABR/2019  1            AYUDANTE DE SERVICIO A          11270        CIUDAD DE MEXICO
+1269   ROGELIO GARCIA GUZMAN                    13/OCT/1967  MASCULINO    SOLTERO      03           ESTRELLAS COLGATE               18/MAY/2000   0/  0/0000  1            AYUDANTE DE SERVICIO B 19       09100        CIUDAD DE MEXICO
+7037   ROSA MARIA MENDOZA LOPEZ                 30/AGO/1965  FEMENINO     CASADO       68           LALA VALLE SUR                   6/JUN/2019  24/JUL/2019  1            AYUDANTE DE SERVICIO A          09100        CIUDAD DE MEXICO
+7864   ROSA MARIA SANCHEZ NOLASCO                1/ABR/1976  FEMENINO     SOLTERO      85           SIGNA                           23/ENE/2019  30/ENE/2019  1            AYUDANTE DE SERVICIO D          50040        ESTADO DE MEXICO
+7890   ROSA MARIA SERVIN SEGUNDO                10/SEP/1959  FEMENINO     SOLTERO      50           LALA CEYLAN                     14/FEB/2019   0/  0/0000  1            AYUDANTE DE SERVICIO A          02630        CIUDAD DE MEXICO
+8031   ROSA MARIA TAPIA HERNANDEZ                4/JUL/1980  FEMENINO     SOLTERO      76           SOMAR PLANTA CHALCO             26/JUN/2019   0/  0/0000  1            AYUDANTE DE SERVICIO A          56625        ESTADO DE MEXICO
+6006   ROSA VAZQUEZ JIMENEZ                     30/AGO/1969  FEMENINO     SOLTERO      81           BBVA TECNOPARQUE                 3/DIC/2018  18/MAR/2019  1            AYUDANTE DE SERVICIO A          55200        ESTADO DE MEXICO
+8024   ROSALIA DE CUESTA ZAVALA                 30/MAR/1981  FEMENINO     SOLTERO      50           LALA CEYLAN                     19/JUN/2019  28/JUN/2019  1            COCINERO D                      07188        CIUDAD DE MEXICO
+8001   ROSALIA MORALES MONTALVO                 29/ENE/1971  FEMENINO     CASADO       52           LALA TLAHUAC II                 29/MAY/2019   5/JUN/2019  1            COCINERO C                      09660        CIUDAD DE MEXICO
+1419   ROSARIO MARTINEZ HERNANDEZ               31/OCT/1980  FEMENINO     SOLTERO      51           LALA VALLEJO                    28/JUL/2015   0/  0/0000  1            COCINERO G 19                   02600        CIUDAD DE MEXICO
+8008   RUBEN ALAN ESPINAL VALENCIA              21/OCT/1994  MASCULINO    SOLTERO      50           LALA CEYLAN                      5/JUN/2019  17/JUN/2019  1            AYUDANTE DE SERVICIO A          54109        ESTADO DE MEXICO
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EJECUTIVOS EN SERVICIOS DE ALIMENTOS, S.A. DE C.V.                                                                      Pagina: 0012
+R.F.C.:                                                                                                                    2/NOV/19
+REPORTE BASE DE DATOS
+ 
+                                                                                                                                                              01= Diurna
+ 
+Codigo Nombre                                   Fecha nac    Sexo         Edo Civi     # Depto      Departamento                    F.Ingreso    F.Baja       Tipo Jornad  Puesto                          C.P.         Estado
+..........................................................................................................................................................................................................................................
+8067   RUBEN ALEJANDRO ORTIZ CASADOS            23/OCT/1999  MASCULINO    SOLTERO      51           LALA VALLEJO                    22/JUL/2019   0/  0/0000  1            AYUDANTE DE SERVICIO A          07070        CIUDAD DE MEXICO
+7967   RUTH PEREZ ARCE                          19/DIC/1994  FEMENINO     SOLTERO      50           LALA CEYLAN                     24/ABR/2019   6/MAY/2019  1            COCINERO D                      57000        ESTADO DE MEXICO
+8039   SAMANTHA NOEMI MOLINA TORREBLANCA         9/AGO/1994  FEMENINO     SOLTERO      51           LALA VALLEJO                     2/JUL/2019  19/AGO/2019  1            AYUDANTE DE SERVICIO A          55020        ESTADO DE MEXICO
+7545   SANDRA JAZMIN QUEZADA SAMANO              5/DIC/1991  FEMENINO     SOLTERO      85           SIGNA                           10/NOV/2017   1/ENE/2019  1            COCINERO E                      50280        ESTADO DE MEXICO
+8169   SANDRA MISHEL LOPEZ ASCENCIO              7/MAR/1983  FEMENINO     SOLTERO      79           LALA NAUCALPAN                  25/OCT/2019   0/  0/0000  1            AYUDANTE DE SERVICIO A          53770        ESTADO DE MEXICO
+7868   SARAI GARCIA VALENCIA                     4/MAY/1991  FEMENINO     SOLTERO      87           INTERNATIONAL PAPER             28/ENE/2019   1/ABR/2019  1            AYUDANTE DE SERVICIO D          50295        ESTADO DE MEXICO
+8162   SEBASTIAN ADOLFO MALAGON INFANTE         18/DIC/1996  MASCULINO    SOLTERO      81           BBVA TECNOPARQUE                14/OCT/2019  21/OCT/2019  1            AYUDANTE DE SERVICIO A          07800        CIUDAD DE MEXICO
+7887   SELENE GUADALUPE ESQUIVEL MARTINEZ       18/ABR/1994  FEMENINO     SOLTERO      76           SOMAR PLANTA CHALCO             12/FEB/2019   1/JUL/2019  1            AYUDANTE DE SERVICIO A          56600        ESTADO DE MEXICO
+8026   SERGIO URIEL CASTILLO BUSTOS             30/ENE/1995  MASCULINO    SOLTERO      60           LALA TECAMAC                    25/JUN/2019  15/JUL/2019  1            AYUDANTE DE SERVICIO A          55064        ESTADO DE MEXICO
+8092   SILVIA BEATRIZ AGUIRRE CASTILLO          18/AGO/1989  FEMENINO     CASADO       05           PRODUCCION CENTENO              16/AGO/2019  21/AGO/2019  1            AYUDANTE DE SERVICIO A          09220        CIUDAD DE MEXICO
+3525   SILVIA CASTILLO LOPEZ                     4/MAY/1965  FEMENINO     SOLTERO      68           LALA VALLE SUR                  14/AGO/2017   0/  0/0000  1            COCINERO A 19                   08770        CIUDAD DE MEXICO
+7889   SILVIA MARISCAL MONDRAGON                26/ABR/1966  FEMENINO     CASADO       50           LALA CEYLAN                     13/FEB/2019   4/MAR/2019  1            COCINERO D                      55246        ESTADO DE MEXICO
+8036   SILVIA ROSALES GOMEZ                     10/FEB/1979  FEMENINO     SOLTERO      52           LALA TLAHUAC II                 27/JUN/2019   0/  0/0000  1            AYUDANTE DE SERVICIO A          56614        ESTADO DE MEXICO
+7859   SOCORRO BENITEZ BERNAL                   18/JUN/1971  FEMENINO     SOLTERO      85           SIGNA                           21/ENE/2019   6/FEB/2019  1            AYUDANTE DE SERVICIO D          50020        ESTADO DE MEXICO
+7855   SOFIA GUTIERREZ OJEDA                    27/FEB/1967  FEMENINO     CASADO       50           LALA CEYLAN                     14/ENE/2019  18/MAR/2019  1            AYUDANTE DE SERVICIO A          07240        CIUDAD DE MEXICO
+6885   SOFIA LEONOR GONZALEZ TOVAR               5/MAR/1969  FEMENINO     SOLTERO      52           LALA TLAHUAC II                  1/ABR/2016   0/  0/0000  1            AYUDANTE DE SERVICIO B 19       09760        CIUDAD DE MEXICO
+8029   SOL QUETZALLI ARROYO DANIEL              13/JUL/1997  FEMENINO     SOLTERO      81           BBVA TECNOPARQUE                24/JUN/2019  10/JUL/2019  1            AYUDANTE DE SERVICIO A          02240        CIUDAD DE MEXICO
+7893   SORAYDA FABIOLA MU¥OZ TORRES             22/OCT/1982  FEMENINO     CASADO       56           LALA MIXCOAC                    20/FEB/2019  22/JUL/2019  1            AYUDANTE DE SERVICIO A          01269        CIUDAD DE MEXICO
+7907   STEPHANIE HERNANDEZ SARABIA               6/AGO/1991  FEMENINO     SOLTERO      76           SOMAR PLANTA CHALCO              4/MAR/2019   0/  0/0000  1            SUPERVISOR DE COMEDOR B         56566        ESTADO DE MEXICO
+8107   SUSANA GUZMAN CASTA¥ON                   14/JUL/1975  FEMENINO     CASADO       59           LALA TEXCOCO                     4/SEP/2019  19/SEP/2019  1            AYUDANTE DE SERVICIO A          56304        ESTADO DE MEXICO
+8146   SUSANA RODRIGUEZ VALENCIA                26/FEB/1967  FEMENINO     SOLTERO      76           SOMAR PLANTA CHALCO              3/OCT/2019   0/  0/0000  1            AYUDANTE DE SERVICIO A          56680        ESTADO DE MEXICO
+4775   SUSANA VILLALBA LICEA                     8/FEB/1966  FEMENINO     SOLTERO      74           SOMAR CORPORATIVO               21/FEB/2012   0/  0/0000  1            AYUDANTE DE SERVICIO B 19       08730        CIUDAD DE MEXICO
+8069   TERESA DE JESUS LOPEZ VILLA              31/MAR/1991  FEMENINO     SOLTERO      45           MEX EXPRESS                     26/JUL/2019   0/  0/0000  1            SUPERVISOR C                    55280        ESTADO DE MEXICO
+7528   TERESA EVANGELISTA TREJO                  3/AGO/1985  FEMENINO     SOLTERO      85           SIGNA                           13/OCT/2017  21/MAR/2019  1            AYUDANTE DE SERVICIO D          50010        ESTADO DE MEXICO
+7966   TOMAS DE NAZARETH GARCIA ACOSTA          19/OCT/1992  MASCULINO    CASADO       74           SOMAR CORPORATIVO               24/ABR/2019  13/MAY/2019  1            AYUDANTE DE SERVICIO A          09860        CIUDAD DE MEXICO
+4832   VALENTINA RUBIO REYES                     4/DIC/1975  FEMENINO     SOLTERO      59           LALA TEXCOCO                     6/OCT/2014   0/  0/0000  1            AYUDANTE DE SERVICIO B 19       56270        ESTADO DE MEXICO
+7836   VALERY MARIANA FLORES MERCADO            22/MAY/1999  FEMENINO     SOLTERO      56           LALA MIXCOAC                    19/DIC/2018  18/MAR/2019  1            AYUDANTE DE SERVICIO A          01290        CIUDAD DE MEXICO
+7824   VERONICA MONROY PEREZ                     1/FEB/1980  FEMENINO     SOLTERO      59           LALA TEXCOCO                     5/DIC/2018  17/JUN/2019  1            AYUDANTE DE SERVICIO A          56266        ESTADO DE MEXICO
+3321   VICENTE CRUZ SALAZAR                     12/FEB/1965  MASCULINO    CASADO       04           PRODUCTOS DE UVA                 7/SEP/2010   0/  0/0000  1            JEFE DE COCINA C1               54942        ESTADO DE MEXICO
+7965   VICTOR URIEL MORALES FERNANDEZ            4/ENE/1997  MASCULINO    SOLTERO      56           LALA MIXCOAC                    23/ABR/2019  27/JUN/2019  1            COCINERO D                      01120        CIUDAD DE MEXICO
+2112   VIRGINIA BASTIDA JIMENEZ                 13/AGO/1966  FEMENINO     SOLTERO      72           LALA LOS REYES                  17/OCT/2006  10/JUN/2019  1            AYUDANTE DE SERVICIO B 19       56360        ESTADO DE MEXICO
+0624   VIRGINIA MARTINEZ JIMENEZ                 9/SEP/1966  FEMENINO     SOLTERO      83           INGREDION                       25/ENE/1996   0/  0/0000  1            JEFE DE COCINA C                11430        CIUDAD DE MEXICO
+6877   VIRGINIA MENDOZA HERNANDEZ               16/ENE/1962  FEMENINO     SOLTERO      81           BBVA TECNOPARQUE                30/MAR/2016  28/SEP/2019  1            COCINERO A 19                   07939        CIUDAD DE MEXICO
+4385   VIRGINIA SANCHEZ SANTIAGO                31/ENE/1973  FEMENINO     SOLTERO      81           BBVA TECNOPARQUE                 2/JUN/2011   0/  0/0000  1            COCINERO E 19                   53716        ESTADO DE MEXICO
+8135   VIRGINIA VARGAS ROMERO                   10/ABR/1963  FEMENINO     VIUDO        83           INGREDION                       25/SEP/2019   0/  0/0000  1            AYUDANTE DE SERVICIO A          54948        ESTADO DE MEXICO
+8099   VIRIDIANA JIMENEZ HINOJOSA               11/FEB/1990  FEMENINO     SOLTERO      04           PRODUCTOS DE UVA                22/AGO/2019  21/OCT/2019  1            AYUDANTE DE SERVICIO A          53580        ESTADO DE MEXICO
+8030   VIRIDIANA MORENO MENDIETA                 8/ENE/1980  FEMENINO     CASADO       50           LALA CEYLAN                     24/JUN/2019  27/AGO/2019  1            AYUDANTE DE SERVICIO A          07080        CIUDAD DE MEXICO
+7378   VIRIDIANA RUIZ ALCALA                    29/JUL/1991  FEMENINO     SOLTERO      52           LALA TLAHUAC II                 12/DIC/2018  18/MAR/2019  1            AYUDANTE DE SERVICIO A          09770        CIUDAD DE MEXICO
+8137   VIVIANA JANETH CORREA ALFARO             19/JUL/1981  FEMENINO     SOLTERO      81           BBVA TECNOPARQUE                26/SEP/2019   7/OCT/2019  1            AYUDANTE DE SERVICIO A          54196        ESTADO DE MEXICO
+8116   YADIRA IRAIS TREJO GARCIA                23/AGO/1994  FEMENINO     SOLTERO      73           LALA CHALCO                      9/SEP/2019  11/SEP/2019  1            AYUDANTE DE SERVICIO A          56566        ESTADO DE MEXICO
+0366   YADIRA MIRASET FERNANDEZ TRIGUEROS       21/MAR/1969  FEMENINO     CASADO       06           SUPERVISION                     17/OCT/2011   0/  0/0000  1            GERENTE DE COMEDOR              10580        CIUDAD DE MEXICO
+8072   YARETZI JOSABET SANTILLAN CONTRERAS      14/MAY/2000  FEMENINO     SOLTERO      82           CEMEX BARRIENTOS                31/JUL/2019   2/SEP/2019  1            AYUDANTE DE SERVICIO A          54946        ESTADO DE MEXICO
+7755   YAZMIN LARA REYES                        13/ABR/1995  FEMENINO     SOLTERO      87           INTERNATIONAL PAPER             17/DIC/2018  24/ENE/2019  1            AYUDANTE DE SERVICIO A          50295        ESTADO DE MEXICO
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EJECUTIVOS EN SERVICIOS DE ALIMENTOS, S.A. DE C.V.                                                                      Pagina: 0013
+R.F.C.:                                                                                                                    2/NOV/19
+REPORTE BASE DE DATOS
+ 
+                                                                                                                                                              01= Diurna
+ 
+Codigo Nombre                                   Fecha nac    Sexo         Edo Civi     # Depto      Departamento                    F.Ingreso    F.Baja       Tipo Jornad  Puesto                          C.P.         Estado
+..........................................................................................................................................................................................................................................
+7917   YESENIA AYALA ZAGAL                      13/AGO/1996  FEMENINO     SOLTERO      87           INTERNATIONAL PAPER             13/MAR/2019  27/MAY/2019  1            AYUDANTE DE SERVICIO A          50010        ESTADO DE MEXICO
+6206   YESENIA CASTRO MARTINEZ                   9/FEB/1972  FEMENINO     SOLTERO      73           LALA CHALCO                     18/MAR/2015   0/  0/0000  1            COCINERO B 19                   56600        ESTADO DE MEXICO
+8034   YOLANDA MEJIA RIVERA                      3/MAR/1959  FEMENINO     SOLTERO      50           LALA CEYLAN                     26/JUN/2019   4/SEP/2019  1            AYUDANTE DE SERVICIO A          07600        CIUDAD DE MEXICO
+4366   YOLANDA PERALTA                          11/MAR/1958  FEMENINO     SOLTERO      04           PRODUCTOS DE UVA                14/NOV/2018  29/ABR/2019  1            AYUDANTE DE COCINA E            54020        ESTADO DE MEXICO
+7970   YURIKO MONSERRAT GUTIERREZ MEJIA         14/FEB/1989  FEMENINO     CASADO       04           PRODUCTOS DE UVA                25/ABR/2019   6/MAY/2019  1            AYUDANTE DE SERVICIO A          55736        ESTADO DE MEXICO
+7618   ZAIRA ITZEL GINEZ FERIA                  25/DIC/1992  FEMENINO     SOLTERO      05           PRODUCCION CENTENO               6/MAR/2018   0/  0/0000  1            AYUDANTE DE SERVICIO B 19       56334        ESTADO DE MEXICO
+8147   ZULEIMA VIANEY QUIROZ MACIEL              3/JUN/1995  FEMENINO     SOLTERO      72           LALA LOS REYES                   4/OCT/2019  10/OCT/2019  1            AYUDANTE DE SERVICIO A          56337        ESTADO DE MEXICO
+ 
+*** GLOBAL
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
