@@ -1,0 +1,1200 @@
+EJECUTIVOS EN SERVICIOS DE ALIMENTOS, S.A. DE C.V.                                                                      Pagina: 0001
+R.F.C.:                                                                                                                    5/NOV/19
+REPORTE BASE DE DATOS
+ 
+                                                                               01= Diurna
+ 
+Codigo Fecha nac   Sexo        Edo Civi    # Depto     F.Ingreso   F.Baja      Tipo Jornad  Puesto          C.P.
+..........................................................................................................................................................................................................................................
+5761   21/DIC/1973 MASCULINO   CASADO      52          15/JUN/2018 22/OCT/2018 1            0001            09730
+7840   30/DIC/1985 FEMENINO    SOLTERO     87          27/DIC/2018  0/  0/0000 1            0185            50290
+7505   30/SEP/1989 MASCULINO   SOLTERO     82          19/SEP/2017  0/  0/0000 1            0003A           54948
+7652   26/AGO/1989 FEMENINO    SOLTERO     52          18/ABR/2018  4/JUN/2018 1            0001            09780
+7602   29/MAY/1991 FEMENINO    CASADO      03          16/FEB/2018 28/FEB/2018 1            0001            01800
+7335   22/JUN/1985 FEMENINO    SOLTERO     05          11/ENE/2018 19/FEB/2018 1            0001            56580
+6600    8/FEB/1973 FEMENINO    SOLTERO     80           1/OCT/2015  0/  0/0000 1            0001            07460
+7515   26/ENE/1974 FEMENINO    SOLTERO     72          26/SEP/2017 16/ABR/2018 1            0001            56615
+7685   23/NOV/1995 FEMENINO    SOLTERO     76           8/JUN/2018  0/  0/0000 1            0001            56617
+7331    2/ABR/1977 FEMENINO    CASADO      45           4/SEP/2018  0/  0/0000 1            0001            08100
+5933    6/AGO/1962 FEMENINO    SOLTERO     51           1/SEP/2014  0/  0/0000 1            0001            07600
+7170    9/MAY/1978 FEMENINO    SOLTERO     57          17/NOV/2016  0/  0/0000 1            0001            55055
+7774    7/DIC/1995 FEMENINO    CASADO      86          27/SEP/2018  0/  0/0000 1            0001            50200
+5618    4/AGO/1991 MASCULINO   CASADO      83          18/ENE/2018  0/  0/0000 1            0003A           54932
+5201   30/ENE/1974 FEMENINO    SOLTERO     82          11/JUN/2018  0/  0/0000 1            0019            54803
+7606    6/ENE/1977 FEMENINO    SOLTERO     05          22/FEB/2018 23/FEB/2018 1            0001            08400
+3890   29/MAY/1972 FEMENINO    SOLTERO     06          24/MAY/2010  0/  0/0000 1            0175            56570
+7834   25/OCT/1973 FEMENINO    SOLTERO     54          12/DIC/2018  0/  0/0000 1            0003A           54948
+7688   16/FEB/1997 FEMENINO    SOLTERO     81          11/JUN/2018 23/JUL/2018 1            0001            54090
+7526   31/AGO/1989 FEMENINO    SOLTERO     68          13/OCT/2017  6/MAR/2018 1            0001            08000
+6654   26/SEP/1970 MASCULINO   SOLTERO     50           2/JUL/2018  0/  0/0000 1            0014            07969
+3652   23/ENE/1963 MASCULINO   CASADO      51          12/SEP/2016  0/  0/0000 1            516             55390
+2530   12/NOV/1966 MASCULINO   SOLTERO     37          31/MAR/2017  6/JUN/2018 1            0001            02200
+7668    8/ENE/1968 MASCULINO   CASADO      05          21/MAY/2018  4/JUN/2018 1            0005            08020
+1123   16/JUN/1962 FEMENINO    SOLTERO     59           2/ENE/2006  0/  0/0000 1            0181            56495
+4044   28/OCT/1967 FEMENINO    CASADO      50          10/SEP/2018  0/  0/0000 1            0018            55139
+7593    7/OCT/1988 FEMENINO    SOLTERO     45           2/FEB/2018  0/  0/0000 1            0001            07990
+7765   18/AGO/1975 FEMENINO    CASADO      80          21/SEP/2018 29/OCT/2018 1            0001            54092
+7580   27/OCT/1992 FEMENINO    SOLTERO     81          10/ENE/2018  5/MAR/2018 1            0001            54090
+6955    9/AGO/1977 FEMENINO    SOLTERO     51          27/MAR/2018  7/MAY/2018 1            0001            54090
+7802    2/ENE/1979 FEMENINO    VIUDO       59           9/NOV/2018 12/DIC/2018 1            0001            56208
+7702    5/JUL/1973 FEMENINO    CASADO      05          25/JUN/2018 16/JUL/2018 1            0001            56608
+7796    4/MAY/1997 FEMENINO    SOLTERO     80          26/OCT/2018 31/OCT/2018 1            0001            07870
+7458    2/NOV/1971 FEMENINO    CASADO      61          26/JUL/2017 12/MAR/2018 1            0001            54434
+7607   15/ABR/1974 FEMENINO    CASADO      04          23/FEB/2018 30/ABR/2018 1            0001            53660
+7780   27/NOV/1982 FEMENINO    SOLTERO     56           9/OCT/2018 15/NOV/2018 1            0001            01130
+7624    3/FEB/1989 FEMENINO    SOLTERO     05          14/MAR/2018 16/MAR/2018 1            0001            56516
+7611   16/JUL/1995 MASCULINO   SOLTERO     08          26/FEB/2018 28/FEB/2018 1            0001
+7644   12/DIC/1994 MASCULINO   CASADO      52           4/ABR/2018 24/ABR/2018 1            0001            13200
+6104    5/JUN/1965 FEMENINO    SOLTERO     85          27/FEB/2017  5/MAR/2018 1            0001            50020
+7669    9/DIC/1966 FEMENINO    CASADO      05          21/MAY/2018 17/SEP/2018 1            0015            13420
+7640   21/ABR/1976 FEMENINO    SOLTERO     45           2/ABR/2018 17/MAY/2018 1            0001            09310
+7005   17/SEP/1973 FEMENINO    SOLTERO     05           1/JUL/2016 14/MAY/2018 1            0001            09230
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EJECUTIVOS EN SERVICIOS DE ALIMENTOS, S.A. DE C.V.                                                                      Pagina: 0002
+R.F.C.:                                                                                                                    5/NOV/19
+REPORTE BASE DE DATOS
+ 
+                                                                               01= Diurna
+ 
+Codigo Fecha nac   Sexo        Edo Civi    # Depto     F.Ingreso   F.Baja      Tipo Jornad  Puesto          C.P.
+..........................................................................................................................................................................................................................................
+7259   26/MAY/1966 FEMENINO    SOLTERO     81           8/FEB/2017  0/  0/0000 1            0001            02230
+7276   27/SEP/1974 FEMENINO    SOLTERO     52          22/FEB/2017  2/ABR/2018 1            182             09630
+7312   28/JUN/1972 FEMENINO    CASADO      85           9/MAR/2017  0/  0/0000 1            0003B           50010
+7338   29/SEP/1965 FEMENINO    SOLTERO     82          31/MAR/2017  0/  0/0000 1            0003A           54930
+7832   14/AGO/1992 MASCULINO   SOLTERO     51          12/DIC/2018 17/DIC/2018 1            0001            07870
+7600   28/JUN/2001 FEMENINO    SOLTERO     81          14/FEB/2018 23/JUL/2018 1            0001            55067
+7581    6/OCT/1978 FEMENINO    CASADO      60          11/ENE/2018 23/ABR/2018 1            0001            55414
+5677   24/OCT/1983 FEMENINO    SOLTERO     87          21/DIC/2013  0/  0/0000 1            0015            50290
+7737    4/MAY/1963 FEMENINO    SOLTERO     87          16/AGO/2018  0/  0/0000 1            0001            50290
+7531   19/DIC/1986 FEMENINO    SOLTERO     79          18/OCT/2017 16/ENE/2018 1            0001            53698
+4008   21/MAR/1982 FEMENINO    SOLTERO     52          14/MAY/2018 24/DIC/2018 1            423             04369
+7690   10/ABR/1979 FEMENINO    SOLTERO     56          13/JUN/2018  1/OCT/2018 1            0001            01100
+7826   21/FEB/1974 MASCULINO   SOLTERO     85           5/DIC/2018 17/DIC/2018 1            0018            52120
+6210   18/JUL/1967 MASCULINO   SOLTERO     07          20/MAR/2015  0/  0/0000 1            0001            09800
+7701   18/MAY/2018 MASCULINO   SOLTERO     05          25/JUN/2018 30/JUL/2018 1            0005            15309
+6213   28/FEB/1970 MASCULINO   SOLTERO     83          16/OCT/2018  0/  0/0000 1            0003A           54030
+7793   24/MAR/1991 FEMENINO    SOLTERO     68          25/OCT/2018 20/NOV/2018 1            0001            08500
+7817   16/ABR/1971 MASCULINO   SOLTERO     80          29/NOV/2018  3/DIC/2018 1            0001            56350
+7697   17/MAR/1993 FEMENINO    SOLTERO     50          21/JUN/2018 20/AGO/2018 1            243             55749
+7812    4/MAR/1974 FEMENINO    CASADO      66          21/NOV/2018  0/  0/0000 1            0001            50220
+0849   30/NOV/1958 FEMENINO    SOLTERO     04           5/MAR/1997  0/  0/0000 1            0037            11280
+7806   27/ABR/1998 MASCULINO   CASADO      08          14/NOV/2018 26/NOV/2018 1            0001            09208
+7536    2/JUL/1997 FEMENINO    SOLTERO     74          26/OCT/2017  0/  0/0000 1            0001            01100
+5993    6/JUL/1991 FEMENINO    SOLTERO     11           7/DIC/2017  4/ENE/2018 1            0001            56643
+7538   28/MAY/1988 MASCULINO   SOLTERO     05          26/OCT/2017 28/FEB/2018 1            0001            56340
+5237   19/ABR/1974 FEMENINO    CASADO      61          17/SEP/2018 18/DIC/2018 1            0001            54474
+7430   30/ABR/1986 FEMENINO    CASADO      85           4/JUL/2017  0/  0/0000 1            0030A           50260
+7677   17/DIC/1992 MASCULINO   SOLTERO     80          28/MAY/2018 18/JUN/2018 1            0184            06720
+5181    2/FEB/1970 FEMENINO    SOLTERO     60          13/SEP/2012  0/  0/0000 1            0001            55067
+7827   26/DIC/1991 FEMENINO    SOLTERO     07          10/DIC/2018  0/  0/0000 1            0001            08020
+7655   22/OCT/1977 MASCULINO   SOLTERO     74          26/ABR/2018  0/  0/0000 1            0001            08000
+7463   16/JUL/1997 MASCULINO   SOLTERO     05          27/JUL/2017 22/ENE/2018 1            0001            56610
+7057   30/ABR/1973 FEMENINO    SOLTERO     81          18/AGO/2016  0/  0/0000 1            0001            54140
+7076   28/OCT/1990 FEMENINO    SOLTERO     81          31/AGO/2016  8/ENE/2018 1            0014            02120
+6986    9/MAR/1963 FEMENINO    SOLTERO     66           2/NOV/2018 23/NOV/2018 1            0001            50903
+5558   30/ABR/1972 FEMENINO    SOLTERO     82          22/AGO/2013  0/  0/0000 1            0003A           52928
+7641   18/ENE/1988 FEMENINO    SOLTERO     84           2/ABR/2018 30/ABR/2018 1            0001            57000
+4746    9/ABR/1973 FEMENINO    SOLTERO     37          23/MAY/2017  0/  0/0000 1            0017            42995
+7643    5/JUL/1991 FEMENINO    SOLTERO     25           4/ABR/2018 13/AGO/2018 1            0001            56335
+7743   12/NOV/1991 MASCULINO   SOLTERO     50          23/AGO/2018 29/AGO/2018 1            0001            54152
+7573    5/AGO/1991 MASCULINO   SOLTERO     83           5/ENE/2018 18/JUL/2018 1            0001            54130
+7663   18/OCT/1983 MASCULINO   CASADO      08          10/MAY/2018  0/  0/0000 1            0001            57940
+7516   13/MAR/1982 FEMENINO    SOLTERO     85          29/SEP/2017 12/FEB/2018 1            0001            50900
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EJECUTIVOS EN SERVICIOS DE ALIMENTOS, S.A. DE C.V.                                                                      Pagina: 0003
+R.F.C.:                                                                                                                    5/NOV/19
+REPORTE BASE DE DATOS
+ 
+                                                                               01= Diurna
+ 
+Codigo Fecha nac   Sexo        Edo Civi    # Depto     F.Ingreso   F.Baja      Tipo Jornad  Puesto          C.P.
+..........................................................................................................................................................................................................................................
+7747   15/DIC/1992 FEMENINO    SOLTERO     80          29/AGO/2018  5/SEP/2018 1            0001            07250
+7407    6/AGO/1986 FEMENINO    SOLTERO     68          20/JUN/2017  0/  0/0000 1            0001            08500
+7828   30/MAR/1987 FEMENINO    CASADO      86          10/DIC/2018  0/  0/0000 1            0003B           50295
+7589   19/JUN/1980 FEMENINO    SOLTERO     03          25/ENE/2018  5/FEB/2018 1            0001            01740
+6061   21/JUL/1971 FEMENINO    SOLTERO     37          30/JUL/2018 29/NOV/2018 1            243             55710
+7659   22/FEB/1973 FEMENINO    SOLTERO     56           3/MAY/2018  9/MAY/2018 1            0001            01298
+1905   26/DIC/1972 FEMENINO    SOLTERO     51           7/MAR/2018 12/MAR/2018 1            0001            07580
+7837   30/OCT/1975 FEMENINO    SOLTERO     50          19/DIC/2018  0/  0/0000 1            0001            07290
+7735    1/NOV/1992 MASCULINO   SOLTERO     72          10/AGO/2018 18/SEP/2018 1            0001            56524
+7540    9/DIC/1994 MASCULINO   SOLTERO     80           2/NOV/2017 25/ENE/2018 1            0001            54090
+7773   24/DIC/1981 FEMENINO    SOLTERO     86          27/SEP/2018  0/  0/0000 1            0001            50295
+7704   26/AGO/1989 FEMENINO    SOLTERO     50          29/JUN/2018 20/NOV/2018 1            0001            54764
+7839    2/JUL/1988 FEMENINO    SOLTERO     52          22/DIC/2018  0/  0/0000 1            0175            57740
+2107   18/MAY/1974 MASCULINO   SOLTERO     08           2/SEP/2014 26/MAR/2018 1            0006            08500
+7797    7/OCT/1990 FEMENINO    CASADO      54          26/OCT/2018 12/DIC/2018 1            0003A           54900
+1424   18/DIC/1971 MASCULINO   SOLTERO     50          20/JUL/2009  0/  0/0000 1            0009            11290
+5280    3/ENE/1975 MASCULINO   SOLTERO     81           5/ABR/2016  0/  0/0000 1            0023            07420
+7742   13/NOV/1995 MASCULINO   SOLTERO     81          21/AGO/2018  0/  0/0000 1            0001            07920
+6472   31/AGO/1988 MASCULINO   SOLTERO     66           3/AGO/2015 12/FEB/2018 1            492             52159
+7740   12/JUN/1997 MASCULINO   SOLTERO     05          20/AGO/2018  0/  0/0000 1            0001            04960
+7442   27/ABR/1972 MASCULINO   SOLTERO     85          13/JUL/2017 15/ENE/2018 1            227             50900
+7799    6/SEP/1990 FEMENINO    SOLTERO     56          29/OCT/2018 17/DIC/2018 1            0001            01280
+7671   18/ENE/1987 FEMENINO    SOLTERO     74          24/MAY/2018  4/JUN/2018 1            0001            09310
+7778    1/JUL/1973 MASCULINO   SOLTERO     74           3/OCT/2018 22/OCT/2018 1            0001            14400
+6461   12/DIC/1977 MASCULINO   SOLTERO     11          23/SEP/2015  0/  0/0000 1            0176            56607
+6765    5/NOV/1986 MASCULINO   SOLTERO     87           8/ENE/2016  0/  0/0000 1            0181            56680
+7674   30/JUL/1976 MASCULINO   SOLTERO     83          24/MAY/2018 18/JUN/2018 1            0001            55719
+7694    4/MAR/1992 FEMENINO    SOLTERO     50          17/JUN/2018  0/  0/0000 1            0001            07210
+7576    1/AGO/1993 MASCULINO   CASADO      79          24/OCT/2018  5/NOV/2018 1            0001            53427
+7012   17/DIC/1990 MASCULINO   SOLTERO     59           6/JUL/2016  4/JUN/2018 1            0001            56030
+7478    8/NOV/1978 FEMENINO    SOLTERO     52           7/AGO/2017  4/ENE/2018 1            0001            09960
+7752    8/JUL/1995 FEMENINO    SOLTERO     50           5/SEP/2018  0/  0/0000 1            0001            54190
+7639   18/MAR/1990 FEMENINO    SOLTERO     56          29/MAR/2018  9/ABR/2018 1            0001            01279
+6657   15/OCT/1978 FEMENINO    SOLTERO     85           2/NOV/2018  0/  0/0000 1            0003B           50290
+7761    5/JUL/1981 FEMENINO    CASADO      59          19/SEP/2018  1/OCT/2018 1            0001            56300
+5000   17/ENE/1975 FEMENINO    SOLTERO     60           7/JUN/2012  0/  0/0000 1            0178            55500
+7586   10/MAY/1975 FEMENINO    SOLTERO     68          18/ENE/2018 25/SEP/2018 1            0001            08900
+7206    8/ENE/1979 FEMENINO    SOLTERO     03           2/ENE/2017 12/FEB/2018 1            0001            01830
+7649   10/JUN/1999 MASCULINO   SOLTERO     03          12/ABR/2018 23/OCT/2018 1            0001            01630
+5644   23/OCT/1968 MASCULINO   SOLTERO     11           4/NOV/2013  0/  0/0000 1            0176            07560
+7519   25/AGO/1972 FEMENINO    CASADO      59           3/OCT/2017 22/OCT/2018 1            0001            56208
+6638    2/DIC/1978 FEMENINO    SOLTERO     51           9/MAY/2018  0/  0/0000 1            0001            07249
+7734   23/ABR/1983 MASCULINO   SOLTERO     05           9/AGO/2018 22/NOV/2018 1            0001            09510
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EJECUTIVOS EN SERVICIOS DE ALIMENTOS, S.A. DE C.V.                                                                      Pagina: 0004
+R.F.C.:                                                                                                                    5/NOV/19
+REPORTE BASE DE DATOS
+ 
+                                                                               01= Diurna
+ 
+Codigo Fecha nac   Sexo        Edo Civi    # Depto     F.Ingreso   F.Baja      Tipo Jornad  Puesto          C.P.
+..........................................................................................................................................................................................................................................
+7582   24/SEP/1991 MASCULINO   SOLTERO     81          12/ENE/2018  2/ABR/2018 1            0001            54130
+7292   11/ENE/1980 FEMENINO    CASADO      04           2/MAR/2017 25/ABR/2018 1            0001            07210
+7800   24/FEB/1977 FEMENINO    SOLTERO     87           2/NOV/2018  0/  0/0000 1            0001            50200
+7777   11/ENE/1975 MASCULINO   SOLTERO     07           3/OCT/2018  8/OCT/2018 1            0001            04440
+6690   28/MAR/1975 FEMENINO    SOLTERO     80          20/NOV/2015  0/  0/0000 1            0001            07089
+0090   28/MAR/1961 FEMENINO    SOLTERO     05          18/AGO/1987  7/MAY/2018 1            0019            11320
+7587   31/DIC/1972 FEMENINO    SOLTERO     04          18/ENE/2018 30/ENE/2018 1            0001            55719
+6280   28/DIC/1991 FEMENINO    CASADO      85           8/OCT/2018 12/NOV/2018 1            0105            50060
+7168   30/MAY/1979 FEMENINO    SOLTERO     51          14/NOV/2016  0/  0/0000 1            0001            07770
+7666   13/NOV/1995 FEMENINO    SOLTERO     51          17/MAY/2018 11/MAY/2018 1            0001            54147
+7684   25/FEB/1998 MASCULINO   SOLTERO     50           8/JUN/2018 30/JUL/2018 1            0001            54170
+7681    3/NOV/1998 MASCULINO   CASADO      81           6/JUN/2018 20/SEP/2018 1            0001            07100
+6958   31/DIC/1986 MASCULINO   SOLTERO     08          12/MAR/2018  1/OCT/2018 1            0001            57730
+7786   29/NOV/1991 MASCULINO   SOLTERO     81          15/OCT/2018  0/  0/0000 1            0001            02480
+7636   14/ABR/1986 MASCULINO   CASADO      61          26/MAR/2018 16/ABR/2018 1            0001            52947
+7762   22/AGO/1973 MASCULINO   SOLTERO     45          18/SEP/2018 22/OCT/2018 1            0001            15020
+6927    8/ENE/1976 MASCULINO   SOLTERO     50           6/SEP/2018 15/OCT/2018 1            0001            07650
+7764   10/OCT/1978 MASCULINO   SOLTERO     81          20/SEP/2018 19/OCT/2018 1            0001            55390
+7718   22/FEB/1977 MASCULINO   SOLTERO     50          16/JUL/2018 10/SEP/2018 1            0001            07070
+6542   21/ENE/1976 FEMENINO    SOLTERO     81          24/SEP/2018 26/NOV/2018 1            0014            07150
+7792   21/DIC/1994 MASCULINO   SOLTERO     45          24/OCT/2018 31/OCT/2018 1            0001            56509
+4314   28/SEP/1990 FEMENINO    SOLTERO     05           6/ABR/2011  0/  0/0000 1            0173            16600
+6193    2/SEP/1981 FEMENINO    SOLTERO     61          11/MAR/2015  5/MAR/2018 1            0014            52910
+7631   25/MAY/1992 FEMENINO    CASADO      25          20/MAR/2018 23/MAR/2018 1            0001            57820
+3160   20/NOV/1965 FEMENINO    SOLTERO     74          27/SEP/2018  0/  0/0000 1            0001            04650
+6915   18/FEB/1969 FEMENINO    CASADO      85           2/NOV/2018  5/NOV/2018 1            0001            50295
+5332    8/AGO/1967 FEMENINO    SOLTERO     25           8/FEB/2017 19/MAR/2018 1            0001            56335
+7485   20/AGO/1980 FEMENINO    SOLTERO     85          22/AGO/2017  2/NOV/2018 1            0001            50020
+7714    3/SEP/1990 FEMENINO    SOLTERO     81          12/JUL/2018 20/JUL/2018 1            0001            02070
+7676   26/FEB/1995 FEMENINO    SOLTERO     56          25/MAY/2018  6/JUN/2018 1            0001            01408
+7579    3/DIC/1971 FEMENINO    SOLTERO     03          10/ENE/2018 17/ENE/2018 1            0001            01800
+7632    4/JUN/1975 FEMENINO    CASADO      05          21/MAR/2018  0/  0/0000 1            0001            56335
+7612   28/NOV/1972 FEMENINO    CASADO      79          28/FEB/2018  7/MAR/2018 1            0001            53580
+7803    1/ABR/1992 FEMENINO    SOLTERO     45          12/NOV/2018 12/DIC/2018 1            0001            56530
+4287   11/NOV/1966 FEMENINO    SOLTERO     04          17/MAR/2011  4/SEP/2018 1            0014            11270
+6427   20/FEB/1988 FEMENINO    SOLTERO     66          13/JUL/2015 11/JUN/2018 1            0038            50290
+7673    4/DIC/1987 FEMENINO    SOLTERO     07           8/OCT/2018 20/NOV/2018 1            0001            57940
+7696   17/JUL/1982 FEMENINO    CASADO      52          21/JUN/2018 13/AGO/2018 1            0001            09769
+7621   29/MAY/1990 FEMENINO    SOLTERO     05           5/MAR/2018  9/MAR/2018 1            0001            01530
+6504   22/SEP/1966 FEMENINO    SOLTERO     76          18/AGO/2015  0/  0/0000 1            0001            56589
+7575   10/ENE/1998 MASCULINO   SOLTERO     05           8/ENE/2018 26/AGO/2018 1            0001            07199
+7683   16/AGO/1996 MASCULINO   SOLTERO     80           8/JUN/2018 29/JUN/2018 1            0001            07550
+7711    7/SEP/1976 MASCULINO   SOLTERO     81           9/JUL/2018 16/JUL/2018 1            0001            02700
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EJECUTIVOS EN SERVICIOS DE ALIMENTOS, S.A. DE C.V.                                                                      Pagina: 0005
+R.F.C.:                                                                                                                    5/NOV/19
+REPORTE BASE DE DATOS
+ 
+                                                                               01= Diurna
+ 
+Codigo Fecha nac   Sexo        Edo Civi    # Depto     F.Ingreso   F.Baja      Tipo Jornad  Puesto          C.P.
+..........................................................................................................................................................................................................................................
+7716   30/JUL/1995 MASCULINO   SOLTERO     50          13/JUL/2018 20/JUL/2018 1            0001            02459
+7517   27/AGO/1978 FEMENINO    SOLTERO     83          29/SEP/2017 16/ENE/2018 1            0001            54040
+5745    3/AGO/1967 FEMENINO    SOLTERO     45          30/ENE/2014  6/AGO/2018 1            0001            57200
+7746   24/ABR/1996 FEMENINO    SOLTERO     61          27/AGO/2018  5/SEP/2018 1            0001            52929
+7617   18/OCT/1980 FEMENINO    SOLTERO     61           5/MAR/2018 15/OCT/2018 1            0001            54407
+6884   16/MAY/1969 FEMENINO    SOLTERO     45           1/JUL/2016  5/FEB/2018 1            0001            57800
+7801   14/OCT/1988 MASCULINO   SOLTERO     79           8/NOV/2018  0/  0/0000 1            0001            53427
+7760   10/JUN/1972 FEMENINO    CASADO      45          18/SEP/2018 28/SEP/2018 1            0001            57718
+7604   19/JUN/1979 FEMENINO    CASADO      52          22/FEB/2018  0/  0/0000 1            0001            13270
+7660   15/SEP/1982 FEMENINO    CASADO      52           7/MAY/2018 29/JUN/2018 1            0001            13508
+6849   28/ABR/1980 FEMENINO    SOLTERO     85          14/MAR/2016 28/MAY/2018 1            0001            50280
+7061   28/MAR/1974 FEMENINO    SOLTERO     61          19/JUN/2018  0/  0/0000 1            0001            54409
+0881   16/JUN/1963 FEMENINO    SOLTERO     81          28/ENE/1993 31/MAY/2018 1            0001            02230
+7805    4/ENE/1972 FEMENINO    SOLTERO     50          13/NOV/2018  0/  0/0000 1            0016            54920
+6334   28/MAR/1974 MASCULINO   SOLTERO     11          27/MAY/2015 22/FEB/2018 1            509             09220
+7810   28/MAY/1992 MASCULINO   SOLTERO     85          20/NOV/2018 24/DIC/2018 1            0105            50168
+7634    9/MAY/1975 MASCULINO   CASADO      52          23/MAR/2018 29/JUN/2018 1            265             08000
+7700   16/MAY/1986 MASCULINO   SOLTERO     50          21/JUN/2018  9/JUL/2018 1            0001            07230
+7784   30/JUN/1991 MASCULINO   CASADO      08          10/OCT/2018 17/OCT/2018 1            0174            56530
+7782   20/OCT/1987 MASCULINO   SOLTERO     51          10/OCT/2018 12/NOV/2018 1            0001            07119
+7627    2/OCT/1981 FEMENINO    SOLTERO     85          16/MAR/2018 15/OCT/2018 1            0001            50010
+2413   11/SEP/1974 FEMENINO    SOLTERO     52           5/ENE/2018 26/FEB/2018 1            0016            09790
+7698   28/SEP/1979 MASCULINO   SOLTERO     37          21/JUN/2018 27/AGO/2018 1            0001            54190
+7820   15/MAY/1978 MASCULINO   SOLTERO     85           3/DIC/2018  5/DIC/2018 1            0003B           50160
+7748   21/ABR/1995 FEMENINO    SOLTERO     80          29/AGO/2018 12/NOV/2018 1            0001            07199
+7633    5/ABR/1981 FEMENINO    SOLTERO     25          23/MAR/2018  0/  0/0000 1            0001            09140
+3894   25/AGO/1969 MASCULINO   SOLTERO     61          14/JUN/2018 30/JUL/2018 1            0001            52910
+7622   17/FEB/1999 FEMENINO    SOLTERO     84          12/MAR/2018 28/MAR/2018 1            0001            08600
+7650   11/NOV/1987 FEMENINO    SOLTERO     81          16/ABR/2018 24/MAY/2018 1            0001            07070
+7712   17/SEP/1977 FEMENINO    SOLTERO     52           9/JUL/2018  1/OCT/2018 1            0001            09960
+7744   18/NOV/1991 FEMENINO    SOLTERO     50          23/AGO/2018 15/OCT/2018 1            0185            54090
+7428   31/MAY/1994 FEMENINO    SOLTERO     72           6/JUL/2017  0/  0/0000 1            0001            56530
+7661    7/FEB/1999 FEMENINO    SOLTERO     82           7/MAY/2018 11/JUN/2018 1            0001            54920
+7835   17/SEP/1988 FEMENINO    CASADO      86          17/DIC/2018  0/  0/0000 1            0003B           52104
+7670    4/JUL/1995 MASCULINO   SOLTERO     05          23/MAY/2018  1/JUN/2018 1            0001            09240
+7567    8/AGO/1996 MASCULINO   SOLTERO     25          22/DIC/2017  9/MAR/2018 1            0001            56250
+2897   29/OCT/1959 FEMENINO    CASADO      81          13/ENE/2017  0/  0/0000 1            0001            07550
+7811   23/FEB/1994 MASCULINO   SOLTERO     86          21/NOV/2018  0/  0/0000 1            0001            50180
+7682   19/FEB/1970 MASCULINO   CASADO      50           7/JUN/2018 15/JUN/2018 1            0001            55310
+7594    4/MAY/1986 MASCULINO   SOLTERO     81           6/FEB/2018 12/FEB/2018 1            0001            02120
+7623   24/OCT/1992 MASCULINO   SOLTERO     83          12/MAR/2018 13/MAR/2018 1            0001            53640
+7558   11/MAY/1974 MASCULINO   SOLTERO     05           7/DIC/2017  0/  0/0000 1            0001            03400
+6360   18/SEP/1958 MASCULINO   SOLTERO     52           9/OCT/2018  0/  0/0000 1            0001            09760
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EJECUTIVOS EN SERVICIOS DE ALIMENTOS, S.A. DE C.V.                                                                      Pagina: 0006
+R.F.C.:                                                                                                                    5/NOV/19
+REPORTE BASE DE DATOS
+ 
+                                                                               01= Diurna
+ 
+Codigo Fecha nac   Sexo        Edo Civi    # Depto     F.Ingreso   F.Baja      Tipo Jornad  Puesto          C.P.
+..........................................................................................................................................................................................................................................
+7726    1/FEB/1991 MASCULINO   SOLTERO     61          20/JUL/2018 30/JUL/2018 1            0001            54477
+7646   15/SEP/1993 MASCULINO   SOLTERO     84           5/ABR/2018 11/ABR/2018 1            0001            56356
+7572    6/ENE/1998 MASCULINO   SOLTERO     74           5/ENE/2018 11/ENE/2018 1            0001            09780
+7614   14/SEP/1983 MASCULINO   SOLTERO     03           1/MAR/2018  0/  0/0000 1            0014            01630
+3318    8/ENE/1963 MASCULINO   CASADO      81          24/NOV/2008  0/  0/0000 1            0183            54935
+7706   28/OCT/1981 MASCULINO   SOLTERO     86          26/JUN/2018  0/  0/0000 1            0001            50040
+7804   29/NOV/1992 MASCULINO   CASADO      37          13/NOV/2018  0/  0/0000 1            0186            54944
+5139   26/DIC/1982 MASCULINO   SOLTERO     76           2/JUN/2015  0/  0/0000 1            486             56644
+7816   19/ENE/1985 FEMENINO    SOLTERO     56          28/NOV/2018 13/DIC/2018 1            0001            01270
+6083    5/MAY/1981 MASCULINO   SOLTERO     51          13/ENE/2015  0/  0/0000 1            0002            54938
+7615    1/MAY/1996 MASCULINO   SOLTERO     03           1/MAR/2018  7/MAR/2018 1            0001            01800
+7616   27/AGO/1969 FEMENINO    CASADO      05           5/MAR/2018 25/JUN/2018 1            0001            09230
+6766   19/MAR/1962 FEMENINO    SOLTERO     03          11/ENE/2016  0/  0/0000 1            0178            01220
+4137   24/JUN/1979 MASCULINO   SOLTERO     06          16/NOV/2010  0/  0/0000 1            169             54180
+7657    5/DIC/1998 MASCULINO   SOLTERO     81          23/ABR/2018 14/MAY/2018 1            0001            02500
+7819    6/JUN/1991 MASCULINO   SOLTERO     80           3/DIC/2018  0/  0/0000 1            0001            55519
+7542   23/OCT/1964 FEMENINO    SOLTERO     57           8/NOV/2017  0/  0/0000 1            0001            55400
+7756   23/NOV/1995 FEMENINO    SOLTERO     87          17/DIC/2018  0/  0/0000 1            0001            50295
+7656   25/DIC/1971 FEMENINO    CASADO      60          25/ABR/2018 10/MAY/2018 1            0001            55749
+7625   11/JUL/1982 FEMENINO    SOLTERO     45          14/MAR/2018 22/MAR/2018 1            0001            56507
+7759   13/NOV/1995 FEMENINO    SOLTERO     56          11/SEP/2018  0/  0/0000 1            0001            01377
+3780   19/JUN/1963 FEMENINO    SOLTERO     05           5/FEB/2010  0/  0/0000 1            0019            55200
+7678   24/AGO/1997 FEMENINO    SOLTERO     74          28/MAY/2018  5/DIC/2018 1            0001            01410
+7571   30/JUL/1979 MASCULINO   SOLTERO     52           5/ENE/2018  2/ABR/2018 1            0001            09780
+7285   30/ABR/1992 MASCULINO   SOLTERO     76           5/JUN/2018 11/JUN/2018 1            0001            56585
+6205    2/OCT/1995 MASCULINO   SOLTERO     85          17/MAR/2015  0/  0/0000 1            0003B           50290
+5027    9/ENE/1970 MASCULINO   SOLTERO     82          23/JUN/2012  0/  0/0000 1            0003A           55416
+7695   17/AGO/1999 FEMENINO    SOLTERO     74          18/JUN/2018 10/SEP/2018 1            0001            15600
+7791   25/MAR/1992 FEMENINO    SOLTERO     45          24/OCT/2018  0/  0/0000 1            0001            56516
+7733    2/JUL/1975 FEMENINO    SOLTERO     45           8/AGO/2018 27/AGO/2018 1            0001            57150
+7825    2/JUN/1997 FEMENINO    SOLTERO     68           6/DIC/2018 17/DIC/2018 1            0001            08400
+7818   19/MAY/1975 FEMENINO    CASADO      83           4/DIC/2018  0/  0/0000 1            0003A           54474
+7815   19/NOV/1994 FEMENINO    SOLTERO     25          28/NOV/2018  0/  0/0000 1            0001            56613
+7245    6/NOV/1996 MASCULINO   SOLTERO     76          30/ENE/2017 28/MAY/2018 1            0001            56620
+7838   19/OCT/1966 FEMENINO    SOLTERO     54          21/DIC/2018  0/  0/0000 1            0003A           54745
+7798   19/DIC/1977 FEMENINO    SOLTERO     50          29/OCT/2018  0/  0/0000 1            0019            55120
+6839   21/ABR/1966 FEMENINO    SOLTERO     75           7/MAR/2016  0/  0/0000 1            0001            07089
+5646    6/NOV/1963 MASCULINO   SOLTERO     51           4/NOV/2013  0/  0/0000 1            0001            07969
+7750   27/NOV/1999 MASCULINO   SOLTERO     50           3/SEP/2018  0/  0/0000 1            0001            07170
+7708    1/MAY/1984 FEMENINO    SOLTERO     60           4/JUL/2018  0/  0/0000 1            0001            55065
+7680   14/OCT/1990 FEMENINO    CASADO      82           5/JUN/2018 18/JUN/2018 1            0001            54943
+7833   25/OCT/1975 FEMENINO    SOLTERO     80          11/DIC/2018  0/  0/0000 1            0001            02070
+6978    3/SEP/1968 FEMENINO    SOLTERO     76           7/JUN/2016  0/  0/0000 1            0001            56647
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EJECUTIVOS EN SERVICIOS DE ALIMENTOS, S.A. DE C.V.                                                                      Pagina: 0007
+R.F.C.:                                                                                                                    5/NOV/19
+REPORTE BASE DE DATOS
+ 
+                                                                               01= Diurna
+ 
+Codigo Fecha nac   Sexo        Edo Civi    # Depto     F.Ingreso   F.Baja      Tipo Jornad  Puesto          C.P.
+..........................................................................................................................................................................................................................................
+6658    3/JUL/1982 FEMENINO    SOLTERO     66          19/ENE/2018 21/SEP/2018 1            0102            50903
+4458   14/FEB/1978 FEMENINO    VIUDO       80          19/ABR/2017 24/SEP/2018 1            243             55717
+7619   15/MAR/1994 FEMENINO    SOLTERO     25           7/MAR/2018 23/JUL/2018 1            0001            56516
+7522   23/DIC/1981 FEMENINO    SOLTERO     82           6/OCT/2017  5/MAR/2018 1            0001            54945
+7647   16/NOV/1973 FEMENINO    CASADO      51           5/ABR/2018  3/DIC/2018 1            0001            02650
+6791   10/FEB/1994 FEMENINO    SOLTERO     05           7/MAY/2018  2/JUL/2018 1            0002            57820
+7574   13/DIC/1970 FEMENINO    SOLTERO     04           8/ENE/2018  4/JUN/2018 1            0001            54000
+5679    4/JUN/1972 FEMENINO    SOLTERO     85          20/DIC/2013  0/  0/0000 1            0180            50295
+7417    7/ENE/1976 FEMENINO    CASADO      85          29/JUN/2017 23/FEB/2018 1            0001            50010
+7583   15/OCT/1988 FEMENINO    SOLTERO     56          15/ENE/2018 16/ABR/2018 1            0001            01130
+7601    7/ENE/1977 FEMENINO    SOLTERO     80          15/FEB/2018 28/MAY/2018 1            0001            07119
+7530   10/ENE/1984 FEMENINO    SOLTERO     05          18/OCT/2017  0/  0/0000 1            0001            57710
+7635    3/ABR/1991 MASCULINO   CASADO      11          20/MAR/2018 20/ABR/2018 1            0011            08650
+7692    6/MAR/1983 MASCULINO   SOLTERO     50          14/JUN/2018  9/JUL/2018 1            0001            02630
+7239   10/MAY/1990 MASCULINO   SOLTERO     74          20/ENE/2017 17/ABR/2018 1            0001            13360
+6028    8/MAY/1965 MASCULINO   SOLTERO     11           2/DIC/2014  0/  0/0000 1            0176            02530
+7722   20/JUL/1995 MASCULINO   SOLTERO     05          18/JUL/2018 19/JUL/2018 1            0001            13310
+6565   14/MAR/1986 MASCULINO   SOLTERO     52          15/SEP/2015  0/  0/0000 1            0001            13300
+7731   26/JUN/1977 FEMENINO    SOLTERO     37          30/JUL/2018  0/  0/0000 1            0001            53378
+7609    2/AGO/1981 FEMENINO    SOLTERO     45          26/FEB/2018 28/FEB/2018 1            0001            07880
+7400   14/JUN/1972 FEMENINO    SOLTERO     04          12/JUN/2017 17/ENE/2018 1            0001            54413
+3218   10/ENE/1973 FEMENINO    SOLTERO     52          20/OCT/2008 22/MAY/2018 1            0002            56363
+7753   10/ENE/1973 FEMENINO    SOLTERO     83           4/SEP/2018  0/  0/0000 1            0003A           54140
+3676   17/JUL/1961 FEMENINO    DIVORCIADO  80          13/OCT/2009  0/  0/0000 1            0181            52928
+0445   17/FEB/1960 FEMENINO    SOLTERO     03          24/MAY/2016 20/ABR/2018 1            262             53717
+7727   10/ENE/1967 FEMENINO    SOLTERO     50          20/JUL/2018 30/JUL/2018 1            0001            54180
+5901    1/SEP/1960 FEMENINO    SOLTERO     04           4/AGO/2014 27/MAR/2018 1            0001            53000
+7822    1/JUN/1982 FEMENINO    SOLTERO     51           7/DIC/2018  0/  0/0000 1            0001            54140
+3221   12/OCT/1965 MASCULINO   CASADO      11          18/JUN/2018  0/  0/0000 1            0177            09310
+7741   27/ABR/1970 FEMENINO    CASADO      25          20/AGO/2018  0/  0/0000 1            0001            56334
+7779   16/ENE/1969 FEMENINO    CASADO      52           5/OCT/2018  0/  0/0000 1            0014            09290
+7269   19/ENE/1969 FEMENINO    SOLTERO     76          16/FEB/2017  0/  0/0000 1            0001            56577
+7807   16/ENE/1975 FEMENINO    CASADO      56          15/NOV/2018 26/NOV/2018 1            0001            01130
+7710   14/NOV/1971 MASCULINO   SOLTERO     85           9/JUL/2018 10/JUL/2018 1            0001            50010
+4647   20/AGO/1973 FEMENINO    VIUDO       51           3/AGO/2018 13/AGO/2018 1            0001            54170
+7654   17/AGO/1965 FEMENINO    CASADO      04          23/ABR/2018 30/ABR/2018 1            0001            53428
+2522   19/MAY/1952 FEMENINO    SOLTERO     05          21/MAR/2013  0/  0/0000 1            0001            56335
+7569    8/SEP/1978 FEMENINO    SOLTERO     52          29/DIC/2017  8/ENE/2018 1            0001            09910
+7555   17/MAY/1961 FEMENINO    SOLTERO     37           9/AGO/2018 20/AGO/2018 1            0001            57000
+0116   11/ABR/1966 FEMENINO    SOLTERO     04          15/ABR/2004 26/FEB/2018 1            442             54927
+5506   24/ENE/1973 FEMENINO    SOLTERO     05          11/JUL/2013 24/DIC/2018 1            0014            15520
+7167   19/AGO/1988 FEMENINO    SOLTERO     05          15/NOV/2016  6/FEB/2018 1            0001            09200
+0236   24/AGO/1961 FEMENINO    SOLTERO     45          14/MAY/1999  0/  0/0000 1            423             57000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EJECUTIVOS EN SERVICIOS DE ALIMENTOS, S.A. DE C.V.                                                                      Pagina: 0008
+R.F.C.:                                                                                                                    5/NOV/19
+REPORTE BASE DE DATOS
+ 
+                                                                               01= Diurna
+ 
+Codigo Fecha nac   Sexo        Edo Civi    # Depto     F.Ingreso   F.Baja      Tipo Jornad  Puesto          C.P.
+..........................................................................................................................................................................................................................................
+7080    2/AGO/1970 FEMENINO    SOLTERO     85           5/SEP/2016  0/  0/0000 1            0018            50285
+5965   13/MAR/1967 FEMENINO    SOLTERO     72          25/JUN/2015  0/  0/0000 1            0178            56560
+7457   11/FEB/1972 FEMENINO    CASADO      82          26/JUL/2017 20/ABR/2018 1            0001            52919
+5168    6/NOV/1973 FEMENINO    SOLTERO     81          10/SEP/2012  8/ENE/2018 1            0001            55765
+5447   19/JUN/1965 FEMENINO    SOLTERO     04          20/MAY/2013  0/  0/0000 1            0003A           55280
+7665   27/JUL/1973 FEMENINO    SOLTERO     37          16/MAY/2018 24/MAY/2018 1            0001            07780
+7628   12/JUL/1981 FEMENINO    SOLTERO     85          16/MAR/2018 19/MAR/2018 1            0001            50010
+7723    4/OCT/1994 FEMENINO    CASADO      50          18/JUL/2018  0/  0/0000 1            0001            02240
+6685   15/JUN/1965 FEMENINO    SOLTERO     73          17/NOV/2015  0/  0/0000 1            0001            56530
+7489   21/OCT/1968 FEMENINO    CASADO      52          25/AGO/2017  5/MAR/2018 1            0001            09790
+5549   17/JUL/1963 FEMENINO    SOLTERO     45          12/AGO/2013  0/  0/0000 1            0001            15530
+7599    2/FEB/1965 FEMENINO    SOLTERO     07          13/FEB/2018 15/FEB/2018 1            0001            56566
+7554    9/OCT/1992 FEMENINO    SOLTERO     56           5/DIC/2017  2/ABR/2018 1            0001            01160
+7608   30/JUL/1975 FEMENINO    SOLTERO     79          23/FEB/2018 12/MAR/2018 1            0001            53426
+4914   29/ENE/1976 FEMENINO    SOLTERO     51           9/ENE/2018  7/MAR/2018 1            0001            54189
+7749   29/NOV/1983 FEMENINO    SOLTERO     37           3/SEP/2018  7/SEP/2018 1            0001            02010
+6349    5/FEB/1975 FEMENINO    SOLTERO     76           8/JUN/2015 31/JUL/2018 1            0001            56606
+7484    7/OCT/1982 FEMENINO    SOLTERO     85          22/AGO/2017 29/JUN/2018 1            0001            50010
+7592    3/AGO/1996 FEMENINO    SOLTERO     74          31/ENE/2018 30/ABR/2018 1            0001            01800
+0854   16/NOV/1964 FEMENINO    SOLTERO     05           3/FEB/2012  0/  0/0000 1            0020            09700
+7314   21/AGO/1962 FEMENINO    SOLTERO     04          14/MAR/2017  2/ENE/2018 1            0001            54130
+7295   21/JUN/1974 FEMENINO    CASADO      57          27/FEB/2017  0/  0/0000 1            0001            55507
+7693    1/MAR/1969 FEMENINO    SOLTERO     52          14/JUN/2018 15/NOV/2018 1            0001            09969
+6832    7/FEB/1975 FEMENINO    SOLTERO     05           1/MAR/2016  0/  0/0000 1            0001            08000
+7492   14/MAY/1968 FEMENINO    VIUDO       74          28/AGO/2017  8/ENE/2018 1            0001            08500
+7578    6/OCT/1998 FEMENINO    SOLTERO     52           9/ENE/2018 17/ENE/2018 1            0001            09780
+7687   27/FEB/1967 FEMENINO    SOLTERO     50          11/JUN/2018 23/JUL/2018 1            0001            54170
+4807   21/SEP/1956 FEMENINO    CASADO      06           1/MAR/2012  0/  0/0000 1            0028            54744
+7610   11/DIC/1978 FEMENINO    CASADO      52          26/FEB/2018  5/JUN/2018 1            0001            09780
+6821   11/DIC/1974 FEMENINO    SOLTERO     25          19/FEB/2016  0/  0/0000 1            0178            56535
+7705   10/ENE/1975 FEMENINO    SOLTERO     82          28/JUN/2018 20/AGO/2018 1            0001            54030
+7763    7/SEP/1973 FEMENINO    CASADO      05          19/SEP/2018  1/OCT/2018 1            0001            08700
+7751   13/DIC/1965 FEMENINO    SOLTERO     07           4/SEP/2018  1/OCT/2018 1            0001            09620
+7730   12/DIC/1958 FEMENINO    SOLTERO     81          30/JUL/2018  1/OCT/2018 1            0001            02200
+7412   15/DIC/1995 FEMENINO    SOLTERO     81          13/AGO/2018 27/AGO/2018 1            0001            07600
+7596   12/JUL/1983 FEMENINO    CASADO      11           8/FEB/2018 22/FEB/2018 1            0001            56585
+3169   30/JUN/1956 FEMENINO    SOLTERO     76          29/AGO/2008  0/  0/0000 1            0001            56563
+6944   25/AGO/1964 FEMENINO    SOLTERO     85          16/MAY/2016  7/JUN/2018 1            0178            05090
+5737    3/NOV/1983 FEMENINO    SOLTERO     85          17/ENE/2018 12/MAR/2018 1            0001            50290
+7728   17/SEP/1978 FEMENINO    SOLTERO     45          23/JUL/2018 24/SEP/2018 1            0001            15300
+7686    8/DIC/1974 FEMENINO    SOLTERO     85           8/JUN/2018 10/SEP/2018 1            0001            50010
+5902   23/NOV/1971 FEMENINO    SOLTERO     06           4/AGO/2014 24/SEP/2018 1            331             09359
+4514    2/SEP/1961 FEMENINO    CASADO      54          12/SEP/2011  0/  0/0000 1            0181            55717
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EJECUTIVOS EN SERVICIOS DE ALIMENTOS, S.A. DE C.V.                                                                      Pagina: 0009
+R.F.C.:                                                                                                                    5/NOV/19
+REPORTE BASE DE DATOS
+ 
+                                                                               01= Diurna
+ 
+Codigo Fecha nac   Sexo        Edo Civi    # Depto     F.Ingreso   F.Baja      Tipo Jornad  Puesto          C.P.
+..........................................................................................................................................................................................................................................
+7814   11/DIC/1977 FEMENINO    SOLTERO     04          26/NOV/2018  0/  0/0000 1            0003A           52949
+7104   11/SEP/1973 FEMENINO    SOLTERO     04           3/MAY/2018  0/  0/0000 1            0003A           54948
+7754    9/JUN/1966 FEMENINO    SOLTERO     61           5/SEP/2018  0/  0/0000 1            0001            52918
+7717    3/FEB/1968 FEMENINO    SOLTERO     52          13/JUL/2018  0/  0/0000 1            0018            09830
+6014   28/JUL/1968 FEMENINO    SOLTERO     75          18/NOV/2014  0/  0/0000 1            0178            09300
+7775    3/FEB/1989 FEMENINO    SOLTERO     37           1/OCT/2018  0/  0/0000 1            0001            07580
+7736    7/JUN/1998 FEMENINO    SOLTERO     61          10/AGO/2018 20/AGO/2018 1            0001            52947
+7356    4/OCT/1974 FEMENINO    CASADO      07          26/ABR/2017 15/ENE/2018 1            0001            09300
+7783   16/MAY/1984 FEMENINO    CASADO      56          10/OCT/2018  0/  0/0000 1            0015            01100
+7551    6/JUL/1976 FEMENINO    CASADO      79           8/ENE/2018  0/  0/0000 1            0001            53428
+7590   22/DIC/1965 FEMENINO    CASADO      03          25/ENE/2018 14/FEB/2018 1            0001            01759
+7715    2/JUL/1990 FEMENINO    SOLTERO     52          13/JUL/2018  0/  0/0000 1            0001            09630
+7645   28/FEB/1994 FEMENINO    SOLTERO     52           2/ABR/2018 18/JUN/2018 1            0001            09750
+6985   30/DIC/1987 FEMENINO    SOLTERO     86          13/JUN/2016 18/DIC/2018 1            0075            50200
+6831    9/MAY/1969 FEMENINO    SOLTERO     80          23/FEB/2016 20/MAR/2018 1            0001            07620
+3827   17/AGO/1980 MASCULINO   SOLTERO     05           6/ABR/2010  0/  0/0000 1            0002            08400
+7725   14/JUL/1992 MASCULINO   SOLTERO     05          19/JUL/2018 20/JUL/2018 1            0001            08800
+7794   21/MAR/1961 FEMENINO    CASADO      59          25/OCT/2018 31/OCT/2018 1            0001            56150
+5412   15/AGO/1975 FEMENINO    SOLTERO     03           8/DIC/2014  0/  0/0000 1            0001            01800
+7757   16/ENE/1989 FEMENINO    SOLTERO     25           7/SEP/2018 15/NOV/2018 1            0001            56430
+4504    8/ENE/1982 FEMENINO    CASADO      06          20/JUL/2017  0/  0/0000 1            0032            56615
+7395    9/AGO/1994 FEMENINO    SOLTERO     85          12/JUN/2017  0/  0/0000 1            0003B           50039
+0214   21/JUL/1974 FEMENINO    SOLTERO     06           2/ENE/2017  0/  0/0000 1            0024            57750
+7376   17/OCT/1983 FEMENINO    CASADO      54          19/MAY/2017  3/DIC/2018 1            0003A           54870
+3217   25/NOV/2009 FEMENINO    CASADO      50          20/JUN/2018 11/SEP/2018 1            0180            55270
+7212   26/OCT/1971 FEMENINO    SOLTERO     54           6/ENE/2017 10/SEP/2018 1            0001            54850
+6321   19/NOV/1973 FEMENINO    SOLTERO     76          21/MAY/2015  0/  0/0000 1            0002            56589
+5232   24/FEB/1964 FEMENINO    SOLTERO     83          12/ENE/2016  0/  0/0000 1            110             07100
+4958   12/JUN/1965 FEMENINO    SOLTERO     57          24/MAY/2012  0/  0/0000 1            0001            55520
+7620   12/DIC/1983 FEMENINO    SOLTERO     68           7/MAR/2018  5/JUN/2018 1            0001            09208
+7675   16/OCT/1971 FEMENINO    SOLTERO     85          21/MAY/2018 28/AGO/2018 1            0001            50020
+3979   14/MAY/1976 MASCULINO   CASADO      06          26/JUL/2010  0/  0/0000 1            0027            09760
+7651   21/OCT/1992 MASCULINO   SOLTERO     08          19/ABR/2018 26/ABR/2018 1            0001            56334
+5568   15/AGO/1994 MASCULINO   SOLTERO     50          25/JUL/2018 13/AGO/2018 1            0001            07119
+0442   21/JUN/1967 MASCULINO   SOLTERO     05          14/ENE/1999  0/  0/0000 1            0174            54170
+7699   17/ABR/1989 FEMENINO    SOLTERO     50          21/JUN/2018  0/  0/0000 1            0001            02600
+7630    1/NOV/1996 FEMENINO    SOLTERO     74          20/MAR/2018  9/ABR/2018 1            0001            09960
+7724    5/DIC/1997 FEMENINO    SOLTERO     05          19/JUL/2018 20/JUL/2018 1            0001            08000
+7330   29/SEP/1969 MASCULINO   SOLTERO     05          28/MAR/2017  0/  0/0000 1            0015            56383
+7829   21/SEP/1992 MASCULINO   CASADO      85          11/DIC/2018 12/DIC/2018 1            0003B           50040
+7719    8/OCT/1991 MASCULINO   SOLTERO     57          18/JUL/2018  0/  0/0000 1            0001            55507
+7772   21/JUN/1981 FEMENINO    SOLTERO     45          28/SEP/2018 17/OCT/2018 1            0001            56440
+7243    9/JUN/1991 FEMENINO    SOLTERO     37          25/ENE/2017 23/JUL/2018 1            0001            55540
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EJECUTIVOS EN SERVICIOS DE ALIMENTOS, S.A. DE C.V.                                                                      Pagina: 0010
+R.F.C.:                                                                                                                    5/NOV/19
+REPORTE BASE DE DATOS
+ 
+                                                                               01= Diurna
+ 
+Codigo Fecha nac   Sexo        Edo Civi    # Depto     F.Ingreso   F.Baja      Tipo Jornad  Puesto          C.P.
+..........................................................................................................................................................................................................................................
+7467   25/JUN/1995 FEMENINO    SOLTERO     66           1/AGO/2017 22/ENE/2018 1            0001            50205
+7720    7/OCT/1976 FEMENINO    CASADO      50          17/JUL/2018 13/AGO/2018 1            0001            07360
+7591   10/AGO/1997 FEMENINO    SOLTERO     84          26/ENE/2018 12/MAR/2018 1            0001            08030
+5247   27/AGO/1960 MASCULINO   CASADO      50          11/JUN/2018 29/JUN/2018 1            0001            07918
+7397   14/NOV/1992 MASCULINO   SOLTERO     66          12/JUN/2017 24/SEP/2018 1            0001            50010
+7679   14/ENE/1994 FEMENINO    CASADO      81          31/MAY/2018 11/JUL/2018 1            0001            07560
+7421   17/ENE/1990 FEMENINO    SOLTERO     73           4/JUL/2017  0/  0/0000 1            0001            56570
+7556   17/JUN/1990 FEMENINO    SOLTERO     85           7/DIC/2017 15/ENE/2018 1            0001            50290
+7732    2/FEB/1985 FEMENINO    CASADO      59           3/AGO/2018  4/SEP/2018 1            0001            56208
+7570   20/SEP/1995 FEMENINO    SOLTERO     11           5/ENE/2018  8/ENE/2018 1            0001            09209
+7787   14/AGO/1993 FEMENINO    SOLTERO     59          17/OCT/2018  5/DIC/2018 1            0001            56208
+7776   19/JUN/1993 FEMENINO    SOLTERO     81           2/OCT/2018  0/  0/0000 1            0001            07950
+7823    6/MAR/1981 FEMENINO    CASADO      59           5/DIC/2018  0/  0/0000 1            0001            56208
+7585    6/MAR/1987 FEMENINO    SOLTERO     11          15/ENE/2018 17/ENE/2018 1            0001            15300
+7595   18/ENE/1991 FEMENINO    SOLTERO     82           6/FEB/2018 27/AGO/2018 1            0001            54010
+7298   14/JUN/1988 FEMENINO    SOLTERO     74           6/MAR/2017  0/  0/0000 1            0184            13310
+7830   20/DIC/2018 FEMENINO    SOLTERO     85          11/DIC/2018 17/DIC/2018 1            0003B           50170
+7758   26/NOV/1969 FEMENINO    SOLTERO     52           7/SEP/2018  0/  0/0000 1            0001            09690
+5396    5/JUN/1971 FEMENINO    SOLTERO     05           3/JUL/2014  0/  0/0000 1            0001            56516
+7672   24/MAY/1978 FEMENINO    SOLTERO     82          24/MAY/2018  4/JUN/2018 1            0001            54416
+5704   20/SEP/1965 FEMENINO    SOLTERO     66           3/JUN/2015  0/  0/0000 1            0182            50160
+7503    8/JUN/1989 MASCULINO   SOLTERO     85          19/SEP/2017  0/  0/0000 1            0003B           50020
+7790   26/JUL/1988 MASCULINO   SOLTERO     66          18/OCT/2018 29/OCT/2018 1            0018            52080
+7557   18/MAR/1971 MASCULINO   SOLTERO     85           7/DIC/2017 12/FEB/2018 1            0001            50010
+7713    9/JUN/1991 FEMENINO    SOLTERO     05          12/JUL/2018 23/JUL/2018 1            0001            09220
+7721   28/NOV/1993 MASCULINO   SOLTERO     37          18/JUL/2018 20/JUL/2018 1            0001            02120
+7190    4/MAR/1976 FEMENINO    SOLTERO     80           7/DIC/2016  1/OCT/2018 1            0001            54092
+7642    9/NOV/1999 MASCULINO   SOLTERO     52          27/JUN/2018 27/AGO/2018 1            0001            04260
+7689   10/AGO/2000 MASCULINO   SOLTERO     05          12/JUN/2018 25/JUN/2018 1            0001            06800
+7280   12/ENE/1980 FEMENINO    SOLTERO     05          23/FEB/2017  7/MAR/2018 1            0001            13430
+7745    3/JUL/1996 FEMENINO    SOLTERO     51          23/AGO/2018  1/OCT/2018 1            0001            02010
+7588    9/AGO/1991 FEMENINO    SOLTERO     79          24/ENE/2018  0/  0/0000 1            0001            53426
+7821    3/JUN/1983 FEMENINO    SOLTERO     61           5/DIC/2018  0/  0/0000 1            0003A           54475
+5588   22/DIC/1968 FEMENINO    SOLTERO     60          21/SEP/2013  0/  0/0000 1            0001            55065
+6356   10/MAY/1967 FEMENINO    SOLTERO     83          16/MAR/2018 19/MAR/2018 1            0001            54140
+6203   24/ENE/1967 FEMENINO    SOLTERO     85          14/DIC/2015  0/  0/0000 1            0003B           50010
+6582   13/MAR/1974 FEMENINO    SOLTERO     37          28/OCT/2016  0/  0/0000 1            0001            56363
+7667   16/AGO/1979 FEMENINO    SOLTERO     45          18/MAY/2018 10/SEP/2018 1            0001            56386
+7691   23/MAR/1973 FEMENINO    SOLTERO     05          13/JUN/2018  6/AGO/2018 1            0001            09220
+7392   25/AGO/1978 FEMENINO    SOLTERO     52           4/SEP/2018  0/  0/0000 1            0001            09790
+7226   15/MAR/1965 FEMENINO    SOLTERO     54          13/ENE/2017  0/  0/0000 1            0003A           54960
+7664   13/MAR/1971 FEMENINO    SOLTERO     51           9/MAY/2018  0/  0/0000 1            0001            02870
+7272   18/SEP/1991 FEMENINO    SOLTERO     82          21/FEB/2017  9/FEB/2018 1            0001            54030
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EJECUTIVOS EN SERVICIOS DE ALIMENTOS, S.A. DE C.V.                                                                      Pagina: 0011
+R.F.C.:                                                                                                                    5/NOV/19
+REPORTE BASE DE DATOS
+ 
+                                                                               01= Diurna
+ 
+Codigo Fecha nac   Sexo        Edo Civi    # Depto     F.Ingreso   F.Baja      Tipo Jornad  Puesto          C.P.
+..........................................................................................................................................................................................................................................
+7766   29/SEP/1967 MASCULINO   SOLTERO     08          24/SEP/2018  0/  0/0000 1            0001            08020
+7613   27/JUL/1977 MASCULINO   CASADO      83           1/MAR/2018 18/JUN/2018 1            0001            53660
+3326   24/OCT/1968 FEMENINO    CASADO      57          21/JUN/2017  0/  0/0000 1            0019            07420
+3960   18/ABR/1965 MASCULINO   CASADO      11           9/SEP/2013 18/JUN/2018 1            0177            09060
+2233   31/JUL/1961 FEMENINO    CASADO      51          15/NOV/2004 13/JUN/2018 1            0034            54700
+7584   29/ABR/1991 FEMENINO    SOLTERO     74          15/ENE/2018 14/MAY/2018 1            0001            13360
+0449   31/MAY/1970 MASCULINO   SOLTERO     05          13/DIC/1989  0/  0/0000 1            0003            06820
+7709    9/MAR/1979 FEMENINO    SOLTERO     57           6/JUL/2018 16/JUL/2018 1            0001            55748
+7707    2/SEP/1969 FEMENINO    CASADO      83           2/JUL/2018  7/SEP/2018 1            0001            54020
+6934   21/NOV/1960 FEMENINO    SOLTERO     06           2/MAY/2016  0/  0/0000 1            470             07500
+7770    5/ENE/1987 FEMENINO    SOLTERO     52          26/SEP/2018  0/  0/0000 1            0001            09830
+7137   12/FEB/1976 MASCULINO   SOLTERO     81          19/OCT/2016  0/  0/0000 1            469             54193
+7771   16/MAY/1986 MASCULINO   SOLTERO     50          26/SEP/2018 29/OCT/2018 1            0001            54180
+6682    7/DIC/1996 MASCULINO   SOLTERO     06          13/FEB/2017  0/  0/0000 1            0001            15730
+7789   22/JUL/1989 FEMENINO    SOLTERO     68          18/OCT/2018 22/OCT/2018 1            0001            08020
+7788   29/MAR/1981 MASCULINO   SOLTERO     50          18/OCT/2018  5/NOV/2018 1            0185            07640
+1269   13/OCT/1967 MASCULINO   SOLTERO     03          18/MAY/2000  0/  0/0000 1            0001            09100
+7523   23/AGO/1969 FEMENINO    SOLTERO     52           9/OCT/2017  5/FEB/2018 1            0001            09800
+6006   30/AGO/1969 FEMENINO    SOLTERO     81           3/DIC/2018  0/  0/0000 1            0001            55200
+6918    7/OCT/1988 FEMENINO    SOLTERO     87          16/MAR/2018 24/DIC/2018 1            0001            50260
+1419   31/OCT/1980 FEMENINO    SOLTERO     51          28/JUL/2015  0/  0/0000 1            0020            02600
+7605   28/NOV/1983 FEMENINO    SOLTERO     52          22/FEB/2018  9/ABR/2018 1            0001            09960
+7518   11/ENE/1987 FEMENINO    SOLTERO     81          29/SEP/2017 17/ENE/2018 1            0001            55490
+7453   28/MAR/1978 FEMENINO    SOLTERO     66          21/JUL/2017 30/ENE/2018 1            0001            50290
+7545    5/DIC/1991 FEMENINO    SOLTERO     85          10/NOV/2017  0/  0/0000 1            0018            50280
+7483   22/JUN/1997 FEMENINO    SOLTERO     04          18/AGO/2017  4/ENE/2018 1            0001            52927
+7244   30/JUL/1976 FEMENINO    SOLTERO     45          26/ENE/2017 15/ENE/2018 1            0001            57130
+6505   17/ABR/1974 MASCULINO   CASADO      80          27/SEP/2018 30/NOV/2018 1            0014            07420
+7769   12/FEB/1994 MASCULINO   SOLTERO     66          25/SEP/2018 31/OCT/2018 1            0104            52140
+7653   27/MAR/1994 MASCULINO   SOLTERO     52          19/ABR/2018 21/MAY/2018 1            0016            13319
+7809    6/ABR/1983 MASCULINO   CASADO      86          22/NOV/2018 17/DIC/2018 1            0120            50260
+7785    4/FEB/1975 MASCULINO   SOLTERO     83          15/OCT/2018 31/OCT/2018 1            0019            53760
+5905   15/FEB/1970 FEMENINO    SOLTERO     52           7/AGO/2014 30/JUL/2018 1            0018            09760
+7638    8/ABR/1966 FEMENINO    VIUDO       07          27/MAR/2018 30/AGO/2018 1            0001            56420
+7462   21/ENE/1981 FEMENINO    CASADO      85          27/JUL/2017 14/MAY/2018 1            0001            50039
+3525    4/MAY/1965 FEMENINO    SOLTERO     68          14/AGO/2017  0/  0/0000 1            0014            08770
+7626   22/OCT/1966 FEMENINO    SOLTERO     85          16/MAR/2018  4/JUN/2018 1            0001            50900
+7813   11/OCT/1969 FEMENINO    CASADO      81          26/NOV/2018  0/  0/0000 1            0001            54090
+2451   27/JUN/1966 FEMENINO    CASADO      11          12/SEP/2005  6/AGO/2018 1            0001            15520
+6885    5/MAR/1969 FEMENINO    SOLTERO     52           1/ABR/2016  0/  0/0000 1            0001            09760
+7808   13/JUL/1971 FEMENINO    CASADO      50          21/NOV/2018  3/DIC/2018 1            0001            07970
+7438    9/MAY/1966 FEMENINO    SOLTERO     85          10/JUL/2017 15/ENE/2018 1            0001            50160
+7231   28/ENE/1984 FEMENINO    SOLTERO     72           9/MAY/2018 16/JUL/2018 1            0001            57840
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EJECUTIVOS EN SERVICIOS DE ALIMENTOS, S.A. DE C.V.                                                                      Pagina: 0012
+R.F.C.:                                                                                                                    5/NOV/19
+REPORTE BASE DE DATOS
+ 
+                                                                               01= Diurna
+ 
+Codigo Fecha nac   Sexo        Edo Civi    # Depto     F.Ingreso   F.Baja      Tipo Jornad  Puesto          C.P.
+..........................................................................................................................................................................................................................................
+4775    8/FEB/1966 FEMENINO    SOLTERO     74          21/FEB/2012  0/  0/0000 1            0001            08730
+7528    3/AGO/1985 FEMENINO    SOLTERO     85          13/OCT/2017  0/  0/0000 1            0003B           50010
+7738    1/OCT/1969 FEMENINO    SOLTERO     50          17/AGO/2018 20/AGO/2018 1            0001            55710
+7658   22/JUL/1983 MASCULINO   SOLTERO     45           3/MAY/2018 13/AGO/2018 1            0001            57830
+5671   15/NOV/1968 FEMENINO    SOLTERO     85          21/DIC/2013  2/JUL/2018 1            366             50290
+7703   23/AGO/1995 MASCULINO   SOLTERO     05           9/JUL/2018 20/JUL/2018 1            0001            09230
+4832    4/DIC/1975 FEMENINO    SOLTERO     59           6/OCT/2014  0/  0/0000 1            0001            56270
+7836   22/MAY/1999 FEMENINO    SOLTERO     56          19/DIC/2018  0/  0/0000 1            0001            01290
+7496    6/MAY/1995 FEMENINO    SOLTERO     85           7/SEP/2017  3/ENE/2018 1            0001            50904
+7648   19/AGO/1994 FEMENINO    SOLTERO     81           9/ABR/2018 18/ABR/2018 1            0001            54090
+7824    1/FEB/1980 FEMENINO    SOLTERO     59           5/DIC/2018  0/  0/0000 1            0001            56266
+7637   19/ABR/1995 FEMENINO    SOLTERO     80          26/MAR/2018 28/MAY/2018 1            0001            07850
+7729   30/SEP/1971 FEMENINO    SOLTERO     05          25/JUL/2018 13/AGO/2018 1            0001            57820
+6567    1/DIC/1980 FEMENINO    SOLTERO     66          15/SEP/2015  4/SEP/2018 1            0001            50010
+3321   12/FEB/1965 MASCULINO   CASADO      83           7/SEP/2010  0/  0/0000 1            0103            54942
+7597   28/JUL/1963 MASCULINO   SOLTERO     08          12/FEB/2018 16/FEB/2018 1            0001            15660
+7577    1/MAY/1970 MASCULINO   SOLTERO     74           9/ENE/2018 12/FEB/2018 1            0001            01480
+7831   27/MAY/1999 FEMENINO    SOLTERO     86          11/DIC/2018 24/DIC/2018 1            0003B           52145
+2112   13/AGO/1966 FEMENINO    SOLTERO     72          17/OCT/2006  0/  0/0000 1            0001            56360
+0624    9/SEP/1966 FEMENINO    SOLTERO     83          25/ENE/1996  0/  0/0000 1            0035            11430
+6877   16/ENE/1962 FEMENINO    SOLTERO     81          30/MAR/2016  0/  0/0000 1            0014            07939
+7781    1/JUN/1968 FEMENINO    SOLTERO     37          10/OCT/2018 22/OCT/2018 1            0001            02750
+4385   31/ENE/1973 FEMENINO    SOLTERO     04           2/JUN/2011  0/  0/0000 1            0016            53716
+7378   29/JUL/1991 FEMENINO    SOLTERO     52          12/DIC/2018  0/  0/0000 1            0001            09770
+0366   21/MAR/1969 FEMENINO    CASADO      06          17/OCT/2011  0/  0/0000 1            0025            10580
+7755   13/ABR/1995 FEMENINO    SOLTERO     87          17/DIC/2018  0/  0/0000 1            0001            50295
+6206    9/FEB/1972 FEMENINO    SOLTERO     73          18/MAR/2015  0/  0/0000 1            0178            56600
+7543   21/JUN/1989 FEMENINO    SOLTERO     60           8/NOV/2017  4/ENE/2018 1            0001            55066
+4366   11/MAR/1958 FEMENINO    SOLTERO     82          14/NOV/2018  0/  0/0000 1            0003A           54020
+7618   25/DIC/1992 FEMENINO    SOLTERO     05           6/MAR/2018  0/  0/0000 1            0001            56334
+ 
+*** GLOBAL
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
