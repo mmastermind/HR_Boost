@@ -1,22 +1,30 @@
-<h1>Machine Learning & Deep Learning </h1>
+<h1>Machine Learning, Deep Learning & XG Boost </h1>
 <br>
-<p> The models found in this repository were based on the data cleaned in the branch: <b>cleaning</b>. Both Machine and Deep learning used data from 2018 to <b>TRAIN</b> whilst data from 2019 was used to <b>TEST</b> the models</p>
+<p> The models found in this repository were based on the data cleaned in the branch: <b>cleaning</b>. All of the models used data from 2018 to <b>TRAIN</b> whilst data from 2019 was used to <b>TEST</b> the models</p>
 <br>
 <p>The goal was to predict which workers that were active during 2018 would quit during 2019 by using Supervised Classification. The following scores were obtained in the latest test</p>
 <ul>
     <li><b>Machine Learning:</b> was based on Logistic Regression. 
     <br>
         <ul>
-        <li>Training Data Score: 0.7379826635145784</li>
-        <li>Testing Data Score: 0.7332278095701936</li>
+        <li>Training Data Score: 0.7379</li>
+        <li>Testing Data Score: 0.7332</li>
         </ul>
     </li>
     <br>
     <li><b>Deep Learning:</b> used a Sequential model with ReLU as the activation function and Categorical Crossentropy as the loss function
     <br>    
         <ul>
-        <li>TRAINING - Loss: 0.134721790527715, Accuracy: 0.9443459510803223</li>
-        <li>TESTING - Loss: 2.179290421868625, Accuracy: 0.7051016688346863</li>
+        <li>TRAINING - Loss: 0.1347, Accuracy: 0.9443</li>
+        <li>TESTING - Loss: 2.1792, Accuracy: 0.7051</li>
+        </ul>
+    </li>
+    <br>
+    <li><b>XG Boost:</b> 
+    <br>
+        <ul>
+        <li>Training Data Score: 0.8586</li>
+        <li>Testing Data Score: 0.5063</li>
         </ul>
     </li>
 </ul>
@@ -53,3 +61,5 @@
 ![deep_learning](https://user-images.githubusercontent.com/51130786/68521526-8e451300-0267-11ea-966f-b40a67a03faf.PNG)
 
 <p>We can see on the plot that predictions were fairly consistent across the Deep Learning iterations</p>
+
+![final_comparison](https://user-images.githubusercontent.com/51130786/68534245-be3bf700-02f7-11ea-8797-ee6f49baa3b8.PNG)
