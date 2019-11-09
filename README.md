@@ -35,6 +35,7 @@
 <td>%</td>
 </th>
 <tr>
+<td></td>
 <td>89</td>
 <td>69</td>
 <td>77%</td>
@@ -44,3 +45,8 @@
 <td>73%</td>
 </tr>
 </table>
+<br>
+
+![image](https://drive.google.com/file/d/1YpQy-rJbqkXUfp6puh0qXXB_nmj5aSCT)
+
+<p>We can see on the plot that predictions were fairly consistent across the iterations</p>
