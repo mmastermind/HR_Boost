@@ -61,5 +61,6 @@
 ![deep_learning](https://user-images.githubusercontent.com/51130786/68521526-8e451300-0267-11ea-966f-b40a67a03faf.PNG)
 
 <p>We can see on the plot that predictions were fairly consistent across the Deep Learning iterations</p>
+<br>
 
-![final_comparison](https://user-images.githubusercontent.com/51130786/68534245-be3bf700-02f7-11ea-8797-ee6f49baa3b8.PNG)
+![final_comparison](https://user-images.githubusercontent.com/51130786/68534359-4ec70700-02f9-11ea-9290-3c547ce79d41.PNG)
