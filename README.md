@@ -21,7 +21,7 @@
     </li>
 </ul>
 <br>
-<p>The Machine Learning model was able to predict <b>68 out of 89</b> workers who were active in 2018 and quit during 2019 </p>
+<p>The Machine Learning model was able to predict <b>65 out of 79 (82%) </b> workers who were active in 2018 and quit during 2019 </p>
 <br>
 <p>The results for the 3 tests done for the Deep Learning model are as follows:</p>
 <table>
@@ -36,13 +36,13 @@
 </th>
 <tr>
 <td></td>
-<td>89</td>
+<td>79</td>
 <td>69</td>
-<td>77%</td>
+<td>87%</td>
 <td>64</td>
-<td>72%</td>
+<td>81%</td>
 <td>65</td>
-<td>73%</td>
+<td>82%</td>
 </tr>
 </table>
 <br>
