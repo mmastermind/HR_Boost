@@ -47,6 +47,6 @@
 </table>
 <br>
 
-![image](https://drive.google.com/file/d/1cS9I_DL_dsNrACjZMJZZi2GG6f22wLNH)
+<img src="https://drive.google.com/file/d/1cS9I_DL_dsNrACjZMJZZi2GG6f22wLNH">
 
 <p>We can see on the plot that predictions were fairly consistent across the iterations</p>
