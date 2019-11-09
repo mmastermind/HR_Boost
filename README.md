@@ -1,11 +1,11 @@
-TEAM CHARTER
-TEAM: HR Boost by CRGJ3 Analytics  
-PARTICIPANTS: Carlos, Raúl, Jan, Jessica, Jose, Gonzalo
-MAIN OBJECTIVE: Deliver a machine learning model that provides actionable information while hiring in ESASA to significantly boost employee retention, thus, minimizing rotation.
+# TEAM CHARTER
+## _TEAM: HR Boost by CRGJ3 Analytics_
+## PARTICIPANTS: Carlos, Raúl, Jan, Jessica, Jose, Gonzalo
+## MAIN OBJECTIVE: Deliver a machine learning model that provides actionable information while hiring in ESASA to significantly boost employee retention, thus, minimizing rotation.
 BUSINESS NEED: ESASA is a Mexican PYME with 33 years providing B2B food services (comedores). Regarding HR, the single most important break-through to achieve is a boost in employee retention and/or hiring effectiveness; to impact significantly many other business results.
 OBJECTIVES DEVELOPMENT:
-a)	Understand /quantify the weight of each defined variable (see specific section) in order to maximize effectiveness and “survivability” chance for each candidate.
-b)	Provide a mini full-stack app or page for HR recruiters or @ESASA’s webpage to discard low-retention-profile candidates with a score?
+1.	Understand /quantify the weight of each defined variable (see specific section) in order to maximize effectiveness and “survivability” chance for each candidate.
+2. 	Provide a mini full-stack app or page for HR recruiters or @ESASA’s webpage to discard low-retention-profile candidates with a score?
 SCOPE: 
 Minimum	Desired
 Analyze data with at least one machine learning model	Regression, Neural networks, XG Boost models and compare each other
