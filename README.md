@@ -49,4 +49,4 @@
 
 ![deep_learning](https://user-images.githubusercontent.com/51130786/68521526-8e451300-0267-11ea-966f-b40a67a03faf.PNG)
 
-<p>We can see on the plot that predictions were fairly consistent across the iterations</p>
+<p>We can see on the plot that predictions were fairly consistent across the Deep Learning iterations</p>
