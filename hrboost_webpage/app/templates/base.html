@@ -55,22 +55,18 @@
             </div>
             <div class="collapse navbar-collapse justify-content-end" id="navigation" data-nav-image="../assets/img/blurred-image-1.jpg">
                 <ul class="navbar-nav">
-                    <li class="nav-item">
-                        <a class="nav-link {% if title == 'About' %} active {% else %} {% endif %}" href="{{ url_for('about') }}">About EASA</a>
+                    <li class="nav-item {% if title == 'About' %} active {% else %} {% endif %}">
+                        <a class="nav-link " href="{{ url_for('about') }}">About EASA</a>
                     </li>
                     <li class="nav-item {% if title == 'Map' %} active {% else %} {% endif %}">
                         <a class="nav-link" href="{{ url_for('map') }}">Map</a>
                     </li>
                     <li class="nav-item {% if title == 'Machine Learning' %} active {% else %} {% endif %}">
-                        <a class="nav-link" href="{{ url_for('machinelearning') }}">Machine Learning</a>
+                        <a class="nav-link" href="{{ url_for('machinelearning') }}">Data Analysis</a>
                     </li>
                     <li class="nav-item {% if title == 'Employee Form' %} active {% else %} {% endif %}">
                         <a class="nav-link" href="{{ url_for('forms') }}">Employee Form</a>
                     </li>
-
-
-
-
                     <li class="nav-item">
                         <a class="nav-link" rel="tooltip" title="Follow us on Twitter" data-placement="bottom" href="https://twitter.com/" target="_blank">
                             <i class="fab fa-twitter"></i>
