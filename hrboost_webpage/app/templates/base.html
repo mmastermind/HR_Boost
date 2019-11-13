@@ -20,6 +20,21 @@
     <link href="/static/assets/css/now-ui-kit.css?v=1.3.0" rel="stylesheet" />
     <!-- CSS Just for demo purpose, don't include it in your project -->
     <link href="/static/assets/demo/demo.css" rel="stylesheet" />
+
+    <!-- Leaflet JS & CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.3/dist/leaflet.css" integrity="sha512-Rksm5RenBEKSKFjgI3a41vrjkw4EVPlJ3+OiI65vTjIdo9brlAacEuKOiQ5OFh7cOI1bkDwLqdLw3Zg0cRJAAQ==" crossorigin="" />
+    <script src="https://unpkg.com/leaflet@1.3.3/dist/leaflet.js" integrity="sha512-tAGcCfR4Sc5ZP5ZoVz0quoZDYX5aCtEm/eu1KhSLj2c9eFrylXZknQYmxUssFaVJKvvc0dJQixhGjG2yXWiV9Q==" crossorigin=""></script>
+    <script src="https://code.jquery.com/jquery-3.2.1.js" integrity="sha256-DZAnKJ/6XZ9si04Hgrsxu/8s717jcIzLy3oi35EouyE=" crossorigin="anonymous">
+    </script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet-easybutton@2/src/easy-button.css">
+    <script src="https://cdn.jsdelivr.net/npm/leaflet-easybutton@2/src/easy-button.js"></script>
+
+    <!-- d3 JavaScript -->
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+
+    <!-- Our CSS -->
+    <link rel="stylesheet" type="text/css" href="static/css/style.css">
+
 </head>
 
 <body class="landing-page sidebar-collapse">
@@ -32,16 +47,7 @@
                     <span class="button-bar"></span>
                     <span class="button-bar"></span>
                 </a>
-                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                    <a class="dropdown-header">Dropdown header</a>
-                    <a class="dropdown-item" href="#">Action</a>
-                    <a class="dropdown-item" href="#">Another action</a>
-                    <a class="dropdown-item" href="#">Something else here</a>
-                    <div class="dropdown-divider"></div>
-                    <a class="dropdown-item" href="#">Separated link</a>
-                    <div class="dropdown-divider"></div>
-                    <a class="dropdown-item" href="#">One more separated link</a>
-                </div>
+
             </div>
             <div class="navbar-translate">
                 <a class="navbar-brand {% if title == 'Home' %} active {% else %} {% endif %}" href="{{ url_for('index') }}" rel="tooltip" title="Human Resources booST" data-placement="bottom">
@@ -56,7 +62,7 @@
             <div class="collapse navbar-collapse justify-content-end" id="navigation" data-nav-image="../assets/img/blurred-image-1.jpg">
                 <ul class="navbar-nav">
                     <li class="nav-item {% if title == 'About' %} active {% else %} {% endif %}">
-                        <a class="nav-link " href="{{ url_for('about') }}">About EASA</a>
+                        <a class="nav-link " href="{{ url_for('about') }}">About ESASA</a>
                     </li>
                     <li class="nav-item {% if title == 'Map' %} active {% else %} {% endif %}">
                         <a class="nav-link" href="{{ url_for('map') }}">Map</a>
