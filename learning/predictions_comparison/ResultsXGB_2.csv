@@ -1,5 +1,5 @@
-HR Boost Models Predictions,Accuracy,Recall,F1 Score
-Machine Learning_18vs19,73.30%,75.50%,74.40%
-Deep networks_18vs19,70.50%,85.20%,77.10%
-XG_Boost_18vs19,50.62%,87.18%,64.05%
-XG_Boost_split_data,80.20%,,
+HR Boost Models Predictions,Accuracy,Recall,F1 Score,Data source,jupyter asociado
+Machine Learning_18vs19,73.30%,75.50%,74.40%,machine_learning.csv,
+Deep networks_18vs19,70.50%,85.20%,77.10%,results_deep.csv,
+XG_Boost_18vs19,50.62%,87.18%,64.05%,Xgboost3.csv,v5
+XG_Boost_split_data,80.20%,96.84%,87.72%,Xgboost4.csv,v4
